@@ -1,0 +1,10 @@
+title: Dan Schulz
+email: danschulz44@gmail.com
+description: Dan's site
+url: "https://danschlz.github.io"
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
