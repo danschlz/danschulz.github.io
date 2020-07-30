@@ -1,18 +1,16 @@
 ---
 layout: post
-title:	One
+title:	Youtube channels
 date:	2020-07-28
 author:	Dan
-description: First post
+description: YouTube channels
 ogimage: opengraphimage.jpeg
 
 ---
 
-## Youtube channels
+## YouTube channels
 
 Video is more efficient than text, but (1) it’s hard to make a good video and (2) it’s only been around for a few generations. Here’s what I watch on YouTube:
-
-
 
 *   [Kurzgesagt — In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
 *   [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
