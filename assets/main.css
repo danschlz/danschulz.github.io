@@ -20,7 +20,7 @@ img {
 }
 
 a {
-  color: #ff672f
+  color: #ff672f;
   /* color: #039be5;*/
   /* color:#FF662E; */
   text-decoration: none;
@@ -67,8 +67,8 @@ ol {
 }
 
 li {
-  margin-top: 0.5em;
-  margin-bottom: 0.66em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
 }
 
 hr {
