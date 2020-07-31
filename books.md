@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-## Economics
+**Economics**
 - Schumpeter, _Capitalism, Socialism, and Democracy_
 - Davidson, _The Sovereign Individual_
 - Heilbroner, _The Worldly Philosophers_
@@ -13,7 +13,7 @@ permalink: /books/
 - Cowen, _The Complacent Class_
 - Studwell, _How Asia Works_
 
-## Fiction
+**Fiction**
 - Pessoa, _The Book of Disquiet_
 - Bolano, _2666_
 - Borges
@@ -43,7 +43,7 @@ permalink: /books/
 - Mishima, _Patriotism_
 - Liu, _The Three-Body Problem_
 
-## Politics
+**Politics**
 - Hirschman, _Exit, Voice, and Loyalty_
 - Bastiat
 	- _The Law_
@@ -56,13 +56,13 @@ permalink: /books/
 - Wriston, _The Twilight of Sovereignty_
 - Snow, _The Two Cultures_
 
-## History
+**History**
 - Durant, _The Lessons of History_
 - Hart, _Why Don't We Learn from History?_
 - Yergin, _The Prize_
 - Ward-Perkins, _The Fall of Rome_
 
-## Biography / Memoir
+**Biography / Memoir**
 - Zweig, _The World of Yesterday_
 - Caro
 	- _The Path to Power_
@@ -75,25 +75,25 @@ permalink: /books/
 - Soni, _A Mind at Play_
 - Thorp, _A Man for All Markets_
 
-## Biology / Anthropology
+**Biology / Anthropology**
 - Dawkins, _The Selfish Gene_
 - Henrich, _The Secret of Our Success_
 - Ridley, _The Red Queen_
 - Mukherjee, _The Gene_
 - Pinker, _The Blank Slate_
 
-## Silicon Valley
+**Silicon Valley**
 - Waldrop, _The Dream Machine_
 - Reid, _The Chip_
 - Kidder, _The Soul of a New Machine_
 - Berlin, _Troublemakers_
 
-## Science / Physics
+**Science / Physics**
 - Deutsch, _The Beginning of Infinity_
 - Feynman, _The Feynman Lectures on Physics_
 - Gleick, _The Information_
 
-## Philosophy
+**Philosophy**
 - Nietzsche
 	- _Twilight of the Idols_
     - _Ecce Homo_
@@ -108,7 +108,7 @@ permalink: /books/
 - Durant, _The Story of Philosophy_
 - Dennett, _Intution Pumps_
 
-## Ideas, Broadly
+**Ideas, Broadly**
 - Bayles, _Art and Fear_
 - Johnstone, _Impro_
 - Taleb, _Incerto_
@@ -118,19 +118,19 @@ permalink: /books/
 - Yudkowsky, _Inadequate Equilibria_
 - Thiel, _Zero to One_
 
-## Investing
+**Investing**
 - Graham, _The Intelligent Investor_
 - Marks, _The Most Important Thing_
 - Dalio, _Principles_
 - Feld, _Venture Deals_
 
-## Business History
+**Business History**
 - Burrough, _Barbarians at the Gate_
 - Morris, _The Tycoons_
 - Ferguson, _The Ascent of Money_
 - Thorndike, _The Outsiders_
 - Stone, _The Everything Store_
 
-## Writing
+**Writing**
 - McCloskey, _Economical Writing_
 - Strunk, _The Elements of Style_
