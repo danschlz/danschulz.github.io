@@ -7,9 +7,6 @@ description: YouTube channels
 ogimage: opengraphimage.jpeg
 
 ---
-
-## YouTube channels
-
 Video is more efficient than text, but (1) it’s hard to make a good video and (2) it’s only been around for a few generations. Here’s what I watch on YouTube:
 
 *   [Kurzgesagt — In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
