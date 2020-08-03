@@ -1,3 +1,13 @@
+---
+layout: post
+title:	Other reading lists
+date:	2020-08-01
+author:	Dan
+description: Other reading lists
+ogimage: opengraphimage.jpeg
+
+---
+
 * [Tyler Cowen: Whose entire body of work is worth reading?](http://marginalrevolution.com/marginalrevolution/2013/05/whose-entire-body-of-work-is-worth-reading.html)
 * [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
 * [Dan Wang](https://danwang.co/books/)
