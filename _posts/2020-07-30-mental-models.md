@@ -91,8 +91,8 @@ Which is more probable: Linda is a bank teller OR Linda is a bank teller and is 
 
 Given that "if A is true then that would cause B, C, and D to be true”
 
-*   _Deductive: _”A is true therefore we can deduce that B, C, and D are true".
-*   _Inductive: _"B, C, and D are observed to be true therefore A might be true". A is a reasonable explanation for B, C, and D being true.
+*   _Deductive:_ ”A is true therefore we can deduce that B, C, and D are true".
+*   _Inductive:_ "B, C, and D are observed to be true therefore A might be true". A is a reasonable explanation for B, C, and D being true.
 
 Inductive example
 
