@@ -1,4 +1,14 @@
-At one point in time I thought understanding human bias was one of the most important things you could study. I don't think that's true anymore. 
+---
+layout: post
+title:	Mental models
+date:	2020-07-30
+author:	Dan
+description: Mental models
+ogimage: opengraphimage.jpeg
+
+---
+
+At one point in time I thought understanding human bias was really important. A result of that was this list of mental models.
 
 **Occam’s Taser**
 
