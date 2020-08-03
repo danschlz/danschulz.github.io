@@ -8,7 +8,7 @@ ogimage: opengraphimage.jpeg
 
 ---
 
-At one point in time I thought understanding human bias was really important. A result of that was this list of mental models.
+At one point in time I thought understanding human bias was really important and made this list of mental models.
 
 **Occam’s Taser**
 
