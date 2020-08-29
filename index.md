@@ -2,7 +2,7 @@
 layout: home
 ---
 [About](/about/)  
-[Books](/books/)  
+[Bookshelf](/books/)  
 [Videos](/youtube/)  
 [Mental models](/mental-models/)  
 [Other reading lists](/other-reading-lists/)  
