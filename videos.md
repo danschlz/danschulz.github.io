@@ -1,10 +1,10 @@
 ---
 layout: page
-title:	Youtube channels
-permalink: /youtube/
+title:	Videos
+permalink: /videos/
 
 ---
-Video is more efficient than text, but (1) it’s hard to make a good video and (2) it’s only been around for a few generations. Here’s what I watch on YouTube:
+Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I do believe that video is a good way to learns things. The reason books and text is better is because there is so much more good content, and it's been around for hundreds of years.
 
 *   [Kurzgesagt — In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
 *   [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
