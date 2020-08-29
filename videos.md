@@ -4,7 +4,7 @@ title:	Videos
 permalink: /videos/
 
 ---
-Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I do believe that video is a good way to learns things. The reason books and text is better is because there is so much more good content, and it's been around for hundreds of years.
+Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thnk that video is a good way to learns things. The reason books and text is better is because there is so much more good content, and it's been around for hundreds of years.
 
 *   [Kurzgesagt — In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
 *   [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
