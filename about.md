@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-At some point in my life, I spent a significant amount of time thinking about these people and their ideas:
+At some point in my life, I thought a lot about these people and their ideas:
 
 * Peter Thiel ([Mimesis](http://www.imitatio.org/); [technological progress as a moral imperative](https://www.youtube.com/watch?v=PsXFwy6gG_4))
 * Richard Feynman ([Curiosity](https://www.youtube.com/watch?v=lmTmGLzPVyM); [sense of awe](https://www.youtube.com/watch?v=36GT2zI8lVA))
@@ -13,7 +13,7 @@ At some point in my life, I spent a significant amount of time thinking about th
 * Nassim Taleb ([Antifragility](https://en.wikipedia.org/wiki/Antifragility); [optionality](https://25iq.com/2013/10/13/a-dozen-things-ive-learned-from-nassim-taleb-about-optionalityinvesting/))
 * Naval Ravikant ([Autodidacticism](https://www.youtube.com/watch?v=dmBoU93TRlo); [life fulfillment](https://youtu.be/X7tnoR6a-8A))
 
-Online content is a miracle, and these are some of my favorite places to read:
+Online content is a miracle. I read these sites regularly:
 
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
 * [Slate Star Codex](http://slatestarcodex.com/) (Everything)
