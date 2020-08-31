@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books
+title: Recommended books
 permalink: /books/
 ---
 
