@@ -4,6 +4,8 @@ title: Recommended books
 permalink: /books/
 ---
 
+I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I log my favorites here for, and keep a larger log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+
 **Economics**
 - Schumpeter, _Capitalism, Socialism, and Democracy_
 - Davidson, _The Sovereign Individual_
