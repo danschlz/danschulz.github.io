@@ -4,7 +4,7 @@ title:	Videos
 permalink: /videos/
 
 ---
-Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think watching videos is a great way to learn things. Books are only better because they cover more surface area.
+Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think watching videos is a great way to learn. Books are only better because they cover more content.
 
 A few favorites:
 * [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
