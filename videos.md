@@ -6,6 +6,7 @@ permalink: /videos/
 ---
 Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think watching videos is a great way to learn things. Books are only better because they cover more surface area.
 
+A few favorites:
 * [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
 * [Alan Kay on Learning](https://www.youtube.com/watch?v=50L44hEtVos&list=FLR5OhzKy6ZkaNfkZnNrJObA)
 * [You Are Two: Split Brain Experiments](https://www.youtube.com/watch?v=wfYbgdo8e-8&list=FLR5OhzKy6ZkaNfkZnNrJObA)
@@ -16,7 +17,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 * [Robert Saplosky: Lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
 * [Peter Thiel debates whether death is an enemy](https://www.facebook.com/watch/live/?v=641005449680861&ref=watch_permalink) (This is Thiel at his best)
 
-
+These channels are consisently great:
 *   [Kurzgesagt — In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
 *   [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
 *   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)
