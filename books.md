@@ -4,7 +4,7 @@ title: Recommended books
 permalink: /books/
 ---
 
-I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a list of my own favorites here, and maintain a larger log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz). These days any bookshelf should also have space for video, and there's a short list of my favorites at the [bottom of this page](https://www.danschlz.com/books/#videos).
+I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a categorized list of my own favorites here, and maintain a larger log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz). These days any bookshelf must leave room for video, and there's a list of my favorites at the [bottom of this page](https://www.danschlz.com/books/#videos).
 
 **Economics**
 - Schumpeter, _Capitalism, Socialism, and Democracy_
@@ -139,9 +139,7 @@ I found many of the best books I've ever read on [other people's reading lists](
 
 ## Videos
 
-Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think videos are a great way to learn. 
-
-A few favorites:
+Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think videos are a great way to learn. A few favorites:
 * [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
 * [Alan Kay on Learning](https://www.youtube.com/watch?v=50L44hEtVos&list=FLR5OhzKy6ZkaNfkZnNrJObA)
 * [You Are Two: Split Brain Experiments](https://www.youtube.com/watch?v=wfYbgdo8e-8&list=FLR5OhzKy6ZkaNfkZnNrJObA)
@@ -168,3 +166,20 @@ Great YouTube channels:
 *   [Marginal Revolution University](https://www.youtube.com/user/MrUniversity/videos)
 *   [Charisma on Command](https://www.youtube.com/channel/UCU_W0oE_ock8bWKjALiGs8Q)
 *   [Thought Monkey](https://www.youtube.com/channel/UCoFWz1e3VXKOoJ-E5cep1Eg/videos)
+
+Movies:
+* 2001: A Space Odyssey
+* Mulholland Drive
+* Boyhood
+* Before Sunrise / Before Sunset / Before Midnight
+* The Tree of Life
+* YiYi
+* Eternal Sunshine of the Spotless Mind
+* Almost Famous
+* Lost in Translation
+* Caché
+* Oldboy
+* Blade Runner (both)
+* The Departed / Goodfellas / Casino
+* Pulp Fiction / Inglourious Basterds / Reservoir Dogs
+* The Dark Knight / Inception
