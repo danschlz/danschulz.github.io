@@ -137,7 +137,7 @@ I found many of the best books I've ever read on [other people's reading lists](
 - McCloskey, _Economical Writing_
 - Strunk, _The Elements of Style_
 
-## Videos
+### Videos
 
 Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think videos are a great way to learn. A few favorites:
 * [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
