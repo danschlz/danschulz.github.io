@@ -22,7 +22,7 @@ Sometimes I cringe at beliefs I've held in the past, and I think it's actually c
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
 * [Slate Star Codex](http://slatestarcodex.com/) (Everything)
 * [Tanner Greer](https://scholars-stage.blogspot.com/) (History / foreign policy / China)
-* [Random Critical Analysis](https://randomcriticalanalysis.com/) (Statistics)
+* [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
 * [Scott Sumner](https://themoneyillusion.com/) (Macroeconomics)
 * [Dan Wang](https://danwang.co/) (Economics)
 * [Ben Thompson](https://stratechery.com/) (Tech)
