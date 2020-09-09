@@ -4,7 +4,7 @@ title: Recommended books
 permalink: /books/
 ---
 
-I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a list of my own favorites here, and maintain a larger log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz). I also think the best videos belong on any bookshelf, and have a short list of my favorites at the [bottom of the page]((https://www.danschlz.com/books/#videos).
+I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a list of my own favorites here, and maintain a larger log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz). I also think the best videos belong on any bookshelf, and have a short list of my favorites at the [bottom of the page](https://www.danschlz.com/books/#videos).
 
 **Economics**
 - Schumpeter, _Capitalism, Socialism, and Democracy_
