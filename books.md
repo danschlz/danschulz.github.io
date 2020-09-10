@@ -86,7 +86,7 @@ Any good bookshelf should also include video, and I've added some at the [bottom
 - Chernow, _Titan, The Life of John D. Rockefeller_
 - Orwell, _Homage to Catalonia_
 - Coram, _Boyd_
-- Soni, _A Mind at Play_
+- Soni, _A Mind at Play: How Claude Shannon Invented the Information Age_
 - Thorp, _A Man for All Markets_
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
