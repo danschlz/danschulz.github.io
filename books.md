@@ -4,7 +4,7 @@ title: Recommended books
 permalink: /books/
 ---
 
-I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a categorized list of my own favorites here, and maintain a larger log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a categorized list of my own favorites here, and maintain a comprehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 Any good bookshelf should also include video, and I've added some at the [bottom of this page](https://www.danschlz.com/books/#videos).
 
