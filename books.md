@@ -12,10 +12,12 @@ Any good bookshelf should also include video, and I've added some at the [bottom
 - Schumpeter, _Capitalism, Socialism, and Democracy_
 - Davidson, _The Sovereign Individual_
 - Heilbroner, _The Worldly Philosophers_
+- Warsh, _Knowlege and the Wealth of Nations_
 - Haskel and Westlake, _Capitalism without Capital_
 - Cowen, _The Great Stagnation_
 - Cowen, _The Complacent Class_
 - Studwell, _How Asia Works_
+- Coyle, _GDP: A Brief but Affectionate History_
 
 **Fiction**
 - Pessoa, _The Book of Disquiet_
@@ -27,12 +29,17 @@ Any good bookshelf should also include video, and I've added some at the [bottom
 - Chiang
 	- _Stories of your Life and Others_
     - _Exhalation_
+- Ferrante, _The Neapolitan Novels_
 - Tolstoy, _Hadji Murat_
 - Chesterton, _The Man Who Was Thursday_
 - Houellebecq
 	- _Submission_
 	- _The Elementary Particles_
 - Lem, _Solaris_
+- Dick
+	- _Ubik_
+	- _Do Androids Dream of Electric Sheep?_
+	- _The Man in the High Castle_
 - DeLillo, _White Noise_
 - Yourcenar, _Memoirs of Hadrian_
 - Graves, _I, Claudius_
@@ -45,7 +52,10 @@ Any good bookshelf should also include video, and I've added some at the [bottom
 - Bulgakov, _The Master and Margarita_
 - Bacon, _The New Atlantis_
 - Mishima, _Patriotism_
-- Liu, _The Three-Body Problem_
+- Liu, _The Three-Body Problem_ 
+- Eco, _Foucault's Pendulum_
+- Mitchell, _Number9Dream_
+- Homer
 
 **Politics**
 - Hirschman, _Exit, Voice, and Loyalty_
@@ -78,6 +88,7 @@ Any good bookshelf should also include video, and I've added some at the [bottom
 - Coram, _Boyd_
 - Soni, _A Mind at Play_
 - Thorp, _A Man for All Markets_
+- Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
 **Biology / Anthropology**
 - Dawkins, _The Selfish Gene_
