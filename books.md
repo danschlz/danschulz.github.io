@@ -4,7 +4,9 @@ title: Recommended books
 permalink: /books/
 ---
 
-I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a categorized list of my own favorites here, and maintain a larger log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz). These days any good bookshelf must leave room for video, and there's a list of my favorites at the [bottom of this page](https://www.danschlz.com/books/#videos).
+I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a categorized list of my own favorites here, and maintain a larger log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+
+Any good bookshelf should also include video, and I've added some at the [bottom of this page](https://www.danschlz.com/books/#videos).
 
 **Economics**
 - Schumpeter, _Capitalism, Socialism, and Democracy_
@@ -159,6 +161,7 @@ Great YouTube channels:
 *   [Every Thiel Video](https://www.youtube.com/channel/UC3ObfUE2qbhzkC11v0WQtQg/videos)
 *   [Every Frame a Painting](https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A)
 *   [Thomas Flight](https://www.youtube.com/channel/UCUyvQV2JsICeLZP4c_h40kA)
+*   [Nerdwriter](https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg)
 *   [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg)
 *   [Dictionary of Obscure Sorrows](https://www.youtube.com/user/obscuresorrows/videos)
 *   [Better Than Food](https://www.youtube.com/user/booksbetterthanfood)
