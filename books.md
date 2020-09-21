@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Recommended books
+title: Bookshelf
 permalink: /books/
 ---
 
-I found many of the best books I've ever read on [other people's reading lists](/other-reading-lists/). I keep a categorized list of my own favorites here, and maintain a comprehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I love stumbling on [other people's reading lists](/other-reading-lists/), and this page a categorized list of my favorites. I also keep up a more comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
-Any good bookshelf should also include video, and I've added some at the [bottom of this page](https://www.danschlz.com/books/#videos).
+See also: [blogroll](/books/#sites); [videos](/books/#videos).
 
 **Economics**
 - Schumpeter, _Capitalism, Socialism, and Democracy_
@@ -150,6 +150,23 @@ Any good bookshelf should also include video, and I've added some at the [bottom
 - McCloskey, _Economical Writing_
 - Strunk, _The Elements of Style_
 
+### Sites
+
+* [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
+* [Slate Star Codex](http://slatestarcodex.com/) (Everything)
+* [Tanner Greer](https://scholars-stage.blogspot.com/) (History / foreign policy / China)
+* [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
+* [Scott Sumner](https://themoneyillusion.com/) (Macroeconomics)
+* [Dan Wang](https://danwang.co/) (Economics)
+* [Ben Thompson](https://stratechery.com/) (Tech)
+* [Benedict Evans](https://www.ben-evans.com/) (Tech)
+* [Matthew Ball](https://www.matthewball.vc/) (Media)
+* [Matt Levine](https://www.bloomberg.com/view/topics/money-stuff) (Finance)
+* [Lyall Taylor](https://lt3000.blogspot.com/) (Finance)
+* [Byrne Hobart](https://diff.substack.com/) (Tech / finance)
+* [Overcoming Bias](http://www.overcomingbias.com/) (Signaling)
+* More on [Pocket](https://getpocket.com/@danschulz44)
+
 ### Videos
 
 Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think videos are a great way to learn. A few favorites:
@@ -163,7 +180,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 * [Robert Saplosky: Lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
 * [Peter Thiel debates whether death is an enemy](https://www.facebook.com/watch/live/?v=641005449680861&ref=watch_permalink) (This is Thiel at his best)
 
-Great YouTube channels:
+Best YouTube channels:
 *   [Kurzgesagt — In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
 *   [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
 *   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)
@@ -188,12 +205,14 @@ Movies:
 * Before Sunrise / Before Sunset / Before Midnight
 * The Tree of Life
 * YiYi
-* Eternal Sunshine of the Spotless Mind
+* Eternal Sunshine of the Spotless Mind / Being John Malkovich
+* Winter Sleep
 * Almost Famous
 * Lost in Translation
-* Caché
+* Caché / Amour
 * Oldboy
 * Blade Runner (both)
 * The Departed / Goodfellas / Casino
 * Pulp Fiction / Inglourious Basterds / Reservoir Dogs
 * The Dark Knight / Inception
+* More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
