@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-* [About](/about/)  
-* [Bookshelf](/books/)  
+[About](/about/)  
+[Bookshelf](/books/)  
 
