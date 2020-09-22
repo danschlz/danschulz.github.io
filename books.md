@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /books/
 ---
 
-I love stumbling on [other people's reading lists](/other-reading-lists/), and this page is a categorized list of my own favorites. I also keep a more comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I love stumbling on [other people's reading lists](/books/other-reading-lists/), and this page is a categorized list of my own favorites. I also keep a more comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 See also: [blogroll](/books/#sites); [videos](/books/#videos).
 
