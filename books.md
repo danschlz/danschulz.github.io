@@ -218,7 +218,6 @@ Movies:
 * More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
 
 ### Other reading lists
-<a name="other-reading-lists></a>
 
 * [Tyler Cowen: Whose entire body of work is worth reading?](http://marginalrevolution.com/marginalrevolution/2013/05/whose-entire-body-of-work-is-worth-reading.html)
 * [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
