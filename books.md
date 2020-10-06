@@ -178,7 +178,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 * [Alan Ko: Lectures on Finance Theory](https://www.youtube.com/watch?v=HdHlfiOAJyE&list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW)
 * [Jackie Chan: How to Do Action Comedy](https://www.youtube.com/watch?v=Z1PCtIaM_GQ)
 * [Robert Saplosky: Lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
-* [Peter Thiel debates whether death is an enemy](https://www.facebook.com/watch/live/?v=641005449680861&ref=watch_permalink) (This is Thiel at his best)
+* [Peter Thiel Debates: Should Technology Treat Death as an Enemy?](https://www.youtube.com/watch?v=iNDYvf6-NMw) (This is Thiel at his best)
 
 Best YouTube channels:
 *   [Kurzgesagt — In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
