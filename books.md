@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /books/
 ---
 
-I love stumbling on [other people's reading lists](/books/#other-reading-lists/), and this page is a categorized list of my own favorites. I also keep a more comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I love stumbling on [other people's reading lists](/books/#elsewhere/), and this page is a categorized list of my own favorites. I also keep a more comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 See also: [blogroll](/books/#sites); [videos](/books/#videos).
 
@@ -217,7 +217,9 @@ Movies:
 * The Dark Knight / Inception
 * More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
 
-### Other reading lists
+### Elsewhere
+
+Other reading lists:
 
 * [Tyler Cowen: Whose entire body of work is worth reading?](http://marginalrevolution.com/marginalrevolution/2013/05/whose-entire-body-of-work-is-worth-reading.html)
 * [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
