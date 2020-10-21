@@ -6,7 +6,7 @@ permalink: /about/
 
 Sometimes I cringe at beliefs I've held in the past, and I find it both comforting and important to know [this will continue](https://en.wikipedia.org/wiki/End-of-history_illusion). The idea that the "end of history" is an illusion—that the world and the people in it will all be much different tomorrow—is omnipotent.
 
-At some point in my life I gave a lot of thought to these people and their ideas:
+At some point in my life, I gave a lot of thought to these people and their ideas:
 
 * Peter Thiel ([Mimesis](http://www.imitatio.org/); [technological progress as a moral imperative](https://www.youtube.com/watch?v=PsXFwy6gG_4))
 * Richard Feynman ([Curiosity](https://www.youtube.com/watch?v=lmTmGLzPVyM); [sense of awe](https://www.youtube.com/watch?v=36GT2zI8lVA))
@@ -16,7 +16,7 @@ At some point in my life I gave a lot of thought to these people and their ideas
 * Naval Ravikant ([Autodidacticism](https://www.youtube.com/watch?v=dmBoU93TRlo); [life fulfillment](https://youtu.be/X7tnoR6a-8A))
 
 
-There are two quotes that I think about year after year. The first explains how our world works, and the second shows you how to live in it.
+There are two quotes that have stuck with me for years. The first reveals how our world works; the second shows us how to live in it.
 
 Karl Ove Knausgaard, in Book Six of his series _My Struggle_:
 > Charisma is one of the two great transcendental forces in the social world: beauty is the other.  They are forces seldom talked about, since both issue from the individual, neither may be learned or acquired, and in a democracy, where everyone is meant to be considered equal and where all relationships are meant to be just, such properties cannot be accorded value, though all of us are aware of them and of how much they mean…beauty eclipses everything, bedims all else, it is what we see first and what we consciously or unconsciously seek.  Yet this phenomenon is shrouded in silence…driving it out instead by our social mechanisms of expulsion, calling it stupid, immature, or unsophisticated, perhaps even primitive, at the same time as we allow it to flourish in the commercial domain, where it quietly surrounds us whichever way we turn…
