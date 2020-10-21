@@ -21,7 +21,7 @@ There are two quotes that have stuck with me for years. The first reveals how ou
 Karl Ove Knausgaard, in Book Six of his series _My Struggle_:
 > Charisma is one of the two great transcendental forces in the social world: beauty is the other.  They are forces seldom talked about, since both issue from the individual, neither may be learned or acquired, and in a democracy, where everyone is meant to be considered equal and where all relationships are meant to be just, such properties cannot be accorded value, though all of us are aware of them and of how much they mean…beauty eclipses everything, bedims all else, it is what we see first and what we consciously or unconsciously seek.  Yet this phenomenon is shrouded in silence…driving it out instead by our social mechanisms of expulsion, calling it stupid, immature, or unsophisticated, perhaps even primitive, at the same time as we allow it to flourish in the commercial domain, where it quietly surrounds us whichever way we turn…
 
-Ayn Rand, writing to a fan in 1960[^1]:
+Ayn Rand, writing to a fan in 1960:[^1]
 > You ask me about the meaning of the dialogue on page 702 of Atlas Shrugged:  
 > 
 > "'We never had to take any of it seriously, did we?" she whispered. "'No, we never had to.'"  
