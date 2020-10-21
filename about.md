@@ -21,7 +21,7 @@ There are two quotes that I think about year after year. The first explains how 
 Karl Ove Knausgaard, in Book Six of his series _My Struggle_:
 > Charisma is one of the two great transcendental forces in the social world: beauty is the other.  They are forces seldom talked about, since both issue from the individual, neither may be learned or acquired, and in a democracy, where everyone is meant to be considered equal and where all relationships are meant to be just, such properties cannot be accorded value, though all of us are aware of them and of how much they mean…beauty eclipses everything, bedims all else, it is what we see first and what we consciously or unconsciously seek.  Yet this phenomenon is shrouded in silence…driving it out instead by our social mechanisms of expulsion, calling it stupid, immature, or unsophisticated, perhaps even primitive, at the same time as we allow it to flourish in the commercial domain, where it quietly surrounds us whichever way we turn…
 
-Ayn Rand, writing to a fan in 1960 ([remember](https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-killer)):
+Ayn Rand, writing to a fan in 1960[^1] ([remember](https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-killer)):
 > You ask me about the meaning of the dialogue on page 702 of Atlas Shrugged:  
 > 
 > "'We never had to take any of it seriously, did we?" she whispered. "'No, we never had to.'"  
@@ -33,3 +33,5 @@ Ayn Rand, writing to a fan in 1960 ([remember](https://www.lesswrong.com/posts/9
 > It is the difference between those who think that man's life is important and that happiness is possible—and those who think that man's life, by its very nature, is a hopeless, senseless tragedy and that man is a depraved creature doomed to despair and defeat. It is the difference between those whose basic motive is the desire to achieve values, to experience joy—and those whose basic motive is the desire to escape from pain, to experience a momentary relief from their chronic anxiety and guilt.  
 > 
 > It is a matter of one's fundamental, overall attitude toward life—not of any one specific event. So you see that your interpretation was too specific and too narrow; besides, the Looters' World had never meant anything to Dagny and she had realized its "sham and hypocrisy" long before. What she felt, in that particular moment, was the confirmation of her conviction that an ideal man and an ideal form of existence are possible.
+
+[^1]: https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-killer
