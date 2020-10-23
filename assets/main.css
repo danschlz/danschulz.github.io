@@ -7,7 +7,6 @@ body {
   padding: 2rem;
   margin: auto;
   background: #fafafa; 
-  float: left;
 }
 
 header {
@@ -22,8 +21,6 @@ img {
 
 a {
   color: #ff672f;
-  /* color: #039be5;*/
-  /* color:#FF662E; */
   text-decoration: none;
 }
 
