@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /books/
 ---
 
-I love stumbling on [other people's reading lists](/books/#elsewhere), and this page is a categorized list of my own favorites. I also keep a more comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I love stumbling on [other people's reading lists](/books/#elsewhere), and this page is a categorized list of my own favorites. I also keep a comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 See also: [blogroll](/books/#sites); [videos](/books/#videos).
 
@@ -16,97 +16,22 @@ See also: [blogroll](/books/#sites); [videos](/books/#videos).
 - Haskel and Westlake, _Capitalism without Capital_
 - Cowen, _The Great Stagnation_
 - Cowen, _The Complacent Class_
-- Studwell, _How Asia Works_
 - Coyle, _GDP: A Brief but Affectionate History_
-
-**Fiction**
-- Pessoa, _The Book of Disquiet_
-- Bolano, _2666_
-- Borges
-	- _Ficciones_
-	- _The Aleph and Other Stories_
-- Pynchon, *V.*
-- Chiang
-	- _Stories of your Life and Others_
-    - _Exhalation_
-- Ferrante, _The Neapolitan Novels_
-- Tolstoy, _Hadji Murat_
-- Chesterton, _The Man Who Was Thursday_
-- Houellebecq
-	- _Submission_
-	- _The Elementary Particles_
-- Lem, _Solaris_
-- Dick
-	- _Ubik_
-	- _Do Androids Dream of Electric Sheep?_
-	- _The Man in the High Castle_
-- DeLillo, _White Noise_
-- Yourcenar, _Memoirs of Hadrian_
-- Graves, _I, Claudius_
-- Maugham, _The Razor's Edge_
-- Casares, _The Invention of Morel_
-- Conrad, _Heart of Darkness_
-- Calvino, _Invisible Cities_
-- Abbott, _Flatland_
-- Stendhal, _The Red and the Black_
-- Bulgakov, _The Master and Margarita_
-- Bacon, _The New Atlantis_
-- Mishima, _Patriotism_
-- Liu, _The Three-Body Problem_ 
-- Eco, _Foucault's Pendulum_
-- Mitchell, _Number9Dream_
-- Homer
-
-**Politics**
-- Hirschman, _Exit, Voice, and Loyalty_
-- Bastiat
-	- _The Law_
-	- _That Which Is Seen, and That Which Is Not Seen_
-- Caplan, _The Myth of the Rational Voter_
-- Kling, _The Three Languages of Politics_
-- Gurri, _The Revolt of the Public_
-- Hayek, _The Road to Serfdom_
-- Rothbard, _Anatomy of the State_
-- Wriston, _The Twilight of Sovereignty_
-- Snow, _The Two Cultures_
-
-**History**
-- Durant, _The Lessons of History_
-- Hart, _Why Don't We Learn from History?_
-- Yergin, _The Prize_
-- Ward-Perkins, _The Fall of Rome_
-
-**Biography / Memoir**
-- Zweig, _The World of Yesterday_
-- Caro
-	- _The Path to Power_
-    - _Means of Ascent_
-- Roberts, _Napoleon: A Life_
-- Goldsworthy, _Caesar: Life of a Colossus_
-- Chernow, _Titan, The Life of John D. Rockefeller_
-- Orwell, _Homage to Catalonia_
-- Coram, _Boyd_
-- Soni, _A Mind at Play: How Claude Shannon Invented the Information Age_
-- Thorp, _A Man for All Markets_
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
-**Biology / Anthropology**
-- Dawkins, _The Selfish Gene_
-- Henrich, _The Secret of Our Success_
-- Ridley, _The Red Queen_
-- Mukherjee, _The Gene_
-- Pinker, _The Blank Slate_
-
-**Silicon Valley**
-- Waldrop, _The Dream Machine_
-- Reid, _The Chip_
-- Kidder, _The Soul of a New Machine_
-- Berlin, _Troublemakers_
-
-**Science / Physics**
-- Deutsch, _The Beginning of Infinity_
-- Feynman, _The Feynman Lectures on Physics_
-- Gleick, _The Information_
+**History**
+- Gibbon, _The History of the Decline and Fall of the Roman Empire_
+- Ward-Perkins, _The Fall of Rome_
+- Caesar, _The Civil War_
+- Goldsworthy, _Caesar: Life of a Colossus_
+- Roberts, _Napoleon: A Life_
+- Perlstein, _Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
+- Caro
+	- _The Path to Power_
+	- _Means of Ascent_
+- Yergin, _The Prize_
+- Durant, _The Lessons of History_
+- Hart, _Why Don't We Learn from History?_
 
 **Philosophy**
 - Nietzsche
@@ -123,6 +48,103 @@ See also: [blogroll](/books/#sites); [videos](/books/#videos).
 - Durant, _The Story of Philosophy_
 - Dennett, _Intution Pumps_
 
+**Biography / Memoir**
+- Zweig, _The World of Yesterday_
+- Orwell, _Homage to Catalonia_
+- Coram, _Boyd_
+
+**Silicon Valley**
+- Waldrop, _The Dream Machine_
+- Reid, _The Chip_
+- Kidder, _The Soul of a New Machine_
+- Berlin, _Troublemakers_
+- Soni, _A Mind at Play: How Claude Shannon Invented the Information Age_
+- Stross, _eBoys: The First Inside Account of Venture Capitalists at Work_
+
+**Business History**
+- Chernow, _Titan, The Life of John D. Rockefeller_
+- Burrough, _Barbarians at the Gate_
+- Morris, _The Tycoons_
+- Ferguson, _The Ascent of Money_
+- Thorndike Jr., _The Outsiders_
+- Stone, _The Everything Store_
+- Thorp, _A Man for All Markets_
+
+**Fiction**
+- Pessoa, _The Book of Disquiet_
+- Bolano, _2666_
+- Borges
+	- _Ficciones_
+	- _The Aleph and Other Stories_
+- Pynchon, *V.*
+- Ferrante, _The Neapolitan Novels_
+- Tolstoy, _Hadji Murat_
+- Chesterton, _The Man Who Was Thursday_
+- Houellebecq
+	- _Submission_
+	- _The Elementary Particles_
+- Murakami, _Hard-Boiled Wonderland and the End of the World_
+- DeLillo, _White Noise_
+- Yourcenar, _Memoirs of Hadrian_
+- Graves, _I, Claudius_
+- Maugham, _The Razor's Edge_
+- Casares, _The Invention of Morel_
+- Conrad, _Heart of Darkness_
+- Calvino, _Invisible Cities_
+- Abbott, _Flatland_
+- Stendhal, _The Red and the Black_
+- Bulgakov, _The Master and Margarita_
+- Bacon, _The New Atlantis_
+- Mishima, _Patriotism_
+- Eco, _Foucault's Pendulum_
+- Mitchell, _Number9Dream_
+- Nabokov, _Lolita_
+- Homer
+
+**Science Fiction**
+- Chiang
+	- _Stories of your Life and Others_
+	- _Exhalation_
+- Liu, _The Three-Body Problem_
+- Stephenson, _Snow Crash_
+- Lem, _Solaris_
+- Dick
+	- _Ubik_
+	- _Do Androids Dream of Electric Sheep?_
+	- _The Man in the High Castle_
+
+**China**
+- Bougon, _Inside the Mind of Xi Jinping_
+- McGregor, _The Party: The Secret World of China's Communist Rulers_
+- Kroeber, _China's Economy: What Everyone Needs to Know_
+- Lovell, _Maoism: A Global History_
+- Studwell, _How Asia Works_
+
+**Biology / Anthropology**
+- Henrich, _The Secret of Our Success_
+- Dawkins, _The Selfish Gene_
+- Ridley, _The Red Queen_
+- Mukherjee, _The Gene_
+- Pinker, _The Blank Slate_
+
+**Science / Physics**
+- Deutsch, _The Beginning of Infinity_
+- Feynman, _The Feynman Lectures on Physics_
+- Gleick, _The Information_
+
+**Politics / Sociology**
+- Hirschman, _Exit, Voice, and Loyalty_
+- Bastiat
+	- _The Law_
+	- _That Which Is Seen, and That Which Is Not Seen_
+- Caplan, _The Myth of the Rational Voter_
+- Kling, _The Three Languages of Politics_
+- Gurri, _The Revolt of the Public_
+- Hayek, _The Road to Serfdom_
+- Rothbard, _Anatomy of the State_
+- Wriston, _The Twilight of Sovereignty_
+- Snow, _The Two Cultures_
+
 **Ideas, Broadly**
 - Bayles, _Art and Fear_
 - Johnstone, _Impro_
@@ -138,13 +160,6 @@ See also: [blogroll](/books/#sites); [videos](/books/#videos).
 - Marks, _The Most Important Thing_
 - Dalio, _Principles_
 - Feld, _Venture Deals_
-
-**Business History**
-- Burrough, _Barbarians at the Gate_
-- Morris, _The Tycoons_
-- Ferguson, _The Ascent of Money_
-- Thorndike, _The Outsiders_
-- Stone, _The Everything Store_
 
 **Writing**
 - McCloskey, _Economical Writing_
