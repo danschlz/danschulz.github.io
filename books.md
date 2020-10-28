@@ -172,7 +172,7 @@ See also: [blogroll](/books/#sites); [videos](/books/#videos).
 * [Fantastic Anachronism](https://fantasticanachronism.com/) (Everything)
 * [Tanner Greer](https://scholars-stage.blogspot.com/) (History / Foreign Policy / China)
 * [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & Efect)
-* [Dormin](Books reviews & more)
+* [Dormin](https://dormin.org/) (Books reviews & more)
 * [Scott Sumner](https://themoneyillusion.com/) (Economics)
 * [Lyn Alden](https://www.lynalden.com/) (Economics)
 * [Dan Wang](https://danwang.co/) (Economics)
