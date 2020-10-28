@@ -171,7 +171,7 @@ See also: [blogroll](/books/#sites); [videos](/books/#videos).
 * [Slate Star Codex](http://slatestarcodex.com/) (Everything)
 * [Fantastic Anachronism](https://fantasticanachronism.com/) (Everything)
 * [Tanner Greer](https://scholars-stage.blogspot.com/) (History / Foreign Policy / China)
-* [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & Efect)
+* [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
 * [Dormin](https://dormin.org/) (Books reviews & more)
 * [Scott Sumner](https://themoneyillusion.com/) (Economics)
 * [Lyn Alden](https://www.lynalden.com/) (Economics)
