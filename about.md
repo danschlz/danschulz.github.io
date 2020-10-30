@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Sometimes I cringe at beliefs I've held in the past, and I find it both comforting and important to know [this will continue](https://en.wikipedia.org/wiki/End-of-history_illusion). The idea that the "end of history" is an illusion—that the world and the people in it will all be much different tomorrow—is omnipotent.
+Sometimes I cringe at beliefs I've held in the past, but I find it comforting to know [this will continue](https://en.wikipedia.org/wiki/End-of-history_illusion). The idea is that the "end of history" is an illusion—that the world and the people in it will all be much different tomorrow—is beautiful.
 
 At some point in my life, I gave a lot of thought to these people and their ideas:
 
