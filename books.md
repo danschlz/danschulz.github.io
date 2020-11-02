@@ -19,13 +19,13 @@ Jump to:
 * [Biology / Anthropology](#biology)
 * [Science / Physics](#science)
 * [Politics / Sociology](#politics)
-* [Ideas, braodly](#ideas)
+* [Ideas, broadly](#ideas)
 * [Investing](#investing)
 * [Writing](#writing)
 * [Blogroll](#web)
 * [Other reading lists](#otherlists)
 * [Videos](#videos)
-* [YouTube Channels)](#youtube)
+* [YouTube Channels](#youtube)
 * [Movies](#movies)
 
 **Economics** <a name="economics"></a>
