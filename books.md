@@ -4,9 +4,9 @@ title: Bookshelf
 permalink: /books/
 ---
 
-I love stumbling on [other people's reading lists](/books/#elsewhere), and this page is a categorized list of my own favorites. I also keep a comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I love stumbling on [other people's reading lists](#otherlists), and this page is a categorized list of my own favorites. I also keep a comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
-See also: [blogroll](/books/#sites); [videos](/books/#videos).
+Jump to: [blogroll](#sites); [videos](#videos).
 
 **Economics**
 - Schumpeter, _Capitalism, Socialism, and Democracy_
@@ -165,7 +165,7 @@ See also: [blogroll](/books/#sites); [videos](/books/#videos).
 - McCloskey, _Economical Writing_
 - Strunk, _The Elements of Style_
 
-### Sites
+### <a name="web"></a>On the web
 
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
 * [Slate Star Codex](http://slatestarcodex.com/) (Everything)
@@ -184,6 +184,23 @@ See also: [blogroll](/books/#sites); [videos](/books/#videos).
 * [Byrne Hobart](https://diff.substack.com/) (Tech / Finance)
 * [Overcoming Bias](http://www.overcomingbias.com/) (Rationality)
 * More on [Pocket](https://getpocket.com/@danschulz44)
+
+### <a name="otherlists"></a>Other reading lists
+
+* [Tyler Cowen: Whose entire body of work is worth reading?](http://marginalrevolution.com/marginalrevolution/2013/05/whose-entire-body-of-work-is-worth-reading.html)
+* [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
+* [Dan Wang](https://danwang.co/books/)
+* [Jsomers](http://jsomers.net/#books)
+* [Brian Eno](https://www.brainpickings.org/2014/03/03/brian-eno-reading-list/)
+* [Stewart Brand](https://www.brainpickings.org/2014/03/07/stewart-brand-reading-list/)
+* [Patrick Collison](https://patrickcollison.com/bookshelf)
+* [Kevin Simler](http://www.meltingasphalt.com/what-im-reading/)
+* [Venkatesh Rao](https://www.ribbonfarm.com/now-reading/)
+* [David Chapman](https://meaningness.com/subcultures/comments#comment-1078)
+* [Zhurnal](http://zhurnaly.com/cgi-bin/wiki/BooksToConsider)
+* [Taleb’s Amazon reviews](https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_srp_d_pdp?ie=UTF8)
+* [Le Monde’s 100 books of the century](https://en.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century)
+* [r/SecurityAnalysis finance books](https://www.reddit.com/r/SecurityAnalysis/comments/239qj8/updated_reading_list/)
 
 ### Videos
 
@@ -234,22 +251,3 @@ Movies:
 * Pulp Fiction / Inglourious Basterds / Reservoir Dogs
 * The Dark Knight / Inception
 * More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
-
-### Elsewhere
-
-Other reading lists:
-
-* [Tyler Cowen: Whose entire body of work is worth reading?](http://marginalrevolution.com/marginalrevolution/2013/05/whose-entire-body-of-work-is-worth-reading.html)
-* [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
-* [Dan Wang](https://danwang.co/books/)
-* [Jsomers](http://jsomers.net/#books)
-* [Brian Eno](https://www.brainpickings.org/2014/03/03/brian-eno-reading-list/)
-* [Stewart Brand](https://www.brainpickings.org/2014/03/07/stewart-brand-reading-list/)
-* [Patrick Collison](https://patrickcollison.com/bookshelf)
-* [Kevin Simler](http://www.meltingasphalt.com/what-im-reading/)
-* [Venkatesh Rao](https://www.ribbonfarm.com/now-reading/)
-* [David Chapman](https://meaningness.com/subcultures/comments#comment-1078)
-* [Zhurnal](http://zhurnaly.com/cgi-bin/wiki/BooksToConsider)
-* [Taleb’s Amazon reviews](https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_srp_d_pdp?ie=UTF8)
-* [Le Monde’s 100 books of the century](https://en.wikipedia.org/wiki/Le_Monde%27s_100_Books_of_the_Century)
-* [r/SecurityAnalysis finance books](https://www.reddit.com/r/SecurityAnalysis/comments/239qj8/updated_reading_list/)
