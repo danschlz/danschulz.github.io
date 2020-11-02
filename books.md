@@ -6,9 +6,29 @@ permalink: /books/
 
 I love stumbling on [other people's reading lists](#otherlists), and this page is a categorized list of my own favorites. I also keep a comperehensive log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
-Jump to: [blogroll](#sites); [videos](#videos).
+Jump to:
+* [Economics](#economics)
+* [History](#history)
+* [Philosophy](#philosophy)
+* [Biography / Memoir](#biography)
+* [Silicon Valley](#svalley)
+* [Business History](#bhistory)
+* [Fiction](#fiction)
+* [Science Fiction](#scifi)
+* [China](#china)
+* [Biology / Anthropology](#biology)
+* [Science / Physics](#science)
+* [Politics / Sociology](#politics)
+* [Ideas, braodly](#ideas)
+* [Investing](#investing)
+* [Writing](#writing)
+* [Blogroll](#web)
+* [Other reading lists](#otherlists)
+* [Videos](#videos)
+* [YouTube Channels)](#youtube)
+* [Movies](#movies)
 
-**Economics**
+**Economics** <a name="economics"></a>
 - Schumpeter, _Capitalism, Socialism, and Democracy_
 - Davidson, _The Sovereign Individual_
 - Heilbroner, _The Worldly Philosophers_
@@ -19,7 +39,7 @@ Jump to: [blogroll](#sites); [videos](#videos).
 - Coyle, _GDP: A Brief but Affectionate History_
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
-**History**
+**History** <a name="history"></a>
 - Gibbon, _The History of the Decline and Fall of the Roman Empire_
 - Ward-Perkins, _The Fall of Rome_
 - Caesar, _The Civil War_
@@ -33,7 +53,7 @@ Jump to: [blogroll](#sites); [videos](#videos).
 - Durant, _The Lessons of History_
 - Hart, _Why Don't We Learn from History?_
 
-**Philosophy**
+**Philosophy** <a name="philosophy"></a>
 - Nietzsche
 	- _Twilight of the Idols_
     - _Ecce Homo_
@@ -48,12 +68,12 @@ Jump to: [blogroll](#sites); [videos](#videos).
 - Durant, _The Story of Philosophy_
 - Dennett, _Intution Pumps_
 
-**Biography / Memoir**
+**Biography / Memoir** <a name="biography"></a>
 - Zweig, _The World of Yesterday_
 - Orwell, _Homage to Catalonia_
 - Coram, _Boyd_
 
-**Silicon Valley**
+**Silicon Valley** <a name="svalley"></a>
 - Waldrop, _The Dream Machine_
 - Reid, _The Chip_
 - Kidder, _The Soul of a New Machine_
@@ -61,7 +81,7 @@ Jump to: [blogroll](#sites); [videos](#videos).
 - Soni, _A Mind at Play: How Claude Shannon Invented the Information Age_
 - Stross, _eBoys: The First Inside Account of Venture Capitalists at Work_
 
-**Business History**
+**Business History** <a name="bhistory"></a>
 - Chernow, _Titan, The Life of John D. Rockefeller_
 - Burrough, _Barbarians at the Gate_
 - Morris, _The Tycoons_
@@ -70,7 +90,7 @@ Jump to: [blogroll](#sites); [videos](#videos).
 - Stone, _The Everything Store_
 - Thorp, _A Man for All Markets_
 
-**Fiction**
+**Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
 - Bolano, _2666_
 - Borges
@@ -101,7 +121,7 @@ Jump to: [blogroll](#sites); [videos](#videos).
 - Nabokov, _Lolita_
 - Homer
 
-**Science Fiction**
+**Science Fiction** <a name="scifi"></a>
 - Chiang
 	- _Stories of your Life and Others_
 	- _Exhalation_
@@ -113,26 +133,26 @@ Jump to: [blogroll](#sites); [videos](#videos).
 	- _Do Androids Dream of Electric Sheep?_
 	- _The Man in the High Castle_
 
-**China**
+**China** <a name="china"></a>
 - Bougon, _Inside the Mind of Xi Jinping_
 - McGregor, _The Party: The Secret World of China's Communist Rulers_
 - Kroeber, _China's Economy: What Everyone Needs to Know_
 - Lovell, _Maoism: A Global History_
 - Studwell, _How Asia Works_
 
-**Biology / Anthropology**
+**Biology / Anthropology** <a name="biology"></a>
 - Henrich, _The Secret of Our Success_
 - Dawkins, _The Selfish Gene_
 - Ridley, _The Red Queen_
 - Mukherjee, _The Gene_
 - Pinker, _The Blank Slate_
 
-**Science / Physics**
+**Science / Physics** <a name="science"></a>
 - Deutsch, _The Beginning of Infinity_
 - Feynman, _The Feynman Lectures on Physics_
 - Gleick, _The Information_
 
-**Politics / Sociology**
+**Politics / Sociology** <a name="politics"></a>
 - Hirschman, _Exit, Voice, and Loyalty_
 - Bastiat
 	- _The Law_
@@ -145,7 +165,7 @@ Jump to: [blogroll](#sites); [videos](#videos).
 - Wriston, _The Twilight of Sovereignty_
 - Snow, _The Two Cultures_
 
-**Ideas, Broadly**
+**Ideas, Broadly** <a name="ideas"></a>
 - Bayles, _Art and Fear_
 - Johnstone, _Impro_
 - Taleb, _Incerto_
@@ -155,17 +175,17 @@ Jump to: [blogroll](#sites); [videos](#videos).
 - Yudkowsky, _Inadequate Equilibria_
 - Thiel, _Zero to One_
 
-**Investing**
+**Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
 - Marks, _The Most Important Thing_
 - Dalio, _Principles_
 - Feld, _Venture Deals_
 
-**Writing**
+**Writing** <a name="writing"></a>
 - McCloskey, _Economical Writing_
 - Strunk, _The Elements of Style_
 
-### <a name="web"></a>On the web
+### On the web <a name="web"></a>
 
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
 * [Slate Star Codex](http://slatestarcodex.com/) (Everything)
@@ -185,7 +205,7 @@ Jump to: [blogroll](#sites); [videos](#videos).
 * [Overcoming Bias](http://www.overcomingbias.com/) (Rationality)
 * More on [Pocket](https://getpocket.com/@danschulz44)
 
-### <a name="otherlists"></a>Other reading lists
+### Other reading lists <a name="otherlists"></a>
 
 * [Tyler Cowen: Whose entire body of work is worth reading?](http://marginalrevolution.com/marginalrevolution/2013/05/whose-entire-body-of-work-is-worth-reading.html)
 * [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
@@ -215,7 +235,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 * [Robert Saplosky: Lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
 * [Peter Thiel Debates: Should Technology Treat Death as an Enemy?](https://www.youtube.com/watch?v=iNDYvf6-NMw) (This is Thiel at his best)
 
-Best YouTube channels:
+### Best YouTube channels <a name="youtube"></a>
 *   [Kurzgesagt — In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos)
 *   [CGP Grey](https://www.youtube.com/user/CGPGrey/videos)
 *   [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)
@@ -233,7 +253,7 @@ Best YouTube channels:
 *   [Charisma on Command](https://www.youtube.com/channel/UCU_W0oE_ock8bWKjALiGs8Q)
 *   [Thought Monkey](https://www.youtube.com/channel/UCoFWz1e3VXKOoJ-E5cep1Eg/videos)
 
-Movies:
+### Movies
 * 2001: A Space Odyssey
 * Mulholland Drive
 * Boyhood
