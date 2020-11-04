@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Sometimes I cringe at beliefs I've held in the past; it's a good reminder that the [end of history](https://en.wikipedia.org/wiki/End-of-history_illusion) is an illusion, and that the world and the people in it will all be much different tomorrow.
+Sometimes I [cringe at beliefs I've held in the past]((https://en.wikipedia.org/wiki/End-of-history_illusion)); it's a good reminder that the world and the people in it will all be much different tomorrow.
 
 At some point in my life, I gave a lot of thought to these people and their ideas:
 
