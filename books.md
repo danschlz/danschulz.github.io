@@ -255,19 +255,21 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 
 ### Movies
 * 2001: A Space Odyssey
+* The Big Lebowski
 * Mulholland Drive
 * Boyhood
 * Before Sunrise / Before Sunset / Before Midnight
+* A Separation
+* Lost in Translation
 * The Tree of Life
 * YiYi
 * Eternal Sunshine of the Spotless Mind / Being John Malkovich
 * Winter Sleep
 * Almost Famous
-* Lost in Translation
 * Caché / Amour
 * Oldboy
 * Blade Runner (both)
-* The Departed / Goodfellas / Casino
-* Pulp Fiction / Inglourious Basterds / Reservoir Dogs
+* Goodfellas / Casino / The Departed
+* Pulp Fiction / Reservoir Dogs / Inglourious Basterds
 * The Dark Knight / Inception
 * More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
