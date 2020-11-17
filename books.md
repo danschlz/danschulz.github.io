@@ -190,6 +190,7 @@ Jump to:
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
 * [Slate Star Codex](http://slatestarcodex.com/) (Everything)
 * [Fantastic Anachronism](https://fantasticanachronism.com/) (Everything)
+* [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard) (Philosophy)
 * [Tanner Greer](https://scholars-stage.blogspot.com/) (History / Foreign Policy / China)
 * [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
 * [Dormin](https://dormin.org/) (Books reviews & more)
