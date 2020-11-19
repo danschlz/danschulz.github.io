@@ -261,6 +261,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 * Boyhood
 * Before Sunrise / Before Sunset / Before Midnight
 * A Separation
+* La Soufrière / Lessons of Darkness
 * Lost in Translation
 * The Tree of Life
 * YiYi
@@ -269,6 +270,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 * Almost Famous
 * Caché / Amour
 * Oldboy
+* Rear Window
 * Blade Runner (both)
 * Goodfellas / Casino / The Departed
 * Pulp Fiction / Reservoir Dogs / Inglourious Basterds
