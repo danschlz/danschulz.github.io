@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Ideas
+permalink: /ideas/
 ---
 At some point in my life, I gave a lot of thought to these people and their ideas:
 
