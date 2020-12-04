@@ -2,5 +2,6 @@
 layout: home
 ---
 [About](/about/)  
-[Bookshelf](/books/)  
+[Favorite books](/books/)  
+[Favorite movies and videos](/videos/)
 
