@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-My favorite:
+My favorite:  
 [Ideas](/ideas/)  
 [Books and links](/books/)  
 [Movies and videos](/videos/)
