@@ -22,6 +22,7 @@ Jump to:
 * [Ideas, broadly](#ideas)
 * [Investing](#investing)
 * [Writing](#writing)
+* [Links](#links)
 * [Blogroll](#web)
 * [Other reading lists](#otherlists)
 
@@ -182,7 +183,22 @@ Jump to:
 - McCloskey, _Economical Writing_
 - Strunk, _The Elements of Style_
 
-### On the web <a name="web"></a>
+### Links
+- [Profile of Raj Chetty in The Atlantic](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/)
+  - Chetty's work is the best way to understand of social mobility.
+- [Profile of Richard Posner in the New Yorker](https://www.newyorker.com/magazine/2001/12/10/the-bench-burner)
+  - Posner brouth an economic mindset to the legal profession.
+- [On Agnes Callard in the New Yorker](https://www.newyorker.com/magazine/2019/01/21/the-art-of-decision-making)
+  - Callard's conception of aspiration is an idea that's stuck with me for years.
+- [Scott Sumner, "What do we mean by meaning?"](https://www.themoneyillusion.com/what-do-we-mean-by-meaning/)
+  - Perhaps the answer to the meaning of life that I agree with most. "Art and great conversation."
+- [Paul Graham, "What Charisma Is"](http://www.paulgraham.com/recharisma.html)
+  - As Knausgaard observes, "Charisma is one of the two great transcendental forces in the social world: beauty is the other."
+- [Scott Alexander Reviews Whyte's "Hoover: An Extraordinary Life in Extraordinary Times](https://slatestarcodex.com/2020/03/17/book-review-hoover/)
+  - Take this description on Hoover's Wikipedia page, "Though he managed somewhat to rehabilitate his legacy, Hoover is still widely regarded as an inadequate U.S. president, and most polls of historians and political scientists rank him in the bottom third overall." Scott (through Whyte) shows that Hoover was actually quite extraordinary, and it's the perfect example of an underrated man in history.
+
+
+### Sites worth following<a name="web"></a>
 
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
 * [Slate Star Codex](http://slatestarcodex.com/) (Everything)
