@@ -198,7 +198,7 @@ Jump to:
   - "Around 1960, doubling times stopped decreasing. The economy kept growing. But now it grows at a flat rate. It shows no signs of reaching infinity; not soon, not ever. Just constant, boring 2% GDP growth for the rest of time. Why?"
 - [Scott Alexander Reviews Whyte's "Hoover: An Extraordinary Life in Extraordinary Times](https://slatestarcodex.com/2020/03/17/book-review-hoover/)
   - Take this description on Hoover's Wikipedia page, "Though he managed somewhat to rehabilitate his legacy, Hoover is still widely regarded as an inadequate U.S. president, and most polls of historians and political scientists rank him in the bottom third overall." Scott (through Whyte) shows that Hoover was actually quite extraordinary and is in fact underrated.
-- [Scott Alexander, "Archipelago and Atomic Communitarianism"](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism
+- [Scott Alexander, "Archipelago and Atomic Communitarianism"](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism)
   - "If people want to go do their own thing in a way that harms no one else, you let them. That’s the Archipelagian way."
 - [Scott Alexander, "How the West was won](https://slatestarcodex.com/2016/07/25/how-the-west-was-won/)
   - "My own value system might not be objectively the best, or even very good, but it’s my value system and I want to keep it and you can’t take it away from me. I am an individualist and I think of this on an individual level, but I could also see having this self-preservation-against-optimality urge for my community and its values."
