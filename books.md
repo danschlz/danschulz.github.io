@@ -22,7 +22,6 @@ Jump to:
 * [Ideas, broadly](#ideas)
 * [Investing](#investing)
 * [Writing](#writing)
-* [Blogroll](#web)
 * [Other reading lists](#otherlists)
 
 **Economics** <a name="economics"></a>
@@ -181,27 +180,6 @@ Jump to:
 **Writing** <a name="writing"></a>
 - McCloskey, _Economical Writing_
 - Strunk, _The Elements of Style_
-
-### Sites worth following<a name="web"></a>
-
-* [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
-* [Slate Star Codex](http://slatestarcodex.com/) (Everything)
-* [Fantastic Anachronism](https://fantasticanachronism.com/) (Everything)
-* [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard) (Philosophy)
-* [Tanner Greer](https://scholars-stage.blogspot.com/) (History / Foreign Policy / China)
-* [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
-* [Dormin](https://dormin.org/) (Books reviews & more)
-* [Scott Sumner](https://themoneyillusion.com/) (Economics)
-* [Lyn Alden](https://www.lynalden.com/) (Economics)
-* [Dan Wang](https://danwang.co/) (Economics)
-* [Ben Thompson](https://stratechery.com/) (Tech)
-* [Benedict Evans](https://www.ben-evans.com/) (Tech)
-* [Matthew Ball](https://www.matthewball.vc/) (Media)
-* [Matt Levine](https://www.bloomberg.com/view/topics/money-stuff) (Finance)
-* [Lyall Taylor](https://lt3000.blogspot.com/) (Finance)
-* [Byrne Hobart](https://diff.substack.com/) (Tech / Finance)
-* [Overcoming Bias](http://www.overcomingbias.com/) (Rationality)
-* More on [Pocket](https://getpocket.com/@danschulz44)
 
 ### Other reading lists <a name="otherlists"></a>
 
