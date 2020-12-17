@@ -4,6 +4,7 @@ layout: home
 Favorites  
 
 [Ideas](/ideas/)  
-[Books and links](/books/)  
+[Books](/books/)  
+[Links](/links/)  
 [Movies and videos](/videos/)
 
