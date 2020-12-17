@@ -1,3 +1,9 @@
+---
+layout: page
+title: Links
+permalink: /links/
+---
+
 Links I like.
 
 ### Sites<a name="web"></a>
