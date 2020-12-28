@@ -6,5 +6,6 @@ Favorites
 [Ideas](/ideas/)  
 [Books](/books/)  
 [Links](/links/)  
-[Movies and videos](/videos/)
+[Movies](/movies/)  
+[Videos](/videos/)
 
