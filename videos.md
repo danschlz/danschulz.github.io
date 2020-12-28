@@ -6,26 +6,6 @@ permalink: /videos/
 
 Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think video is an important medium and a great way to learn.
 
-### Movies
-* 2001: A Space Odyssey
-* The Big Lebowski
-* Rear Window / North by Northwest
-* Mulholland Drive
-* Boyhood
-* Before Sunrise / Before Sunset / Before Midnight
-* A Separation
-* La Soufrière / Lessons of Darkness
-* Lost in Translation
-* The Tree of Life
-* YiYi
-* Winter Sleep
-* Caché / Amour
-* Oldboy / The Handmaiden
-* Blade Runner (both)
-* Goodfellas / Casino / The Departed
-* Pulp Fiction / Reservoir Dogs / Inglourious Basterds
-* More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
-
 ### Videos
 * [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
 * [Alan Kay on Learning](https://www.youtube.com/watch?v=50L44hEtVos&list=FLR5OhzKy6ZkaNfkZnNrJObA)
@@ -33,8 +13,6 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 * [Raj Chetty: Improving Equality of Opporutnity](https://www.youtube.com/watch?v=ueY5MB5w7_I&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
 * [PBS Documentary on Napoleon](https://www.youtube.com/watch?v=MrbiSUgZEbg)
 * [Alan Ko: Lectures on Finance Theory](https://www.youtube.com/watch?v=HdHlfiOAJyE&list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW)
-* [Jackie Chan: How to Do Action Comedy](https://www.youtube.com/watch?v=Z1PCtIaM_GQ)
-* [Werner Herzog on why he Makes Films](https://youtu.be/PxfYDUVnHg4)
 * [Robert Saplosky: Lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
 * [Peter Thiel Debates: Should Technology Treat Death as an Enemy?](https://www.youtube.com/watch?v=iNDYvf6-NMw) (This is Thiel at his best)
 
