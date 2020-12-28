@@ -11,6 +11,7 @@ I took a more serious interest in movies during the 2020 pandemic. Here are some
 * Rear Window / North by Northwest
 * The Apartment
 * Woman in the Dunes
+* Memories of Murder / Parasite
 * Mulholland Drive
 * Before Sunrise / Before Sunset / Before Midnight / Boyhood
 * A Separation
