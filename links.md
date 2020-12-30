@@ -4,9 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-Links I like.
-
-### Sites<a name="web"></a>
+My favorite places to read on the internet.
 
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
 * [Slate Star Codex](http://slatestarcodex.com/) (Everything)
