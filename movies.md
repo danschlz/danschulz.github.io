@@ -6,7 +6,6 @@ permalink: /movies/
 
 I took a more serious interest in movies during the 2020 pandemic. Here are some of my favorites.
 
-### Movies
 * 2001: A Space Odyssey / Lolita / Eyes Wide Shut
 * Rear Window / North by Northwest
 * The Apartment
@@ -18,6 +17,7 @@ I took a more serious interest in movies during the 2020 pandemic. Here are some
 * La Soufrière / Lessons of Darkness
 * City of God
 * The Conversation
+* Big Night
 * Good Time / Uncut Gems
 * Hereditary
 * Lost in Translation
