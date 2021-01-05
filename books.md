@@ -102,7 +102,7 @@ Jump to:
 	- _The Elementary Particles_
 - Ferrante, _The Neapolitan Novels_
 - Mitchell, _Number9Dream_
-- Tolstoy, _Hadji Murat_
+- Sebald, _Austerlitz_
 - Chesterton, _The Man Who Was Thursday_
 - Murakami, _Hard-Boiled Wonderland and the End of the World_
 - Yourcenar, _Memoirs of Hadrian_
@@ -111,10 +111,13 @@ Jump to:
 - Casares, _The Invention of Morel_
 - Calvino, _Invisible Cities_
 - Stendhal, _The Red and the Black_
-- Bulgakov, _The Master and Margarita_
 - Mishima, _Patriotism_
 - Eco, _Foucault's Pendulum_
+- Woolf, _The Waves_
+- Chandler, _The Big Sleep_
 - Nabokov, _Lolita_
+- Tolstoy, _Hadji Murat_
+- Bulgakov, _The Master and Margarita_
 - Homer
 
 **Science Fiction** <a name="scifi"></a>
