@@ -21,6 +21,10 @@ img {
 
 a {
   color: #ff672f;
+  text-decoration: none;
+}
+
+a:hover {
   text-decoration: underline;
 }
 
