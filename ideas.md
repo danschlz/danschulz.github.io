@@ -11,6 +11,8 @@ At some point in my life, I gave a lot of thought to these people and their idea
 * Richard Feynman ([Curiosity](https://www.youtube.com/watch?v=lmTmGLzPVyM); [sense of awe](https://www.youtube.com/watch?v=36GT2zI8lVA))
 * Friedrich Hayek ([Cultural evolution](https://www.docdroid.net/n8mk5H9/the-three-sources-of-human-values-pdf); [the use of knowledge in society](http://www.econlib.org/library/Essays/hykKnw1.html))
 * Karl Popper ([Critical rationalism](https://en.wikipedia.org/wiki/Critical_rationalism); [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance))
+* Bryan Caplan ([The ideological turing test](https://www.econlib.org/archives/2011/06/the_ideological.html); [the beautiful bubble](https://www.econlib.org/archives/2012/03/my_beautiful_bu.html))
+* Robin Hanson ([Futarchy](http://mason.gmu.edu/~rhanson/futarchy.html); [homo hipocritus](https://www.overcomingbias.com/2010/03/homo-hipocritus.html))
 * Nassim Taleb ([Antifragility](https://en.wikipedia.org/wiki/Antifragility); [optionality](https://25iq.com/2013/10/13/a-dozen-things-ive-learned-from-nassim-taleb-about-optionalityinvesting/))
 * Naval Ravikant ([Autodidacticism](https://www.youtube.com/watch?v=dmBoU93TRlo); [life fulfillment](https://youtu.be/X7tnoR6a-8A))
 
