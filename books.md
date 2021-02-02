@@ -46,6 +46,7 @@ Jump to:
 	- _The Path to Power_
 	- _Means of Ascent_
 - Yergin, _The Prize_
+- Anderson, _Lawrence in Arabia_
 - Durant, _The Lessons of History_
 - Hart, _Why Don't We Learn from History?_
 
