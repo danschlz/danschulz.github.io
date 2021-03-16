@@ -15,6 +15,7 @@ Jump to:
 * [Business History](#bhistory)
 * [Fiction](#fiction)
 * [Science Fiction](#scifi)
+* [Space](#space)
 * [China](#china)
 * [Biology / Anthropology](#biology)
 * [Science / Physics](#science)
@@ -119,6 +120,7 @@ Jump to:
 - Nabokov, _Lolita_
 - Tolstoy, _Hadji Murat_
 - Bulgakov, _The Master and Margarita_
+- Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
 - Homer
 
 **Science Fiction** <a name="scifi"></a>
@@ -133,6 +135,10 @@ Jump to:
 	- _Do Androids Dream of Electric Sheep?_
 	- _The Man in the High Castle_
 
+**Space** <a name="space"></a>
+- Murray, _Apollo: The Race To The Moon_
+- Kurson, _Rocket Men_
+
 **China** <a name="china"></a>
 - Bougon, _Inside the Mind of Xi Jinping_
 - McGregor, _The Party: The Secret World of China's Communist Rulers_
@@ -142,6 +148,7 @@ Jump to:
 
 **Biology / Anthropology** <a name="biology"></a>
 - Henrich, _The Secret of Our Success_
+- Scott, _Against the Grain_
 - Dawkins, _The Selfish Gene_
 - Ridley, _The Red Queen_
 - Mukherjee, _The Gene_
