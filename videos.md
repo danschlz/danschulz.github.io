@@ -8,6 +8,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 
 ### Videos
 * [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
+* [Anarchism: Vignettes Against Hobbes](https://www.youtube.com/watch?v=wcMyJ3BgM1k)
 * [Alan Kay on Learning](https://www.youtube.com/watch?v=50L44hEtVos&list=FLR5OhzKy6ZkaNfkZnNrJObA)
 * [You Are Two: Split Brain Experiments](https://www.youtube.com/watch?v=wfYbgdo8e-8&list=FLR5OhzKy6ZkaNfkZnNrJObA)
 * [Raj Chetty: Improving Equality of Opporutnity](https://www.youtube.com/watch?v=ueY5MB5w7_I&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
