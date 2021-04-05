@@ -201,6 +201,7 @@ Jump to:
 * [Brian Eno](https://www.brainpickings.org/2014/03/03/brian-eno-reading-list/)
 * [Stewart Brand](https://www.brainpickings.org/2014/03/07/stewart-brand-reading-list/)
 * [Patrick Collison](https://patrickcollison.com/bookshelf)
+* [Jonathan Bi](https://johnathanbi.com/readinglist)
 * [Kevin Simler](http://www.meltingasphalt.com/what-im-reading/)
 * [Venkatesh Rao](https://www.ribbonfarm.com/now-reading/)
 * [David Chapman](https://meaningness.com/subcultures/comments#comment-1078)
