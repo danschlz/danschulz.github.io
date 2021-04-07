@@ -19,7 +19,7 @@ Jump to:
 * [China](#china)
 * [Biology / Anthropology](#biology)
 * [Science / Physics](#science)
-* [Politics / Sociology](#politics)
+* [Politics / Sociology / Foreign Policy](#politics)
 * [Ideas, broadly](#ideas)
 * [Investing](#investing)
 * [Writing](#writing)
