@@ -92,7 +92,9 @@ Jump to:
 
 **Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
-- Bolano, _2666_
+- Bolano
+	- _2666_
+	- _Distant Star_
 - Borges
 	- _Ficciones_
 	- _The Aleph and Other Stories_
@@ -159,7 +161,7 @@ Jump to:
 - Feynman, _The Feynman Lectures on Physics_
 - Gleick, _The Information_
 
-**Politics / Sociology** <a name="politics"></a>
+**Politics / Sociology / Foreign Policy** <a name="politics"></a>
 - Hirschman, _Exit, Voice, and Loyalty_
 - Bastiat
 	- _The Law_
@@ -171,6 +173,7 @@ Jump to:
 - Rothbard, _Anatomy of the State_
 - Wriston, _The Twilight of Sovereignty_
 - Snow, _The Two Cultures_
+- Zeihan, _The Accidental Superpower_
 
 **Ideas, Broadly** <a name="ideas"></a>
 - Bayles, _Art and Fear_
