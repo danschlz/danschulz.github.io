@@ -4,19 +4,22 @@ title: Links
 permalink: /links/
 ---
 
-My favorite places to read on the internet.
+To my delight, the quality and variety of online writing seems to be getting substanially better over the last two years. I hope the trend continues. these are my favorite sites to read.
 
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
-* [Slate Star Codex](http://slatestarcodex.com/) (Everything)
 * [Fantastic Anachronism](https://fantasticanachronism.com/) (Everything)
+* [Slate Star Codex](http://slatestarcodex.com/) & [Astral Codex Ten](https://astralcodexten.substack.com/) (Everything)
+* [Applied Divinity Studies](https://applieddivinitystudies.com/) (Counter contrarianism)
 * [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard) (Philosophy)
 * [Tanner Greer](https://scholars-stage.blogspot.com/) (History / Foreign Policy / China)
-* [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
+* [Leopold Aschenbrenner](https://www.forourposterity.com/) (Overcoming Decadence)
 * [Dormin](https://dormin.org/) (Books reviews & more)
 * [Scott Sumner](https://themoneyillusion.com/) (Economics)
 * [Lyn Alden](https://www.lynalden.com/) (Economics)
 * [Dan Wang](https://danwang.co/) (Economics)
+* [Neckar's Notes](https://neckar.substack.com/people/13675520-neckar?sort=archive) (History and profiles of business greats)
 * [Ben Thompson](https://stratechery.com/) (Tech)
+* [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
 * [Benedict Evans](https://www.ben-evans.com/) (Tech)
 * [Matthew Ball](https://www.matthewball.vc/) (Media)
 * [Matt Levine](https://www.bloomberg.com/view/topics/money-stuff) (Finance)
