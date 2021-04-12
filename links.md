@@ -12,7 +12,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Applied Divinity Studies](https://applieddivinitystudies.com/) (Counter contrarianism)
 * [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard) (Philosophy)
 * [Tanner Greer](https://scholars-stage.blogspot.com/) (History / Foreign Policy / China)
-* [Leopold Aschenbrenner](https://www.forourposterity.com/) (Overcoming Decadence)
+* [Leopold Aschenbrenner](https://www.forourposterity.com/) (Overcoming decadence)
 * [Dormin](https://dormin.org/) (Books reviews & more)
 * [Scott Sumner](https://themoneyillusion.com/) (Economics)
 * [Lyn Alden](https://www.lynalden.com/) (Economics)
