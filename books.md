@@ -123,6 +123,7 @@ Jump to:
 - Nabokov, _Lolita_
 - Tolstoy, _Hadji Murat_
 - Bulgakov, _The Master and Margarita_
+- Ishiguro, _Never Let Me Go_
 - Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
 - Homer
 
