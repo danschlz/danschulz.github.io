@@ -78,6 +78,7 @@ Jump to:
 - Berlin, _Troublemakers_
 - Soni, _A Mind at Play: How Claude Shannon Invented the Information Age_
 - Stross, _eBoys: The First Inside Account of Venture Capitalists at Work_
+- Slootman, _Tape Sucks_
 
 **Business History** <a name="bhistory"></a>
 - Chernow, _Titan, The Life of John D. Rockefeller_
@@ -87,8 +88,7 @@ Jump to:
 - Thorp, _A Man for All Markets_
 - Burrough, _Barbarians at the Gate_
 - Stone, _The Everything Store_
-- Slootman, _Tape Sucks_
-
+- Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
 
 **Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
@@ -123,7 +123,9 @@ Jump to:
 - Nabokov, _Lolita_
 - Tolstoy, _Hadji Murat_
 - Bulgakov, _The Master and Margarita_
-- Ishiguro, _Never Let Me Go_
+- Ishiguro
+	- _The Remains of the Day_
+	- _Never Let Me Go_
 - Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
 - Homer
 
