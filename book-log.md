@@ -123,7 +123,7 @@ Here is every book I've read since 2016.
 2018
 * Marks, _The Most Important Thing: Uncommon Sense for the Thoughtful Investor_
 * Graham, _The Intelligent Investor_
-* Ma√ß√£es, _The Dawn of Eurasia: On the Trail of the New World Order_
+* Macaes, _The Dawn of Eurasia: On the Trail of the New World Order_
 * Durant, _The Lessons of History_
 * Rothbard, _Anatomy of the State_
 * Burrough, _Barbarians at the Gate: The Fall of RJR Nabisco_
