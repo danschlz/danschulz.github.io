@@ -63,7 +63,7 @@ I started using Goodreads in 2016 and found that tracking the books I read encou
 * Roth, _American Pastoral_
 * Gibbon, _History of the Decline and Fall of the Roman Empire - Volume 1_
 * Clarke, _Childhood's End_
-* , _The Iliad_
+* Homer, _The Iliad_
 * Yourcenar, _Memoirs of Hadrian_
 * Ward-Perkins, _The Fall of Rome: And the End of Civilization_
 * Graves, _I, Claudius_
