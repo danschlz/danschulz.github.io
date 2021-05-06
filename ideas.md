@@ -17,10 +17,13 @@ At some point in my life, I gave a lot of thought to these people and their idea
 * Naval Ravikant ([Autodidacticism](https://www.youtube.com/watch?v=dmBoU93TRlo); [life fulfillment](https://youtu.be/X7tnoR6a-8A))
 
 
-There are two quotes that have stuck with me for years.
+There are three quotes that have stuck with me for years.
 
 Karl Ove Knausgaard, in Book Six of his series _My Struggle_:
 > Charisma is one of the two great transcendental forces in the social world: beauty is the other.  They are forces seldom talked about, since both issue from the individual, neither may be learned or acquired, and in a democracy, where everyone is meant to be considered equal and where all relationships are meant to be just, such properties cannot be accorded value, though all of us are aware of them and of how much they mean…beauty eclipses everything, bedims all else, it is what we see first and what we consciously or unconsciously seek.  Yet this phenomenon is shrouded in silence…driving it out instead by our social mechanisms of expulsion, calling it stupid, immature, or unsophisticated, perhaps even primitive, at the same time as we allow it to flourish in the commercial domain, where it quietly surrounds us whichever way we turn…
+
+Philip Roth in _American Pastoral_:
+> You get them wrong before you meet them, while you're anticipating meeting them; you get them wrong while you're with them; and then you go home to tell somebody else about the meeting and you get them all wrong again. Since the same generally goes for them with you, the whole thing is really a dazzling illusion. ... The fact remains that getting people right is not what living is all about anyway. It's getting them wrong that is living, getting them wrong and wrong and wrong and then, on careful reconsideration, getting them wrong again. That's how we know we're alive: we're wrong. Maybe the best thing would be to forget being right or wrong about people and just go along for the ride. But if you can do that -- well, lucky you.
 
 Ayn Rand,[^1] writing to a fan in 1960:
 > You ask me about the meaning of the dialogue on page 702 of Atlas Shrugged:  
