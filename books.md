@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /books/
 ---
 
-I love stumbling on [other people's reading lists](#otherlists), and this page is a list of my own favorites. [Here's a log of every book I've read](/book-log), and I also keep [Goodreads up to date](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I love stumbling on [other people's reading lists](#otherlists), and this page is a list of my own favorites. I also keep [a log of every book I've read](/book-log) and keep [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz) up to date.
 
 Jump to:
 * [Economics](#economics)
