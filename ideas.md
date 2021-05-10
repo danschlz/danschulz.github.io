@@ -3,23 +3,20 @@ layout: page
 title: Ideas
 permalink: /ideas/
 ---
-At some point in my life, I gave a lot of thought to these people and their ideas:
+At some point in my life, I gave a lot of thought to these people and their ideas.
 
 * Peter Thiel ([Mimesis](http://www.imitatio.org/); [technological progress as a moral imperative](https://www.youtube.com/watch?v=PsXFwy6gG_4))
-* Agnes Callard ([Proleptic reasons](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2019-06/Callard%20Proleptic%20Reasons%20Final%20Published%20Version%20OSME.pdf); [aspiration](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2018-09/Aspiration%20final%20ms.%20UV.pdf))
-* Joeseph Henrich ([Cultural evolution](https://www2.psych.ubc.ca/~henrich/Website/Papers/HenrichetalFiveMistake11.pdf); [WEIRD psychology](https://www2.psych.ubc.ca/~henrich/pdfs/WeirdPeople.pdf))
 * Richard Feynman ([Curiosity](https://www.youtube.com/watch?v=lmTmGLzPVyM); [sense of awe](https://www.youtube.com/watch?v=36GT2zI8lVA))
 * Friedrich Hayek ([Cultural evolution](https://www.docdroid.net/n8mk5H9/the-three-sources-of-human-values-pdf); [the use of knowledge in society](http://www.econlib.org/library/Essays/hykKnw1.html))
 * Karl Popper ([Critical rationalism](https://en.wikipedia.org/wiki/Critical_rationalism); [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance))
-* Bryan Caplan ([The ideological turing test](https://www.econlib.org/archives/2011/06/the_ideological.html); [the beautiful bubble](https://www.econlib.org/archives/2012/03/my_beautiful_bu.html))
-* Robin Hanson ([Futarchy](http://mason.gmu.edu/~rhanson/futarchy.html); [homo hipocritus](https://www.overcomingbias.com/2010/03/homo-hipocritus.html))
 * Nassim Taleb ([Antifragility](https://en.wikipedia.org/wiki/Antifragility); [optionality](https://25iq.com/2013/10/13/a-dozen-things-ive-learned-from-nassim-taleb-about-optionalityinvesting/))
 * Naval Ravikant ([Autodidacticism](https://www.youtube.com/watch?v=dmBoU93TRlo); [life fulfillment](https://youtu.be/X7tnoR6a-8A))
+* Agnes Callard ([Proleptic reasons](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2019-06/Callard%20Proleptic%20Reasons%20Final%20Published%20Version%20OSME.pdf); [aspiration](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2018-09/Aspiration%20final%20ms.%20UV.pdf))
 
 
-There are three quotes that have stuck with me for years.
+A few quotes have stuck with me for years.
 
-Karl Ove Knausgaard, in Book Six of his series _My Struggle_:
+Karl Ove Knausgaard in Book Six of his series _My Struggle_:
 > Charisma is one of the two great transcendental forces in the social world: beauty is the other.  They are forces seldom talked about, since both issue from the individual, neither may be learned or acquired, and in a democracy, where everyone is meant to be considered equal and where all relationships are meant to be just, such properties cannot be accorded value, though all of us are aware of them and of how much they mean…beauty eclipses everything, bedims all else, it is what we see first and what we consciously or unconsciously seek.  Yet this phenomenon is shrouded in silence…driving it out instead by our social mechanisms of expulsion, calling it stupid, immature, or unsophisticated, perhaps even primitive, at the same time as we allow it to flourish in the commercial domain, where it quietly surrounds us whichever way we turn…
 
 Philip Roth in _American Pastoral_:
