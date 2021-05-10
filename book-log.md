@@ -4,7 +4,7 @@ title: Book Log
 permalink: /book-log/
 ---
 
-I started using Goodreads in 2016 and found that tracking the books I read encouraged me to read much more. 
+Tracking books I finish motivates me to read more. 
 
 2021
 * Cowen, _In Praise of Commercial Culture_
