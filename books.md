@@ -31,8 +31,10 @@ Jump to:
 - Heilbroner, _The Worldly Philosophers_
 - Warsh, _Knowlege and the Wealth of Nations_
 - Haskel and Westlake, _Capitalism without Capital_
-- Cowen, _The Great Stagnation_
-- Cowen, _The Complacent Class_
+- Cowen
+	- _In Praise of Commercial Culture_
+	- _The Great Stagnation_
+	- _The Complacent Class_
 - Coyle, _GDP: A Brief but Affectionate History_
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
@@ -88,6 +90,7 @@ Jump to:
 - Thorp, _A Man for All Markets_
 - Burrough, _Barbarians at the Gate_
 - Stone, _The Everything Store_
+- Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 - Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
 
 **Fiction** <a name="fiction"></a>
@@ -107,7 +110,9 @@ Jump to:
 	- _Whatever_
 - Ferrante, _The Neapolitan Novels_
 - Sebald, _Austerlitz_
-- Mitchell, _Number9Dream_
+- Mitchell
+	- _Number9Dream_
+	- _Cloud Atlas_
 - Chesterton, _The Man Who Was Thursday_
 - Murakami, _Hard-Boiled Wonderland and the End of the World_
 - Yourcenar, _Memoirs of Hadrian_
