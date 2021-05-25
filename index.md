@@ -9,3 +9,4 @@ Favorites
 [Movies](/movies/)  
 [Videos](/videos/)
 
+<a class="muted small" href="/contact">
