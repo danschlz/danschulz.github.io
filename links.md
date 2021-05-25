@@ -13,6 +13,9 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard) (Philosophy)
 * [Tanner Greer](https://scholars-stage.blogspot.com/) (History / Foreign Policy / China)
 * [Neckar's Notes](https://neckar.substack.com/people/13675520-neckar?sort=archive) (Business History)
+* [Marc Rubinstein](https://www.netinterest.co/)
+* [Matt Levine](https://www.bloomberg.com/view/topics/money-stuff) (Finance)
+* [Byrne Hobart](https://diff.substack.com/) (Tech / Finance)
 * [Dormin](https://dormin.org/) (Pop culture)
 * [Scott Sumner](https://themoneyillusion.com/) (Economics)
 * [Lyn Alden](https://www.lynalden.com/) (Economics)
@@ -21,10 +24,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
 * [Benedict Evans](https://www.ben-evans.com/) (Tech)
 * [Matthew Ball](https://www.matthewball.vc/) (Media)
-* [Matt Levine](https://www.bloomberg.com/view/topics/money-stuff) (Finance)
 * [Lyall Taylor](https://lt3000.blogspot.com/) (Finance)
-* [Byrne Hobart](https://diff.substack.com/) (Tech / Finance)
-* [Overcoming Bias](http://www.overcomingbias.com/) (Rationality)
 * More on [Pocket](https://getpocket.com/@danschulz44)
 
 ### Articles
