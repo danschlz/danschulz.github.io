@@ -33,15 +33,10 @@ Cherry-picked from my Pocket archive.
 
 - [Riva-Melissa Tez, The Grandest Vision for Humanity](https://hackernoon.com/the-grandest-vision-for-humanity-7e54eb3a4369)
   - "We live in a world that rests on an assumption that we can fathom what is possible and what is not. Yet history has shown us that the impossible often becomes possible, and that the dreams that seem out of our reach become very real. Everything on this earth, every one of humanity’s achievements is simply a manifestation of how high we have previously aimed. What’s the grandest vision that humanity can aspire to?"
-
 - [American Cultural Dominance Abroad](https://www.reddit.com/r/TheMotte/comments/bheycc/american_cultural_dominance_abroad/)
-
 - [Lee Kuan Yew Reflects](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
-
 - [Questing for Transcendence](https://scholars-stage.blogspot.com/2019/04/on-quests-for-transcendence.html)
-
 - [Against Human Weakness](https://www.econlib.org/archives/2009/09/against_human_w.html)
-
 - [Profile of Raj Chetty in The Atlantic](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/)
   - "Chetty has found that opportunity does not correlate with many traditional economic measures, such as employment or wage growth. In the search for opportunity’s cause, he is instead focusing on an idea borrowed from sociology: social capital. The term refers broadly to the set of connections that ease a person’s way through the world, providing support and inspiration and opening doors."
 
