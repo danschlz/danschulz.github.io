@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-Email: danschulz44@gmail.com
+Email: danschulz44@gmail.com  
 Twitter: @danschlz
