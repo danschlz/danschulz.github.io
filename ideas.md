@@ -12,9 +12,12 @@ At some point in my life, I gave a lot of thought to these people and their idea
 * Nassim Taleb ([Antifragility](https://en.wikipedia.org/wiki/Antifragility); [optionality](https://25iq.com/2013/10/13/a-dozen-things-ive-learned-from-nassim-taleb-about-optionalityinvesting/))
 * Naval Ravikant ([Autodidacticism](https://www.youtube.com/watch?v=dmBoU93TRlo); [life fulfillment](https://youtu.be/X7tnoR6a-8A))
 * Agnes Callard ([Proleptic reasons](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2019-06/Callard%20Proleptic%20Reasons%20Final%20Published%20Version%20OSME.pdf); [aspiration](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2018-09/Aspiration%20final%20ms.%20UV.pdf))
+
+
 <!--
-* Leo Strauss ([Esotericism](https://plato.stanford.edu/entries/strauss-leo/#Esot); [Liberalism and nihilism](https://en.wikipedia.org/wiki/Leo_Strauss#Liberalism_and_nihilism))
+* Leo Strauss ([Esotericism](https://plato.stanford.edu/entries/strauss-leo/#Esot); [liberalism and nihilism](https://en.wikipedia.org/wiki/Leo_Strauss#Liberalism_and_nihilism))
 -->
+
 
 A few quotes have stuck with me for years.
 
