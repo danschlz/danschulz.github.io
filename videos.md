@@ -8,6 +8,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 
 ### Videos
 * [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
+* [Marjorie Garber: Shakespeare After All](https://www.youtube.com/playlist?list=PLw4-Fp0S2dJZxt7cIjyX7tj8IqmyQighi)
 * [Anarchism: Vignettes Against Hobbes](https://www.youtube.com/watch?v=wcMyJ3BgM1k)
 * [Alan Kay on Learning](https://www.youtube.com/watch?v=50L44hEtVos&list=FLR5OhzKy6ZkaNfkZnNrJObA)
 * [You Are Two: Split Brain Experiments](https://www.youtube.com/watch?v=wfYbgdo8e-8&list=FLR5OhzKy6ZkaNfkZnNrJObA)
