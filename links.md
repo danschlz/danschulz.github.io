@@ -12,6 +12,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Tanner Greer](https://scholars-stage.blogspot.com/) (History)
 * [Applied Divinity Studies](https://applieddivinitystudies.com/) (Counter contrarianism)
 * [Dormin](https://dormin.org/) (Everything)
+* [Leopold Aschenbrenner](https://www.forourposterity.com/blog/) (Economics)
 * [Random Critical Analysis](https://randomcriticalanalysis.com/) (Cause & effect)
 * [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard) (Philosophy)
 * [Dan Wang](https://danwang.co/) (Culture)
@@ -37,6 +38,7 @@ Cherry-picked from my Pocket archive.
 - [Lee Kuan Yew Reflects](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
 - [Questing for Transcendence](https://scholars-stage.blogspot.com/2019/04/on-quests-for-transcendence.html)
 - [Against Human Weakness](https://www.econlib.org/archives/2009/09/against_human_w.html)
+- [Burkean Longtermism](https://www.forourposterity.com/burkean-longtermism/)
 - [Profile of Raj Chetty in The Atlantic](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/)
   - "Chetty has found that opportunity does not correlate with many traditional economic measures, such as employment or wage growth. In the search for opportunity’s cause, he is instead focusing on an idea borrowed from sociology: social capital. The term refers broadly to the set of connections that ease a person’s way through the world, providing support and inspiration and opening doors."
 
