@@ -71,6 +71,7 @@ Jump to:
 **Biography / Memoir** <a name="biography"></a>
 - Zweig, _The World of Yesterday_
 - Orwell, _Homage to Catalonia_
+- Sledge, _With the Old Breed: At Peleliu and Okinawa_
 - Coram, _Boyd_
 
 **Silicon Valley** <a name="svalley"></a>
@@ -89,7 +90,9 @@ Jump to:
 - Thorndike Jr., _The Outsiders_
 - Thorp, _A Man for All Markets_
 - Burrough, _Barbarians at the Gate_
-- Stone, _The Everything Store_
+- Stone
+  - _The Everything Store_
+  - _Amazon Unbound_
 - Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 - Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
 
