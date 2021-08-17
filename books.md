@@ -44,7 +44,9 @@ Jump to:
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
 - Roberts, _Napoleon: A Life_
-- Perlstein, _Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
+- Perlstein
+	- _Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
+	- _Nixonland: The Rise of a President and the Fracturing of America_
 - Caro
 	- _The Path to Power_
 	- _Means of Ascent_
@@ -122,6 +124,7 @@ Jump to:
 - Graves, _I, Claudius_
 - Maugham, _The Razor's Edge_
 - Casares, _The Invention of Morel_
+- Camus, _The Stranger_
 - Calvino, _Invisible Cities_
 - Stendhal, _The Red and the Black_
 - Mishima, _Patriotism_
@@ -135,6 +138,7 @@ Jump to:
 	- _The Remains of the Day_
 	- _Never Let Me Go_
 - Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
+- Fitzgerald, _The Great Gatsby_
 - Homer
 
 **Science Fiction** <a name="scifi"></a>
