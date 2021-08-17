@@ -6,29 +6,39 @@ permalink: /movies/
 
 I took a more serious interest in movies during the 2020 pandemic. These are some favorites.
 
-* 2001: A Space Odyssey / Lolita / Eyes Wide Shut
-* Rear Window / North by Northwest
+* 2001: A Space Odyssey / Lolita / Eyes Wide Shut / Barry Lyndon
+* Rear Window / North by Northwest / Vertigo
 * The Apartment
 * Woman in the Dunes
 * Memories of Murder / Parasite
+* Burning
 * Mulholland Drive
 * Before Sunrise / Before Sunset / Before Midnight / Boyhood
 * A Separation
 * La Soufrière / Lessons of Darkness
 * City of God
-* The Conversation
+* The Conversation / The Godfather
+* Cloud Atlas
 * Big Night
 * Good Time / Uncut Gems
 * Hereditary
 * Lost in Translation
 * The Big Lebowski
 * YiYi
+* Perfect Blue
 * Winter Sleep
 * Caché / Amour
 * Oldboy / The Handmaiden
 * Blade Runner (both)
+* True Romance
+* Let the Right One In
+* Coherence
+* The Fountain
+* Primer / Upstream Color
 * Goodfellas / Casino / The Departed / After Hours
+* Incendies / Enemy / Prisoners / Sicario / Arrival
 * Pulp Fiction / Reservoir Dogs / Inglourious Basterds
+* The Dawn Wall
 * More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
 
 ### Commentary
