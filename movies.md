@@ -35,9 +35,10 @@ I took a more serious interest in movies during the 2020 pandemic. These are som
 * Coherence
 * The Fountain
 * Primer / Upstream Color
+* Pulp Fiction / Reservoir Dogs / Inglourious Basterds / Once Upon a Time... in Hollywood
 * Goodfellas / Casino / The Departed / After Hours
 * Incendies / Enemy / Prisoners / Sicario / Arrival
-* Pulp Fiction / Reservoir Dogs / Inglourious Basterds
+* The Dark Knight / Inception / Interstellar / Memento / The Prestige
 * The Dawn Wall
 * More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
 
