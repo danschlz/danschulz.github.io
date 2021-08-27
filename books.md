@@ -131,7 +131,9 @@ Jump to:
 - Eco, _Foucault's Pendulum_
 - Woolf, _The Waves_
 - Chandler, _The Big Sleep_
-- Nabokov, _Lolita_
+- Nabokov
+	- _Lolita_
+	- _Pnin_
 - Tolstoy, _Hadji Murat_
 - Bulgakov, _The Master and Margarita_
 - Ishiguro
