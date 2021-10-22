@@ -31,6 +31,7 @@ Jump to:
 - Heilbroner, _The Worldly Philosophers_
 - Warsh, _Knowlege and the Wealth of Nations_
 - Haskel and Westlake, _Capitalism without Capital_
+- Helland and Tabarrok, _Why Are The Prices So Damn High?_
 - Cowen
 	- _In Praise of Commercial Culture_
 	- _The Great Stagnation_
@@ -97,6 +98,7 @@ Jump to:
   - _Amazon Unbound_
 - Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 - Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
+- Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
 
 **Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
