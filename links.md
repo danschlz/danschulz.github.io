@@ -37,7 +37,6 @@ Cherry-picked from my Pocket archive.
 - [Questing for Transcendence](https://scholars-stage.blogspot.com/2019/04/on-quests-for-transcendence.html)
 - [Against Human Weakness](https://www.econlib.org/archives/2009/09/against_human_w.html)
 - [Burkean Longtermism](https://www.forourposterity.com/burkean-longtermism/)
-
 - [Riva-Melissa Tez, The Grandest Vision for Humanity](https://hackernoon.com/the-grandest-vision-for-humanity-7e54eb3a4369)
   - "We live in a world that rests on an assumption that we can fathom what is possible and what is not. Yet history has shown us that the impossible often becomes possible, and that the dreams that seem out of our reach become very real. Everything on this earth, every one of humanity’s achievements is simply a manifestation of how high we have previously aimed. What’s the grandest vision that humanity can aspire to?"
 
