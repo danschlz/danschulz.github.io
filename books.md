@@ -37,6 +37,7 @@ Jump to:
 	- _The Great Stagnation_
 	- _The Complacent Class_
 - Coyle, _GDP: A Brief but Affectionate History_
+- Landsburg, _The Armchair Economist_
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
 **History** <a name="history"></a>
@@ -77,6 +78,7 @@ Jump to:
 - Orwell, _Homage to Catalonia_
 - Sledge, _With the Old Breed: At Peleliu and Okinawa_
 - Coram, _Boyd_
+- Murakami, _What I Talk About When I Talk About Running_
 
 **Silicon Valley** <a name="svalley"></a>
 - Waldrop, _The Dream Machine_
@@ -100,6 +102,9 @@ Jump to:
 - Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 - Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
 - Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
+- Levy, _To Pixar and Beyond_
+- Wright, _Billion Dollar Whale_
+- Knight, _Shoe Dog_
 
 **Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
@@ -118,6 +123,9 @@ Jump to:
 	- _Whatever_
 - Ferrante, _The Neapolitan Novels_
 - Sebald, _Austerlitz_
+- Roth, _American Pastoral_
+- DeLillo, _White Noise_
+- McCarthy, _The Road_
 - Mitchell
 	- _Number9Dream_
 	- _Cloud Atlas_
@@ -130,9 +138,13 @@ Jump to:
 - Camus, _The Stranger_
 - Calvino, _Invisible Cities_
 - Stendhal, _The Red and the Black_
-- Mishima, _Patriotism_
+- Mishima
+	- _Patriotism_
+	- _The Sailor Who Fell from Grace with the Sea_
 - Eco, _Foucault's Pendulum_
 - Woolf, _The Waves_
+- Abbott, _Flatland_
+- Conrad, _Heart of Darkness_
 - Chandler, _The Big Sleep_
 - Nabokov
 	- _Lolita_
@@ -144,6 +156,8 @@ Jump to:
 	- _Never Let Me Go_
 - Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
 - Fitzgerald, _The Great Gatsby_
+- Eagleman, _Sum: Forty Tales from the Afterlives_
+- Mandel, _Station Eleven_
 - Homer
 
 **Science Fiction** <a name="scifi"></a>
@@ -153,6 +167,7 @@ Jump to:
 - Liu, _The Three-Body Problem_
 - Stephenson, _Snow Crash_
 - Lem, _Solaris_
+- Clarke, _Childhood's End_
 - Dick
 	- _Ubik_
 	- _Do Androids Dream of Electric Sheep?_
@@ -181,6 +196,8 @@ Jump to:
 - Deutsch, _The Beginning of Infinity_
 - Feynman, _The Feynman Lectures on Physics_
 - Gleick, _The Information_
+- Gribbin, _The Time Illusion_
+- Rovelli, _Reality Is Not What It Seems_
 
 **Politics / Sociology / Foreign Policy** <a name="politics"></a>
 - Hirschman, _Exit, Voice, and Loyalty_
@@ -195,6 +212,7 @@ Jump to:
 - Wriston, _The Twilight of Sovereignty_
 - Snow, _The Two Cultures_
 - Zeihan, _The Accidental Superpower_
+- Hoffman, _The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy_
 
 **Ideas, Broadly** <a name="ideas"></a>
 - Bayles, _Art and Fear_
@@ -205,6 +223,8 @@ Jump to:
 - Simler and Hanson, _The Elephant in the Brain_
 - Yudkowsky, _Inadequate Equilibria_
 - Thiel, _Zero to One_
+- Ito, _Whiplash: How to Survive Our Faster Future_
+- Landsburg, _The Big Questions: Tackling the Problems of Philosophy with Ideas from Mathematics, Economics and Physics_
 
 **Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
