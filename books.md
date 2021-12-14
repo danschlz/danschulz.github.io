@@ -156,6 +156,9 @@ Jump to:
 	- _Never Let Me Go_
 - Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
 - Fitzgerald, _The Great Gatsby_
+- Remarque, _All Quiet on the Western Front_
+- Twain, _The Adventures of Tom Sawyer_
+- Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
 - Mandel, _Station Eleven_
 - Homer
