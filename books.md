@@ -46,6 +46,7 @@ Jump to:
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
 - Roberts, _Napoleon: A Life_
+- Kershaw, _Hitler_
 - Snyder, _Bloodlands: Europe Between Hitler and Stalin_
 - Perlstein
 	- _Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
@@ -130,7 +131,9 @@ Jump to:
 	- _Number9Dream_
 	- _Cloud Atlas_
 - Chesterton, _The Man Who Was Thursday_
-- Murakami, _Hard-Boiled Wonderland and the End of the World_
+- Murakami
+	- _Hard-Boiled Wonderland and the End of the World_
+	- _Norweigan Wood_
 - Yourcenar, _Memoirs of Hadrian_
 - Graves, _I, Claudius_
 - Maugham, _The Razor's Edge_
