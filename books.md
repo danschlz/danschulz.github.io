@@ -164,6 +164,7 @@ Jump to:
 - Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
 - Mandel, _Station Eleven_
+- Sophocles, _Oedipus the King_
 - Homer
 
 **Science Fiction** <a name="scifi"></a>
