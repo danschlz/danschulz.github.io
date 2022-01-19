@@ -4,7 +4,7 @@ title: Movies
 permalink: /movies/
 ---
 
-I got more into movies during the 2020 pandemic. These are some favorites.
+I got more interested in movies during the 2020 pandemic. These are some favorites.
 
 * Before Sunrise / Before Sunset / Before Midnight / Boyhood
 * 2001: A Space Odyssey / Lolita / Eyes Wide Shut / Barry Lyndon
