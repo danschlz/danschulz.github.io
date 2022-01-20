@@ -33,6 +33,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 
 Cherry-picked from my Pocket archive.
 
+- [The Charisma of Leaders](https://metaismurder.com/post/44155254813/the-charisma-of-leaders)
 - [American Cultural Dominance Abroad](https://www.reddit.com/r/TheMotte/comments/bheycc/american_cultural_dominance_abroad/)
 - [Lee Kuan Yew Reflects](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
 - [Questing for Transcendence](https://scholars-stage.blogspot.com/2019/04/on-quests-for-transcendence.html)
