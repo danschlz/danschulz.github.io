@@ -46,8 +46,11 @@ Jump to:
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
 - Roberts, _Napoleon: A Life_
+- McCullough, _1776_
 - Kershaw, _Hitler_
 - Snyder, _Bloodlands: Europe Between Hitler and Stalin_
+- Johnson, _Churchill_
+- Churchill, _My Early Life: 1874-1904_
 - Perlstein
 	- _Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
 	- _Nixonland: The Rise of a President and the Fracturing of America_
