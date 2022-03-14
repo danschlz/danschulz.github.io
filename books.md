@@ -45,6 +45,7 @@ Jump to:
 - Ward-Perkins, _The Fall of Rome_
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
+- Liddell Hart, _Scipio Africanus: Greater than Napoleon_
 - Roberts, _Napoleon: A Life_
 - McCullough, _1776_
 - Kershaw, _Hitler_
@@ -133,6 +134,8 @@ Jump to:
 - Mitchell
 	- _Number9Dream_
 	- _Cloud Atlas_
+- Melville, _Moby-Dick_
+- Williams, _Stoner_
 - Chesterton, _The Man Who Was Thursday_
 - Murakami
 	- _Hard-Boiled Wonderland and the End of the World_
