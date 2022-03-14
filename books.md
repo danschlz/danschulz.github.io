@@ -46,6 +46,7 @@ Jump to:
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
 - Liddell Hart, _Scipio Africanus: Greater than Napoleon_
+- Liddell Hart, _Why Don't We Learn from History?_
 - Roberts, _Napoleon: A Life_
 - McCullough, _1776_
 - Kershaw, _Hitler_
@@ -61,7 +62,6 @@ Jump to:
 - Yergin, _The Prize_
 - Anderson, _Lawrence in Arabia_
 - Durant, _The Lessons of History_
-- Hart, _Why Don't We Learn from History?_
 
 **Philosophy** <a name="philosophy"></a>
 - Nietzsche
