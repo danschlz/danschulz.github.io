@@ -58,8 +58,8 @@ Jump to:
   - _Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
   - _Nixonland: The Rise of a President and the Fracturing of America_
 - Caro
-  -_The Path to Power_
-  -_Means of Ascent_
+  - _The Path to Power_
+  - _Means of Ascent_
 - Yergin, _The Prize_
 - Anderson, _Lawrence in Arabia_
 - Durant, _The Lessons of History_
