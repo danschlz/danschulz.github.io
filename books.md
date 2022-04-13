@@ -34,8 +34,8 @@ Jump to:
 - Helland and Tabarrok, _Why Are The Prices So Damn High?_
 - Cowen
   - _In Praise of Commercial Culture_
-  -_The Great Stagnation_
-  -_The Complacent Class_
+  - _The Great Stagnation_
+  - _The Complacent Class_
 - Coyle, _GDP: A Brief but Affectionate History_
 - Landsburg, _The Armchair Economist_
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
@@ -46,8 +46,8 @@ Jump to:
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
 - Liddell Hart
-  -_Scipio Africanus: Greater than Napoleon_
-  -_Why Don't We Learn from History?_
+  - _Scipio Africanus: Greater than Napoleon_
+  - _Why Don't We Learn from History?_
 - Roberts, _Napoleon: A Life_
 - McCullough, _1776_
 - Kershaw, _Hitler_
@@ -55,8 +55,8 @@ Jump to:
 - Johnson, _Churchill_
 - Churchill, _My Early Life: 1874-1904_
 - Perlstein
-  -_Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
-  -_Nixonland: The Rise of a President and the Fracturing of America_
+  - _Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
+  - _Nixonland: The Rise of a President and the Fracturing of America_
 - Caro
   -_The Path to Power_
   -_Means of Ascent_
@@ -66,8 +66,8 @@ Jump to:
 
 **Philosophy** <a name="philosophy"></a>
 - Nietzsche  
-  -_Twilight of the Idols_  
-  -_Ecce Homo_  
+  - _Twilight of the Idols_  
+  - _Ecce Homo_  
 - Hofstadter, _Godel, Escher, Bach_
 - Palaver, _Rene Girard's Mimetic Theory_
 - Popper  
@@ -76,7 +76,7 @@ Jump to:
 - Strauss, _Persecution and the Art of Writing_
 - Cowen, _Stubborn Attachments_
 - Machiavelli, _The Prince_
-- Durant_The Story of Philosophy_
+- Durant, _The Story of Philosophy_
 - Dennett, _Intution Pumps_
 
 **Biography / Memoir** <a name="biography"></a>
