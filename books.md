@@ -71,8 +71,8 @@ Jump to:
 - Hofstadter, _Godel, Escher, Bach_
 - Palaver, _Rene Girard's Mimetic Theory_
 - Popper  
-  -_Selections_  
-  -_The Poverty of Historicism_  
+  - _Selections_  
+  - _The Poverty of Historicism_  
 - Strauss, _Persecution and the Art of Writing_
 - Cowen, _Stubborn Attachments_
 - Machiavelli, _The Prince_
@@ -103,8 +103,8 @@ Jump to:
 - Thorp, _A Man for All Markets_
 - Burrough, _Barbarians at the Gate_
 - Stone  
-  -_The Everything Store_  
-  -_Amazon Unbound_  
+  - _The Everything Store_  
+  - _Amazon Unbound_  
 - Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 - Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
 - Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
@@ -115,33 +115,33 @@ Jump to:
 **Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
 - Bolano  
-  -_2666_  
-  -_Distant Star_  
-  -_By Night in Chile_  
+  - _2666_  
+  - _Distant Star_  
+  - _By Night in Chile_  
 - Borges  
-  -_Ficciones_  
-  -_The Aleph and Other Stories_  
+  - _Ficciones_  
+  - _The Aleph and Other Stories_  
 - Pynchon  
-  -_V._  
-  -_The Crying of Lot 49_  
+  - _V._  
+  - _The Crying of Lot 49_  
 - Houellebecq  
-  -_Submission_  
-  -_The Elementary Particles_  
-  -_Whatever_  
+  - _Submission_  
+  - _The Elementary Particles_  
+  - _Whatever_  
 - Ferrante, _The Neapolitan Novels_
 - Sebald, _Austerlitz_
 - Roth, _American Pastoral_
 - DeLillo, _White Noise_
 - McCarthy, _The Road_
 - Mitchell  
-  -_Number9Dream_
-  -_Cloud Atlas_
+  - _Number9Dream_
+  - _Cloud Atlas_
 - Melville, _Moby-Dick_
 - Williams, _Stoner_
 - Chesterton, _The Man Who Was Thursday_
 - Murakami  
-  -_Hard-Boiled Wonderland and the End of the World_  
-  -_Norweigan Wood_  
+  - _Hard-Boiled Wonderland and the End of the World_  
+  - _Norweigan Wood_  
 - Yourcenar, _Memoirs of Hadrian_
 - Graves, _I, Claudius_
 - Maugham, _The Razor's Edge_
@@ -150,21 +150,21 @@ Jump to:
 - Calvino, _Invisible Cities_
 - Stendhal, _The Red and the Black_
 - Mishima  
-  -_Patriotism_  
-  -_The Sailor Who Fell from Grace with the Sea_  
+  - _Patriotism_  
+  - _The Sailor Who Fell from Grace with the Sea_  
 - Eco, _Foucault's Pendulum_
 - Woolf, _The Waves_
 - Abbott, _Flatland_
 - Conrad, _Heart of Darkness_
 - Chandler, _The Big Sleep_
 - Nabokov  
-  -_Lolita_  
-  -_Pnin_  
+  - _Lolita_  
+  - _Pnin_  
 - Tolstoy, _Hadji Murat_
 - Bulgakov, _The Master and Margarita_
 - Ishiguro  
-  -_The Remains of the Day_  
-  -_Never Let Me Go_  
+  - _The Remains of the Day_  
+  - _Never Let Me Go_  
 - Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
 - Fitzgerald, _The Great Gatsby_
 - Remarque, _All Quiet on the Western Front_
@@ -176,16 +176,17 @@ Jump to:
 - Homer
 
 **Science Fiction** <a name="scifi"></a>
-- Chiang, _Stories of your Life and Others_
-- Chiang, _Exhalation_
+- Chiang
+  - _Stories of your Life and Others_
+  - _Exhalation_
 - Liu, _The Three-Body Problem_
 - Stephenson, _Snow Crash_
 - Lem, _Solaris_
 - Clarke, _Childhood's End_
 - Dick  
-  -_Ubik_  
-  -_Do Androids Dream of Electric Sheep?_  
-  -_The Man in the High Castle_  
+  - _Ubik_  
+  - _Do Androids Dream of Electric Sheep?_  
+  - _The Man in the High Castle_  
 
 **Space** <a name="space"></a>
 - Murray, _Apollo: The Race To The Moon_
@@ -216,8 +217,8 @@ Jump to:
 **Politics / Sociology / Foreign Policy** <a name="politics"></a>
 - Hirschman, _Exit, Voice, and Loyalty_
 - Bastiat  
-  -_The Law_  
-  -_That Which Is Seen, and That Which Is Not Seen_  
+  - _The Law_  
+  - _That Which Is Seen, and That Which Is Not Seen_  
 - Caplan, _The Myth of the Rational Voter_
 - Kling, _The Three Languages of Politics_
 - Gurri, _The Revolt of the Public_
