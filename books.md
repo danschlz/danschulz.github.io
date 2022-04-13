@@ -45,7 +45,7 @@ Jump to:
 - Ward-Perkins, _The Fall of Rome_
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
-- Liddell Hart  
+- Liddell Hart
   -_Scipio Africanus: Greater than Napoleon_  
   -_Why Don't We Learn from History?_  
 - Roberts, _Napoleon: A Life_
