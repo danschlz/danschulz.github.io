@@ -32,10 +32,10 @@ Jump to:
 - Warsh, _Knowlege and the Wealth of Nations_
 - Haskel and Westlake, _Capitalism without Capital_
 - Helland and Tabarrok, _Why Are The Prices So Damn High?_
-- Cowen
-  - _In Praise of Commercial Culture_
-  -_The Great Stagnation_
-  -_The Complacent Class_
+- Cowen  
+  - _In Praise of Commercial Culture_  
+  -_The Great Stagnation_  
+  -_The Complacent Class_  
 - Coyle, _GDP: A Brief but Affectionate History_
 - Landsburg, _The Armchair Economist_
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
@@ -45,34 +45,34 @@ Jump to:
 - Ward-Perkins, _The Fall of Rome_
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
-- Liddell Hart
-  -_Scipio Africanus: Greater than Napoleon_
-  -_Why Don't We Learn from History?_
+- Liddell Hart  
+  -_Scipio Africanus: Greater than Napoleon_  
+  -_Why Don't We Learn from History?_  
 - Roberts, _Napoleon: A Life_
 - McCullough, _1776_
 - Kershaw, _Hitler_
 - Snyder, _Bloodlands: Europe Between Hitler and Stalin_
 - Johnson, _Churchill_
 - Churchill, _My Early Life: 1874-1904_
-- Perlstein
-  -_Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
-  -_Nixonland: The Rise of a President and the Fracturing of America_
-- Caro
-  -_The Path to Power_
-  -_Means of Ascent_
+- Perlstein  
+  -_Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_  
+  -_Nixonland: The Rise of a President and the Fracturing of America_  
+- Caro  
+  -_The Path to Power_  
+  -_Means of Ascent_  
 - Yergin, _The Prize_
 - Anderson, _Lawrence in Arabia_
 - Durant, _The Lessons of History_
 
 **Philosophy** <a name="philosophy"></a>
-- Nietzsche
-  -_Twilight of the Idols_
-  -_Ecce Homo_
+- Nietzsche  
+  -_Twilight of the Idols_  
+  -_Ecce Homo_  
 - Hofstadter, _Godel, Escher, Bach_
 - Palaver, _Rene Girard's Mimetic Theory_
-- Popper
-  -_Selections_
-  -_The Poverty of Historicism_
+- Popper  
+  -_Selections_  
+  -_The Poverty of Historicism_  
 - Strauss, _Persecution and the Art of Writing_
 - Cowen, _Stubborn Attachments_
 - Machiavelli, _The Prince_
@@ -102,9 +102,9 @@ Jump to:
 - Thorndike Jr., _The Outsiders_
 - Thorp, _A Man for All Markets_
 - Burrough, _Barbarians at the Gate_
-- Stone
-  -_The Everything Store_
-  -_Amazon Unbound_
+- Stone  
+  -_The Everything Store_  
+  -_Amazon Unbound_  
 - Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 - Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
 - Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
@@ -114,34 +114,34 @@ Jump to:
 
 **Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
-- Bolano
-  -_2666_
-  -_Distant Star_
-  -_By Night in Chile_
-- Borges
-  -_Ficciones_
-  -_The Aleph and Other Stories_
-- Pynchon
-  -_V._
-  -_The Crying of Lot 49_
-- Houellebecq
-  -_Submission_
-  -_The Elementary Particles_
-  -_Whatever_
+- Bolano  
+  -_2666_  
+  -_Distant Star_  
+  -_By Night in Chile_  
+- Borges  
+  -_Ficciones_  
+  -_The Aleph and Other Stories_  
+- Pynchon  
+  -_V._  
+  -_The Crying of Lot 49_  
+- Houellebecq  
+  -_Submission_  
+  -_The Elementary Particles_  
+  -_Whatever_  
 - Ferrante, _The Neapolitan Novels_
 - Sebald, _Austerlitz_
 - Roth, _American Pastoral_
 - DeLillo, _White Noise_
 - McCarthy, _The Road_
-- Mitchell
+- Mitchell  
   -_Number9Dream_
   -_Cloud Atlas_
 - Melville, _Moby-Dick_
 - Williams, _Stoner_
 - Chesterton, _The Man Who Was Thursday_
-- Murakami
-  -_Hard-Boiled Wonderland and the End of the World_
-  -_Norweigan Wood_
+- Murakami  
+  -_Hard-Boiled Wonderland and the End of the World_  
+  -_Norweigan Wood_  
 - Yourcenar, _Memoirs of Hadrian_
 - Graves, _I, Claudius_
 - Maugham, _The Razor's Edge_
@@ -149,22 +149,22 @@ Jump to:
 - Camus, _The Stranger_
 - Calvino, _Invisible Cities_
 - Stendhal, _The Red and the Black_
-- Mishima
-  -_Patriotism_
-  -_The Sailor Who Fell from Grace with the Sea_
+- Mishima  
+  -_Patriotism_  
+  -_The Sailor Who Fell from Grace with the Sea_  
 - Eco, _Foucault's Pendulum_
 - Woolf, _The Waves_
 - Abbott, _Flatland_
 - Conrad, _Heart of Darkness_
 - Chandler, _The Big Sleep_
-- Nabokov
-  -_Lolita_
-  -_Pnin_
+- Nabokov  
+  -_Lolita_  
+  -_Pnin_  
 - Tolstoy, _Hadji Murat_
 - Bulgakov, _The Master and Margarita_
-- Ishiguro
-  -_The Remains of the Day_
-  -_Never Let Me Go_
+- Ishiguro  
+  -_The Remains of the Day_  
+  -_Never Let Me Go_  
 - Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
 - Fitzgerald, _The Great Gatsby_
 - Remarque, _All Quiet on the Western Front_
@@ -182,10 +182,10 @@ Jump to:
 - Stephenson, _Snow Crash_
 - Lem, _Solaris_
 - Clarke, _Childhood's End_
-- Dick
-  -_Ubik_
-  -_Do Androids Dream of Electric Sheep?_
-  -_The Man in the High Castle_
+- Dick  
+  -_Ubik_  
+  -_Do Androids Dream of Electric Sheep?_  
+  -_The Man in the High Castle_  
 
 **Space** <a name="space"></a>
 - Murray, _Apollo: The Race To The Moon_
@@ -215,9 +215,9 @@ Jump to:
 
 **Politics / Sociology / Foreign Policy** <a name="politics"></a>
 - Hirschman, _Exit, Voice, and Loyalty_
-- Bastiat
-  -_The Law_
-  -_That Which Is Seen, and That Which Is Not Seen_
+- Bastiat  
+  -_The Law_  
+  -_That Which Is Seen, and That Which Is Not Seen_  
 - Caplan, _The Myth of the Rational Voter_
 - Kling, _The Three Languages of Politics_
 - Gurri, _The Revolt of the Public_
