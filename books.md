@@ -87,11 +87,13 @@ Jump to:
 - Murakami, _What I Talk About When I Talk About Running_
 
 **Silicon Valley** <a name="svalley"></a>
+- Soni
+  - _A Mind at Play: How Claude Shannon Invented the Information Age_
+  - _The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley_
 - Waldrop, _The Dream Machine_
 - Reid, _The Chip_
 - Kidder, _The Soul of a New Machine_
 - Berlin, _Troublemakers_
-- Soni, _A Mind at Play: How Claude Shannon Invented the Information Age_
 - Stross, _eBoys: The First Inside Account of Venture Capitalists at Work_
 - Slootman, _Tape Sucks_
 
