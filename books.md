@@ -11,14 +11,14 @@ Jump to:
 * [History](#history)
 * [Philosophy](#philosophy)
 * [Biography / Memoir](#biography)
-* [Silicon Valley](#svalley)
-* [Business History](#bhistory)
+* [Businss History, Silicon Valley / Tech](#svalley)
+* [Business History, General](#bhistory)
 * [Fiction](#fiction)
 * [Science Fiction](#scifi)
+* [Science / Physics](#science)
+* [Biology / Anthropology](#biology)
 * [Space](#space)
 * [China](#china)
-* [Biology / Anthropology](#biology)
-* [Science / Physics](#science)
 * [Politics / Sociology / Foreign Policy](#politics)
 * [Ideas, broadly](#ideas)
 * [Investing](#investing)
@@ -86,7 +86,7 @@ Jump to:
 - Coram, _Boyd_
 - Murakami, _What I Talk About When I Talk About Running_
 
-**Silicon Valley** <a name="svalley"></a>
+**Business History, Silicon Valley / Tech** <a name="svalley"></a>
 - Soni
   - _A Mind at Play: How Claude Shannon Invented the Information Age_
   - _The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley_
@@ -94,20 +94,20 @@ Jump to:
 - Reid, _The Chip_
 - Kidder, _The Soul of a New Machine_
 - Berlin, _Troublemakers_
+- Stone
+  - _The Everything Store_
+  - _Amazon Unbound_
 - Stross, _eBoys: The First Inside Account of Venture Capitalists at Work_
 - Slootman, _Tape Sucks_
+- Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 
-**Business History** <a name="bhistory"></a>
+**Business History, General** <a name="bhistory"></a>
 - Chernow, _Titan, The Life of John D. Rockefeller_
 - Morris, _The Tycoons_
 - Ferguson, _The Ascent of Money_
 - Thorndike Jr., _The Outsiders_
 - Thorp, _A Man for All Markets_
 - Burrough, _Barbarians at the Gate_
-- Stone
-  - _The Everything Store_
-  - _Amazon Unbound_
-- Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 - Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
 - Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
 - Levy, _To Pixar and Beyond_
@@ -190,6 +190,21 @@ Jump to:
   - _Do Androids Dream of Electric Sheep?_
   - _The Man in the High Castle_
 
+**Science / Physics** <a name="science"></a>
+- Deutsch, _The Beginning of Infinity_
+- Feynman, _The Feynman Lectures on Physics_
+- Gleick, _The Information_
+- Gribbin, _The Time Illusion_
+- Rovelli, _Reality Is Not What It Seems_
+
+**Biology / Anthropology** <a name="biology"></a>
+- Henrich, _The Secret of Our Success_
+- Scott, _Against the Grain_
+- Dawkins, _The Selfish Gene_
+- Ridley, _The Red Queen_
+- Mukherjee, _The Gene_
+- Pinker, _The Blank Slate_
+
 **Space** <a name="space"></a>
 - Murray, _Apollo: The Race To The Moon_
 - Kurson, _Rocket Men_
@@ -200,21 +215,6 @@ Jump to:
 - Kroeber, _China's Economy: What Everyone Needs to Know_
 - Lovell, _Maoism: A Global History_
 - Studwell, _How Asia Works_
-
-**Biology / Anthropology** <a name="biology"></a>
-- Henrich, _The Secret of Our Success_
-- Scott, _Against the Grain_
-- Dawkins, _The Selfish Gene_
-- Ridley, _The Red Queen_
-- Mukherjee, _The Gene_
-- Pinker, _The Blank Slate_
-
-**Science / Physics** <a name="science"></a>
-- Deutsch, _The Beginning of Infinity_
-- Feynman, _The Feynman Lectures on Physics_
-- Gleick, _The Information_
-- Gribbin, _The Time Illusion_
-- Rovelli, _Reality Is Not What It Seems_
 
 **Politics / Sociology / Foreign Policy** <a name="politics"></a>
 - Hirschman, _Exit, Voice, and Loyalty_
