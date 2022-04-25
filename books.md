@@ -11,8 +11,8 @@ Jump to:
 * [History](#history)
 * [Philosophy](#philosophy)
 * [Biography / Memoir](#biography)
-* [Businss History, Silicon Valley / Tech](#svalley)
-* [Business History, General](#bhistory)
+* [Tech History](#svalley)
+* [Business History](#bhistory)
 * [Fiction](#fiction)
 * [Science Fiction](#scifi)
 * [Science / Physics](#science)
@@ -86,7 +86,7 @@ Jump to:
 - Coram, _Boyd_
 - Murakami, _What I Talk About When I Talk About Running_
 
-**Business History, Silicon Valley / Tech** <a name="svalley"></a>
+**Tech History** <a name="svalley"></a>
 - Soni
   - _A Mind at Play: How Claude Shannon Invented the Information Age_
   - _The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley_
@@ -101,7 +101,7 @@ Jump to:
 - Slootman, _Tape Sucks_
 - Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
 
-**Business History, General** <a name="bhistory"></a>
+**Business History** <a name="bhistory"></a>
 - Chernow, _Titan, The Life of John D. Rockefeller_
 - Morris, _The Tycoons_
 - Ferguson, _The Ascent of Money_
