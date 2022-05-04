@@ -60,6 +60,10 @@ ul {
   padding-left: 20px;
 }
 
+ul ul {
+  list-style-type: circle;
+}
+
 ol {
   padding-top: 0px;
   padding-right: 20px;
