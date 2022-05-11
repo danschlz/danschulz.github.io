@@ -19,7 +19,7 @@ Jump to:
 * [Biology / Anthropology](#biology)
 * [Space](#space)
 * [China](#china)
-* [Politics / Sociology / Foreign Policy](#politics)
+* [Politics / Sociology](#politics)
 * [Ideas, broadly](#ideas)
 * [Investing](#investing)
 * [Writing](#writing)
@@ -63,6 +63,7 @@ Jump to:
 - Yergin, _The Prize_
 - Anderson, _Lawrence in Arabia_
 - Durant, _The Lessons of History_
+- Hoffman, _The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy_
 
 **Philosophy** <a name="philosophy"></a>
 - Nietzsche  
@@ -217,7 +218,7 @@ Jump to:
 - Lovell, _Maoism: A Global History_
 - Studwell, _How Asia Works_
 
-**Politics / Sociology / Foreign Policy** <a name="politics"></a>
+**Politics / Sociology** <a name="politics"></a>
 - Hirschman, _Exit, Voice, and Loyalty_
 - Bastiat
   - _The Law_
@@ -230,7 +231,6 @@ Jump to:
 - Wriston, _The Twilight of Sovereignty_
 - Snow, _The Two Cultures_
 - Zeihan, _The Accidental Superpower_
-- Hoffman, _The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy_
 
 **Ideas, Broadly** <a name="ideas"></a>
 - Bayles, _Art and Fear_
