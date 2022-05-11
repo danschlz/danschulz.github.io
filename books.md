@@ -87,6 +87,7 @@ Jump to:
 - Murakami, _What I Talk About When I Talk About Running_
 
 **Tech History** <a name="svalley"></a>
+- Mallaby, _The Power Law_
 - Soni
   - _A Mind at Play: How Claude Shannon Invented the Information Age_
   - _The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley_
