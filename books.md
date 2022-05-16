@@ -119,6 +119,7 @@ Jump to:
 **Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
 - Bolano
+  - _The Savage Detectives_
   - _2666_
   - _Distant Star_
   - _By Night in Chile_
