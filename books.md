@@ -113,6 +113,7 @@ Jump to:
 - Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
 - Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
 - Levy, _To Pixar and Beyond_
+- Coulombe, _Becoming Trader Joe_
 - Wright, _Billion Dollar Whale_
 - Knight, _Shoe Dog_
 
@@ -143,6 +144,7 @@ Jump to:
   - _Cloud Atlas_
 - Melville, _Moby-Dick_
 - Williams, _Stoner_
+- Buzzati, _The Tartar Steppe_
 - Chesterton, _The Man Who Was Thursday_
 - Murakami
   - _Hard-Boiled Wonderland and the End of the World_
@@ -192,6 +194,7 @@ Jump to:
   - _Ubik_
   - _Do Androids Dream of Electric Sheep?_
   - _The Man in the High Castle_
+- Weir, _Project Hail Mary_
 
 **Science / Physics** <a name="science"></a>
 - Deutsch, _The Beginning of Infinity_
