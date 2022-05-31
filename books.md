@@ -227,6 +227,7 @@ Jump to:
 - Bastiat
   - _The Law_
   - _That Which Is Seen, and That Which Is Not Seen_
+- Lasch, _The Culture of Narcissism_
 - Caplan, _The Myth of the Rational Voter_
 - Kling, _The Three Languages of Politics_
 - Gurri, _The Revolt of the Public_
