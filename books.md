@@ -110,7 +110,7 @@ Jump to:
 - Thorndike Jr., _The Outsiders_
 - Thorp, _A Man for All Markets_
 - Burrough, _Barbarians at the Gate_
-- Rich and Janos, _Skunk Works: A Personal Memoir of My Years of Lockheed_
+- Rich and Janos, _Skunk Works_
 - Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
 - Levy, _To Pixar and Beyond_
 - Coulombe, _Becoming Trader Joe_
@@ -217,7 +217,7 @@ Jump to:
 
 **China** <a name="china"></a>
 - Bougon, _Inside the Mind of Xi Jinping_
-- McGregor, _The Party: The Secret World of China's Communist Rulers_
+- McGregor, _The Party_
 - Kroeber, _China's Economy: What Everyone Needs to Know_
 - Lovell, _Maoism: A Global History_
 - Studwell, _How Asia Works_
@@ -246,8 +246,8 @@ Jump to:
 - Simler and Hanson, _The Elephant in the Brain_
 - Yudkowsky, _Inadequate Equilibria_
 - Thiel, _Zero to One_
-- Ito, _Whiplash: How to Survive Our Faster Future_
-- Landsburg, _The Big Questions: Tackling the Problems of Philosophy with Ideas from Mathematics, Economics and Physics_
+- Ito, _Whiplash_
+- Landsburg, _The Big Questions_
 
 **Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
