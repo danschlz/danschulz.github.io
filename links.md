@@ -33,6 +33,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 
 Cherry-picked from my Pocket archive.
 
+- [‘Watership Down’ and the Crisis of Liberalism](https://www.nytimes.com/2019/10/22/opinion/watership-down-liberalism.html); [Archive link](https://web.archive.org/web/20191022102037/https://www.nytimes.com/2019/10/22/opinion/watership-down-liberalism.html)
 - [The Charisma of Leaders](https://metaismurder.com/post/44155254813/the-charisma-of-leaders)
 - [American Cultural Dominance Abroad](https://www.reddit.com/r/TheMotte/comments/bheycc/american_cultural_dominance_abroad/)
 - [Lee Kuan Yew Reflects](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
