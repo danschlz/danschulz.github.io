@@ -14,7 +14,7 @@ Bolano, _The Savage Detectives_ and _2666_. A darkness looms over Bolano's pages
 
 Borges, _Ficciones_. Fantastic stories that are worth a lifetime of re-reading. 
 
-Sledge, _With the Old Breed_. Memoir of a mortarman in the Pacific theater of WWII. Bordeom, horror, loyalty, confusion.
+Sledge, _With the Old Breed_. Memoir of a mortarman in the Pacific theater of WWII. Boredom, horror, loyalty, confusion.
 
 Sebald, _Austerlitz_
 
