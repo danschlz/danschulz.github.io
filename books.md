@@ -6,7 +6,7 @@ permalink: /books/
 
 I love stumbling on [other people's reading lists](#otherlists), and this page is a list of my own favorites. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
-**Favorites**
+**The best**
 
 Adams, _Watership Down_. Ostensibly a children's story, but really a meditation on what it means to be good. Mysticism, friendship, freedom and totalitarianism, fertility, love, war.
 
