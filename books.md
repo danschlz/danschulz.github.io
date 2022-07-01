@@ -7,6 +7,7 @@ permalink: /books/
 I love stumbling on [other people's reading lists](#otherlists), and this page is a list of my own favorites. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 **Favorites**
+
 Adams, _Watership Down_. Ostensibly a children's story, but really a meditation on what it means to be good. Mysticism, friendship, freedom and totalitarianism, fertility, love, war.
 
 Bolano, _The Savage Detectives_ and _2666_. There's a darkness in Bolano's novels that looms over every page but never reveals itself. Like there's a ghost in the room with you. Strange and unlike any other reading experience. Borges' influence is obvious.
