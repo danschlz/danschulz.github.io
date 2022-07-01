@@ -6,7 +6,44 @@ permalink: /books/
 
 I love stumbling on [other people's reading lists](#otherlists), and this page is a list of my own favorites. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
-Jump to:
+**Favorites**
+Adams, _Watership Down_. Ostensibly a children's story, but really a meditation on what it means to be good. Mysticism, friendship, freedom and totalitarianism, fertility, love, war.
+
+Bolano, _The Savage Detectives_ and _2666_. There's a darkness in Bolano's novels that looms over every page but never reveals itself. Like there's a ghost in the room with you. Strange and unlike any other reading experience. Borges' influence is obvious.
+
+Borges, _Ficciones_. Fantastic stories that are worth a lifetime of re-reading. 
+
+Sledge, _With the Old Breed_. War memoir that refuses to glorify any of the horror.
+
+Sebald, _Austerlitz_
+
+Ferrante, _The Neapolitan Novels_
+
+Houellebecq, _Submission_
+
+Zweig, _The World of Yesterday_
+
+Henrich, _The Secret of our Success_
+
+Pesssoa, _The Book of Disquiet_
+
+Murakami, _Hard-Boiled Wonderland and the End of the World_
+
+Wallace, _Consider the Lobster and other Essays_
+
+Chiang, _Stories of your Life and Others_
+
+Hofstadter, _Gödel, Escher, Bach_
+
+Taleb, _Antifragile_
+
+Cowen, _Stubborn Attachments_
+
+Dawkins, _The Selfish Gene_
+
+Mitchell, _Number9Dream_
+
+More books I've read and liked. Jump to:
 * [Economics](#economics)
 * [History](#history)
 * [Philosophy](#philosophy)
