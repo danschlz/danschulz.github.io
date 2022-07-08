@@ -8,23 +8,23 @@ I love stumbling on [other people's reading lists](#otherlists), and this page i
 
 **The best**
 
-Adams, _Watership Down_. Ostensibly a children's story, but really a meditation on what it means to be good. Mysticism, friendship, freedom and totalitarianism, fertility, love, war.
+Adams, _Watership Down_. A parable about what it means be good, told through a story of rabbits. Mysticism, friendship, freedom and totalitarianism, fertility, love, war.
 
-Bolano, _The Savage Detectives_ and _2666_. A darkness looms over Bolano's pages but never reveals itself. Like there's a ghost in the room with you. Strange and unlike any other reading experience. Borges' influence is obvious.
+Bolano, _The Savage Detectives_ and _2666_. Bolano gives you feeling that you're being watched; it's eerie and you can't quite put your finger on it. Brilliant, strange, and unlike any other reading experience.
 
-Borges, _Ficciones_. Fantastic stories that are worth a lifetime of re-reading. 
+Borges, _Ficciones_. By far the best speculative fiction you will ever read written by the most erudite author of the 20th century.
 
-Sledge, _With the Old Breed_. Memoir of a mortarman in the Pacific theater of WWII. Boredom, horror, loyalty, confusion.
+Sledge, _With the Old Breed_. Memoir of a mortarman in the Pacific theater of WWII who isn't trying to impress anyone. Deeply authentic.
 
-Sebald, _Austerlitz_
+Sebald, _Austerlitz_. Sebald's prose has an eerite quality much like Bolano. 
 
-Ferrante, _The Neapolitan Novels_
+Ferrante, _The Neapolitan Novels_. 
 
-Houellebecq, _Submission_
+Houellebecq, _Submission_. 
 
 Zweig, _The World of Yesterday_
 
-Henrich, _The Secret of our Success_
+Henrich, _The Secret of our Success_. The book to read if you're interested in "big history." More rigorous than _Sapiens_, or _Guns, Germs, and Steel_.
 
 Pesssoa, _The Book of Disquiet_
 
