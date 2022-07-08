@@ -16,7 +16,7 @@ Borges, _Ficciones_. By far the best speculative fiction you will ever read writ
 
 Sledge, _With the Old Breed_. Memoir of a mortarman in the Pacific theater of WWII who isn't trying to impress anyone. Deeply authentic.
 
-Sebald, _Austerlitz_. Sebald's prose has an eerite quality much like Bolano. 
+Sebald, _Austerlitz_. Sebald's prose has an eerie quality much like Bolano. 
 
 Ferrante, _The Neapolitan Novels_. 
 
