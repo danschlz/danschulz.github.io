@@ -8,15 +8,18 @@ To my delight, the quality and variety of online writing seems to have been gett
 
 * [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
 * [Fantastic Anachronism](https://fantasticanachronism.com/)
-* [Slate Star Codex](http://slatestarcodex.com/) & [Astral Codex Ten](https://astralcodexten.substack.com/)
+* [Slate Star Codex](http://slatestarcodex.com/) & [Astral Codex Ten](https://astralcodexten.substack.com/archive)
 * [Holden Karnofsky](https://www.cold-takes.com/)
+* [Riva Tez](https://www.hardtowrite.com/)
 * [Applied Divinity Studies](https://applieddivinitystudies.com/)
-* [Dormin](https://dormin.org/)
-* [Tanner Greer](https://scholars-stage.blogspot.com/)
+* [Matt Lakeman](https://dormin.org/)
+* [Tanner Greer](https://scholars-stage.org/)
+* [David Kedrosky](https://daviskedrosky.substack.com/archive)
+* [Elliot Hershberg](https://centuryofbio.substack.com/archive)
 * [Random Critical Analysis](https://randomcriticalanalysis.com/)
+* [Eli Dourado](https://elidourado.com/blog/)
 * [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard)
-* [Leopold Aschenbrenner](https://www.forourposterity.com/blog/)
-* [Neckar's Notes](https://neckar.substack.com/people/13675520-neckar?sort=archive)
+* [Frederik Gieschen](https://neckar.substack.com/archive)
 * [Marc Rubinstein](https://www.netinterest.co/)
 * [Matt Levine](https://www.bloomberg.com/view/topics/money-stuff)
 * [Byrne Hobart](https://diff.substack.com/)
@@ -24,8 +27,6 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Scott Sumner](https://themoneyillusion.com/)
 * [Lyn Alden](https://www.lynalden.com/)
 * [Ben Thompson](https://stratechery.com/)
-* [Benedict Evans](https://www.ben-evans.com/)
-* [Matthew Ball](https://www.matthewball.vc/)
 * [Lyall Taylor](https://lt3000.blogspot.com/)
 * More on [Pocket](https://getpocket.com/@danschulz44)
 
@@ -33,6 +34,8 @@ To my delight, the quality and variety of online writing seems to have been gett
 
 Cherry-picked from my Pocket archive.
 
+- [Joan Didion, "On Keeping a Notebook"](https://accessinghigherground.org/handouts2013/HTCTU%20Alt%20Format%20Manuals/Processing%20PDF%20Sample%20Files/00%20On%20Keeping%20a%20Notebook.pdf)
+- [Joan Didion, "On Self-Respect"](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
 - [Ross Douthat, "‘Watership Down’ and the Crisis of Liberalism"](https://www.nytimes.com/2019/10/22/opinion/watership-down-liberalism.html) ([Archive link](https://web.archive.org/web/20191022102037/https://www.nytimes.com/2019/10/22/opinion/watership-down-liberalism.html))
 - [The Charisma of Leaders](https://metaismurder.com/post/44155254813/the-charisma-of-leaders)
 - [American Cultural Dominance Abroad](https://www.reddit.com/r/TheMotte/comments/bheycc/american_cultural_dominance_abroad/)
