@@ -217,6 +217,7 @@ More books I've read and liked. Jump to:
 - Twain, _The Adventures of Tom Sawyer_
 - Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
+- Hrabal, _Too Loud a Solitude_
 - Mandel, _Station Eleven_
 - Sophocles, _Oedipus the King_
 - Homer
