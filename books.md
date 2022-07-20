@@ -16,7 +16,7 @@ Adams, _Watership Down_. A story about rabbits that says profound things about f
 
 Sebald, _Austerlitz_. Sebald without question writes the most beautiful prose I've had the pleasure of reading.
 
-Zweig, _The World of Yesterday_. This literary memoir is a first person take on what it was like to watch the world get obliterated in the first half of the twentieth century. A reminder that history can reset itself in a single generation.
+Zweig, _The World of Yesterday_. A literary memoir and first person take on what it was like to watch the world get obliterated in the first half of the twentieth century. A reminder that history can reset itself in a single generation.
 
 Henrich, _The Secret of our Success_. A readable introduction to cultural evolution and my favorite book that you might call "big history." More rigorous than _Sapiens_; _Guns, Germs, and Steel_; and the like.
 
