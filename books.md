@@ -10,7 +10,7 @@ I love stumbling on [other people's reading lists](#otherlists), and this page i
 
 Bolano, _The Savage Detectives_ and _2666_. My favorite author. His two big novels are the best and worth every bit of effort.
 
-Borges, _Ficciones_. Speculative fiction is my favorite genre, and Borges is the GOAT. He's also the most erudite author of the twentieth century, and it shows.
+Borges, _Ficciones_. These stories are the easiest way to describe my taste in fiction. Philosophical literature with layers and layers of meaning that rewards rereading. Tlön, Uqbar, Orbis Tertius is my favorite, but I come back to all of them frequently.
 
 Adams, _Watership Down_. A story about rabbits that says profound things about friendship, mythology, fertility, totalitarianism, and more.
 
