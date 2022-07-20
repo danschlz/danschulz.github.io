@@ -8,7 +8,7 @@ I love stumbling on [other people's reading lists](#otherlists), and this page i
 
 **The best**
 
-Bolano, _The Savage Detectives_ and _2666_. My favorite author, Bolano's books are stuipidly brilliant. 
+Bolano, _The Savage Detectives_ and _2666_. My favorite author. His two big novels are the best and worth every bit of effort.
 
 Borges, _Ficciones_. Speculative fiction is my favorite genre, and Borges is the GOAT. He's also the most erudite author of the twentieth century, and it shows.
 
