@@ -24,7 +24,7 @@ Chiang, _Stories of your Life and Others_ and _Exhalation_. Like Borges, Chiang 
 
 Wallace, _Consider the Lobster and other Essays_. When I was a teenager I'd Google "highest IQ person ever" and was always surprised to find Goethe alongside von Neumann. These essays are a quick way to understand how intelligence can express itself verbally.
 
-Houellebecq, _Submission_. Houellebecq is the author most responsible for getting me hooked on fiction, and Submission is the one I started with. Satirical, hilarious, and Straussian.
+Houellebecq, _Submission_. Houellebecq is the author most responsible for getting me hooked on fiction, and Submission is the one I started with. Satirical, hilarious, and a little Straussian.
 
 Ferrante, _The Neapolitan Novels_. 
 
