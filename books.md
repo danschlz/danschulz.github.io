@@ -8,31 +8,31 @@ I love stumbling on [other people's reading lists](#otherlists), and this page i
 
 **The best**
 
-Adams, _Watership Down_. A parable about what it means be good, told through a story of rabbits. Mysticism, friendship, freedom and totalitarianism, fertility, love, war.
+Bolano, _The Savage Detectives_ and _2666_. My favorite author, Bolano's stories make you feel a constant sense of anxiety. The longer two novels are his best.
 
-Bolano, _The Savage Detectives_ and _2666_. Bolano gives you feeling that you're being watched; it's eerie and you can't quite put your finger on it. Brilliant, strange, and unlike any other reading experience.
+Borges, _Ficciones_. Speculative fiction is my favorite genre, and Borges is the GOAT. He's also the most erudite author of the twentieth century, and it shows.
 
-Borges, _Ficciones_. By far the best speculative fiction you will ever read written by the most erudite author of the 20th century.
+Adams, _Watership Down_. A story about rabbits that says profound things about friendship, mythology, fertility, totalitarianism, and more.
 
-Sledge, _With the Old Breed_. Memoir of a mortarman in the Pacific theater of WWII who isn't trying to impress anyone. Deeply authentic.
+Sebald, _Austerlitz_. Sebald without question writes the most beautiful prose I've had the pleasure of reading.
 
-Sebald, _Austerlitz_. Sebald's prose has an eerie quality much like Bolano. 
+Zweig, _The World of Yesterday_. This literary memoir is a first person take on what it was like to watch the world get obliterated in the first half of the twentieth century. A reminder that history can reset itself in a single generation.
+
+Henrich, _The Secret of our Success_. A readable introduction to cultural evolution and my favorite book that you might call "big history." More rigorous than _Sapiens_; _Guns, Germs, and Steel_; and the like.
+
+Chiang, _Stories of your Life and Others_ and _Exhalation_. Like Borges, Chiang writes knock out speculative fiction. Less literary and heavier on the sci-fi.
+
+Wallace, _Consider the Lobster and other Essays_. When I was a teenager I'd Google "highest IQ person ever" and was always surprised to find Goethe alongside von Neumann. These essays are a quick way to understand how intelligence can express itself verbally.
+
+Houellebecq, _Submission_. Houellebecq is the author most responsible for getting me hooked on fiction, and Submission is the one I started with. Satirical, hilarious, and Straussian.
 
 Ferrante, _The Neapolitan Novels_. 
 
-Houellebecq, _Submission_. 
+Pesssoa, _The Book of Disquiet_ 
 
-Zweig, _The World of Yesterday_
-
-Henrich, _The Secret of our Success_. The book to read if you're interested in "big history." More rigorous than _Sapiens_, or _Guns, Germs, and Steel_.
-
-Pesssoa, _The Book of Disquiet_
+Sledge, _With the Old Breed_
 
 Murakami, _Hard-Boiled Wonderland and the End of the World_
-
-Wallace, _Consider the Lobster and other Essays_
-
-Chiang, _Stories of your Life and Others_
 
 Hofstadter, _Gödel, Escher, Bach_
 
