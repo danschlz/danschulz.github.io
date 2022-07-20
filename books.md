@@ -22,7 +22,7 @@ Henrich, _The Secret of our Success_. A readable introduction to cultural evolut
 
 Chiang, _Stories of your Life and Others_ and _Exhalation_. Like Borges, Chiang writes knock out speculative fiction. Less literary and heavier on the sci-fi.
 
-Wallace, _Consider the Lobster and other Essays_. When I was a teenager I'd Google "highest IQ person ever" and was always surprised to find Goethe alongside von Neumann. These essays are a quick way to understand how intelligence can express itself verbally.
+Wallace, _Consider the Lobster and other Essays_. When I was a teenager I'd Google "highest IQ person ever" and was always surprised to find Goethe alongside the likes of John von Neumann. Well, these essays taught me that verbal dexterity can be just as impressive as multiplying eight digit numbers in your head.
 
 Houellebecq, _Submission_. Houellebecq is the author most responsible for getting me hooked on fiction, and Submission is the one I started with. Satirical, hilarious, and a little Straussian.
 
