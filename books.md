@@ -4,6 +4,7 @@ title: Bookshelf
 permalink: /books/
 ---
 
+<!---
 I love stumbling on [other people's reading lists](#otherlists), and this page is a list of my own favorites. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 **The best**
@@ -43,8 +44,9 @@ Cowen, _Stubborn Attachments_
 Dawkins, _The Selfish Gene_
 
 Mitchell, _Number9Dream_
+--->
 
-More books I've read and liked. Jump to:
+Jump to:
 * [Economics](#economics)
 * [History](#history)
 * [Philosophy](#philosophy)
@@ -59,6 +61,7 @@ More books I've read and liked. Jump to:
 * [China](#china)
 * [Politics / Sociology](#politics)
 * [Ideas, broadly](#ideas)
+* [Essays](#essays)
 * [Investing](#investing)
 * [Writing](#writing)
 * [Other reading lists](#otherlists)
@@ -175,9 +178,9 @@ More books I've read and liked. Jump to:
   - _Whatever_
 - Ferrante, _The Neapolitan Novels_
 - Sebald, _Austerlitz_
-- Roth, _American Pastoral_
-- DeLillo, _White Noise_
-- McCarthy, _The Road_
+- McCarthy
+  - _Blood Meridian_
+  - _The Road_
 - Mitchell
   - _Number9Dream_
   - _Cloud Atlas_
@@ -190,6 +193,10 @@ More books I've read and liked. Jump to:
   - _Norweigan Wood_
 - Yourcenar, _Memoirs of Hadrian_
 - Graves, _I, Claudius_
+- Moravia, _Agostino_
+- West, _Miss Lonelyhearts_
+- Bernhard, _The Loser_
+- Johnson, _Jesus' Son_
 - Maugham, _The Razor's Edge_
 - Casares, _The Invention of Morel_
 - Camus, _The Stranger_
@@ -214,9 +221,12 @@ More books I've read and liked. Jump to:
 - Munro, _Hateship, Friendship, Courtship, Loveship, Marriage: Stories_
 - Fitzgerald, _The Great Gatsby_
 - Remarque, _All Quiet on the Western Front_
+- Roth, _American Pastoral_
+- DeLillo, _White Noise_
 - Twain, _The Adventures of Tom Sawyer_
 - Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
+- Salinger, _The Catcher in the Rye_
 - Hrabal, _Too Loud a Solitude_
 - Mandel, _Station Eleven_
 - Sophocles, _Oedipus the King_
@@ -276,6 +286,7 @@ More books I've read and liked. Jump to:
 - Wriston, _The Twilight of Sovereignty_
 - Snow, _The Two Cultures_
 - Zeihan, _The Accidental Superpower_
+- Fisher, _Capitalist Realism_
 
 **Ideas, Broadly** <a name="ideas"></a>
 - Bayles, _Art and Fear_
@@ -288,6 +299,11 @@ More books I've read and liked. Jump to:
 - Thiel, _Zero to One_
 - Ito, _Whiplash_
 - Landsburg, _The Big Questions_
+
+**Essays** <a name="essays"></a>
+- Wallace, _Consider the Lobster_
+- Didion, _Slouching Towards Bethlehem_
+- Houellebecq, _H. P. Lovecraft: Against the World, Against Life_
 
 **Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
