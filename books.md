@@ -158,7 +158,6 @@ Jump to:
 - Knight, _Shoe Dog_
 
 **Fiction** <a name="fiction"></a>
-- Adams, _Watership Down_
 - Pessoa, _The Book of Disquiet_
 - Bolano
   - _The Savage Detectives_
@@ -184,6 +183,7 @@ Jump to:
   - _Number9Dream_
   - _Cloud Atlas_
 - Melville, _Moby-Dick_
+- Adams, _Watership Down_
 - Williams, _Stoner_
 - Buzzati, _The Tartar Steppe_
 - Chesterton, _The Man Who Was Thursday_
