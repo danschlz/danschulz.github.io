@@ -3,10 +3,9 @@ layout: page
 title: Bookshelf
 permalink: /books/
 ---
-
-<!---
 I love stumbling on [other people's reading lists](#otherlists), and this page is a list of my own favorites. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
+<!---
 **The best**
 
 Bolano, _The Savage Detectives_ and _2666_. My favorite author. His two big novels are the best and worth every bit of effort.
