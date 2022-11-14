@@ -222,6 +222,9 @@ Jump to:
 - Remarque, _All Quiet on the Western Front_
 - Roth, _American Pastoral_
 - DeLillo, _White Noise_
+- Hemingway
+  - _The Sun Also Rises_
+  - _The Old Man and the Sea_
 - Twain, _The Adventures of Tom Sawyer_
 - Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
