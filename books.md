@@ -176,6 +176,7 @@ Jump to:
   - _Whatever_
 - Ferrante, _The Neapolitan Novels_
 - Sebald, _Austerlitz_
+- Knausgaard, _My Struggle_
 - McCarthy
   - _Blood Meridian_
   - _The Road_
