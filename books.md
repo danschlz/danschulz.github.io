@@ -175,8 +175,8 @@ Jump to:
   - _The Elementary Particles_
   - _Whatever_
 - Ferrante, _The Neapolitan Novels_
+- Knausgaard, _My Struggle Books I & II_
 - Sebald, _Austerlitz_
-- Knausgaard, _My Struggle_
 - McCarthy
   - _Blood Meridian_
   - _The Road_
