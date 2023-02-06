@@ -146,6 +146,7 @@ Jump to:
 **Business History** <a name="bhistory"></a>
 - Chernow, _Titan, The Life of John D. Rockefeller_
 - Morris, _The Tycoons_
+- Herman, _Freedom's Forge_
 - Ferguson, _The Ascent of Money_
 - Thorndike Jr., _The Outsiders_
 - Thorp, _A Man for All Markets_
@@ -155,6 +156,7 @@ Jump to:
 - Levy, _To Pixar and Beyond_
 - Coulombe, _Becoming Trader Joe_
 - Wright, _Billion Dollar Whale_
+- Cohen, _The Fish that Ate the Whale_
 - Knight, _Shoe Dog_
 
 **Fiction** <a name="fiction"></a>
@@ -176,7 +178,9 @@ Jump to:
   - _Whatever_
 - Ferrante, _The Neapolitan Novels_
 - Knausgaard, _My Struggle Books I & II_
-- Sebald, _Austerlitz_
+- Sebald
+  - _Austerlitz_
+  - _The Emigrants_
 - McCarthy
   - _Blood Meridian_
   - _The Road_
