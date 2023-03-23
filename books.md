@@ -109,6 +109,7 @@ Jump to:
 - Nietzsche  
   - _Twilight of the Idols_  
   - _Ecce Homo_  
+- Mencken, _The Philosophy of Friedrich Nietzsche_
 - Hofstadter, _Godel, Escher, Bach_
 - Palaver, _Rene Girard's Mimetic Theory_
 - Popper  
