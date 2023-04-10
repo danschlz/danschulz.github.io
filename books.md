@@ -281,6 +281,7 @@ Jump to:
 - Studwell, _How Asia Works_
 
 **Politics / Sociology** <a name="politics"></a>
+- Mansfield, _Tocqueville_
 - Hirschman, _Exit, Voice, and Loyalty_
 - Bastiat
   - _The Law_
