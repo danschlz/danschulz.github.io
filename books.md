@@ -232,6 +232,7 @@ Jump to:
   - _The Sun Also Rises_
   - _The Old Man and the Sea_
 - Twain, _The Adventures of Tom Sawyer_
+- Steinbeck, _East of Eden_
 - Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
 - Salinger, _The Catcher in the Rye_
