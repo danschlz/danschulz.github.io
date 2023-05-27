@@ -110,6 +110,7 @@ Jump to:
   - _Twilight of the Idols_  
   - _Ecce Homo_  
 - Mencken, _The Philosophy of Friedrich Nietzsche_
+- La Rochefoucauld, _Collected Maxims and Other Reflections_
 - Hofstadter, _Godel, Escher, Bach_
 - Palaver, _Rene Girard's Mimetic Theory_
 - Popper  
@@ -218,7 +219,9 @@ Jump to:
 - Nabokov
   - _Lolita_
   - _Pnin_
-- Tolstoy, _Hadji Murat_
+- Tolstoy
+  - _The Death of Ivan Ilych_
+  - _Hadji Murat_
 - Bulgakov, _The Master and Margarita_
 - Ishiguro
   - _The Remains of the Day_
@@ -233,6 +236,7 @@ Jump to:
   - _The Old Man and the Sea_
 - Twain, _The Adventures of Tom Sawyer_
 - Steinbeck, _East of Eden_
+- Lispector, _The Hour of the Star_
 - Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
 - Salinger, _The Catcher in the Rye_
@@ -314,6 +318,9 @@ Jump to:
 - Wallace, _Consider the Lobster_
 - Didion, _Slouching Towards Bethlehem_
 - Houellebecq, _H. P. Lovecraft: Against the World, Against Life_
+- Tolstoy, _A Confession_
+- Roosevelt, _Citizenship in a Republic_
+- Baldwin, _The Fire Next Time_
 
 **Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
