@@ -6,7 +6,7 @@ permalink: /links/
 
 To my delight, the quality and variety of online writing seems to have been getting much better over the last two years. I hope the trend continues. These sites are some of my favorites.
 
-* [Marginal Revolution](http://marginalrevolution.com/) (Anyone who finds Tyler interesting, I find interesting)
+* [Marginal Revolution](http://marginalrevolution.com/) (anyone who finds Tyler interesting, I find interesting)
 * [Fantastic Anachronism](https://fantasticanachronism.com/)
 * [Slate Star Codex](http://slatestarcodex.com/) & [Astral Codex Ten](https://astralcodexten.substack.com/archive)
 * [Holden Karnofsky](https://www.cold-takes.com/)
@@ -18,6 +18,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Elliot Hershberg](https://centuryofbio.substack.com/archive)
 * [Random Critical Analysis](https://randomcriticalanalysis.com/)
 * [Eli Dourado](https://elidourado.com/blog/)
+* [Bryan Caplan](https://betonit.substack.com/archive)
 * [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard)
 * [Frederik Gieschen](https://neckar.substack.com/archive)
 * [Marc Rubinstein](https://www.netinterest.co/)
