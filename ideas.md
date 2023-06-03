@@ -7,7 +7,7 @@ At some point in my life, I gave a lot of thought to these people and their idea
 
 * Peter Thiel ([mimesis](https://iep.utm.edu/girard/#H2); [technological progress as a moral imperative](https://youtu.be/F3EBfS9IcB4?t=3868))
 * Tyler Cowen ([the importance of culture](https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html); [there is something wrong with everything](https://marginalrevolution.com/marginalrevolution/2015/04/tyler-cowens-three-laws.html))
-* Nietzsche ([life affirmation](https://plato.stanford.edu/entries/nietzsche/#Affi); [culture's imfluence on morality](https://en.wikipedia.org/wiki/Master%E2%80%93slave_morality))
+* Nietzsche ([life affirmation](https://plato.stanford.edu/entries/nietzsche/#Affi); [culture's impact on morality](https://en.wikipedia.org/wiki/Master%E2%80%93slave_morality))
 * Richard Feynman ([curiosity](https://www.youtube.com/watch?v=lmTmGLzPVyM); [sense of awe](https://www.youtube.com/watch?v=36GT2zI8lVA))
 * Friedrich Hayek ([cultural evolution](https://www.docdroid.net/n8mk5H9/the-three-sources-of-human-values-pdf); [the use of knowledge in society](http://www.econlib.org/library/Essays/hykKnw1.html))
 * Nassim Taleb ([antifragility](https://en.wikipedia.org/wiki/Antifragility); [optionality](https://25iq.com/2013/10/13/a-dozen-things-ive-learned-from-nassim-taleb-about-optionalityinvesting/))
