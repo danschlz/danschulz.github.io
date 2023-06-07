@@ -6,7 +6,7 @@ permalink: /ideas/
 At some point in my life, I gave a lot of thought to these people and their ideas.
 
 * Peter Thiel ([mimesis](https://iep.utm.edu/girard/#H2); [technological progress as a moral imperative](https://youtu.be/F3EBfS9IcB4?t=3868))
-* Tyler Cowen ([importance of culture](https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html); [something is wrong with everything](https://marginalrevolution.com/marginalrevolution/2015/04/tyler-cowens-three-laws.html))
+* Tyler Cowen ([importance of culture](https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html); [there is something is wrong with everything](https://marginalrevolution.com/marginalrevolution/2015/04/tyler-cowens-three-laws.html))
 * Nietzsche ([life affirmation](https://plato.stanford.edu/entries/nietzsche/#Affi); [culture and morality](https://en.wikipedia.org/wiki/Master%E2%80%93slave_morality))
 * Richard Feynman ([curiosity](https://www.youtube.com/watch?v=lmTmGLzPVyM); [sense of awe](https://www.youtube.com/watch?v=36GT2zI8lVA))
 * Friedrich Hayek ([cultural evolution](https://www.docdroid.net/n8mk5H9/the-three-sources-of-human-values-pdf); [the use of knowledge in society](http://www.econlib.org/library/Essays/hykKnw1.html))
