@@ -19,7 +19,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Matt Lakeman](https://dormin.org/)
 * [David Kedrosky](https://daviskedrosky.substack.com/archive)
 * [Random Critical Analysis](https://randomcriticalanalysis.com/)
-* [Eli Dourado](https://elidourado.com/blog/)
+* [Eli Dourado](https://elidourado.com/archive/)
 * [Bryan Caplan](https://betonit.substack.com/archive)
 * [Roger's Bacon](https://www.secretorum.life/archive)
 * [Frederik Gieschen](https://neckar.substack.com/archive)
