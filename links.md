@@ -9,16 +9,19 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Marginal Revolution](http://marginalrevolution.com/) (anyone who finds Tyler interesting, I find interesting)
 * [Fantastic Anachronism](https://fantasticanachronism.com/)
 * [Slate Star Codex](http://slatestarcodex.com/) & [Astral Codex Ten](https://astralcodexten.substack.com/archive)
-* [Holden Karnofsky](https://www.cold-takes.com/)
 * [Riva Tez](https://www.hardtowrite.com/)
+* [Holden Karnofsky](https://www.cold-takes.com/)
 * [Applied Divinity Studies](https://applieddivinitystudies.com/)
-* [Matt Lakeman](https://dormin.org/)
 * [Tanner Greer](https://scholars-stage.org/)
+* [Erik Hoel](https://www.theintrinsicperspective.com/archive)
+* [N.S. Lyons](https://theupheaval.substack.com/archive)
+* [Zvi Mowshowitz](https://thezvi.substack.com/archive)
+* [Matt Lakeman](https://dormin.org/)
 * [David Kedrosky](https://daviskedrosky.substack.com/archive)
 * [Random Critical Analysis](https://randomcriticalanalysis.com/)
 * [Eli Dourado](https://elidourado.com/blog/)
 * [Bryan Caplan](https://betonit.substack.com/archive)
-* [Agnes Callard](https://philosophy.uchicago.edu/faculty/a-callard)
+* [Roger's Bacon](https://www.secretorum.life/archive)
 * [Frederik Gieschen](https://neckar.substack.com/archive)
 * [Marc Rubinstein](https://www.netinterest.co/)
 * [Matt Levine](https://www.bloomberg.com/view/topics/money-stuff)
@@ -28,9 +31,8 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Lyn Alden](https://www.lynalden.com/)
 * [Ben Thompson](https://stratechery.com/)
 * [Lyall Taylor](https://lt3000.blogspot.com/)
-* More on [Pocket](https://getpocket.com/@danschulz44)
 
-### Articles
+And a few great articles:
 
 - [Time Magazine, "Lee Kuan Yew Reflects" (2005)](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
 - [jsomers, Speed Matters (2015)](https://jsomers.net/blog/speed-matters)
@@ -44,7 +46,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 - [Tanner Greer, "Questing for Transcendence" (2019)](https://scholars-stage.blogspot.com/2019/04/on-quests-for-transcendence.html)
 - [Bryan Caplan, "Against Human Weakness" (2009)](https://www.econlib.org/archives/2009/09/against_human_w.html)
 - [Leopold Aschenbrenner, "Burkean Longtermism" (2021)](https://www.forourposterity.com/burkean-longtermism/)
-- [Riva-Melissa Tez, "The Grandest Vision for Humanity" (2014)](https://www.hardtowrite.com/grandestvision/)
+- [Riva Tez, "The Grandest Vision for Humanity" (2014)](https://www.hardtowrite.com/grandestvision/)
   - "We live in a world that rests on an assumption that we can fathom what is possible and what is not. Yet history has shown us that the impossible often becomes possible, and that the dreams that seem out of our reach become very real. Everything on this earth, every one of humanity’s achievements is simply a manifestation of how high we have previously aimed. What’s the grandest vision that humanity can aspire to?"
 
 - [Gareth Cook, The Economist Who Would Fix the American Dream" (2019)](https://www.theatlantic.com/magazine/archive/2019/08/raj-chettys-american-dream/592804/)
