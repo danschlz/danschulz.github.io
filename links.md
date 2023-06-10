@@ -15,7 +15,6 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Matt Lakeman](https://dormin.org/)
 * [Tanner Greer](https://scholars-stage.org/)
 * [David Kedrosky](https://daviskedrosky.substack.com/archive)
-* [Elliot Hershberg](https://centuryofbio.substack.com/archive)
 * [Random Critical Analysis](https://randomcriticalanalysis.com/)
 * [Eli Dourado](https://elidourado.com/blog/)
 * [Bryan Caplan](https://betonit.substack.com/archive)
