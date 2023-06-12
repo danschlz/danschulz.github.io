@@ -38,6 +38,8 @@ And a few great articles:
 - [jsomers, Speed Matters (2015)](https://jsomers.net/blog/speed-matters)
 - [Venkatesh Rao, "A Big Little Idea Called Legibility" (2010)](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)
 - [David Sheff, "Playboy Interview: Steven Jobs" (1985)](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
+- [Alica Maz, "You Can Just Do Stuff" (2023)](https://alicemaz.substack.com/p/you-can-just-do-stuff)
+- [Richard Hamming, "You and Your Research" (1986)](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 - [Joan Didion, "On Keeping a Notebook" (1968)](https://accessinghigherground.org/handouts2013/HTCTU%20Alt%20Format%20Manuals/Processing%20PDF%20Sample%20Files/00%20On%20Keeping%20a%20Notebook.pdf)
 - [Joan Didion, "On Self-Respect" (1961)](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
 - [Ross Douthat, "‘Watership Down’ and the Crisis of Liberalism" (2019)](https://www.nytimes.com/2019/10/22/opinion/watership-down-liberalism.html) ([Archive link](https://web.archive.org/web/20191022102037/https://www.nytimes.com/2019/10/22/opinion/watership-down-liberalism.html))
