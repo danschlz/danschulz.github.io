@@ -35,6 +35,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 And a few great articles:
 
 - [Time Magazine, "Lee Kuan Yew Reflects" (2005)](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
+- [Ben Kuhn, "Staring into the abyss as a core life skill" (2022)](https://www.benkuhn.net/abyss/)
 - [jsomers, Speed Matters (2015)](https://jsomers.net/blog/speed-matters)
 - [Venkatesh Rao, "A Big Little Idea Called Legibility" (2010)](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)
 - [David Sheff, "Playboy Interview: Steven Jobs" (1985)](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
