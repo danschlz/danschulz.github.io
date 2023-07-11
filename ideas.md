@@ -6,16 +6,16 @@ permalink: /ideas/
 At some point in my life, I gave a lot of thought to these people and their ideas.
 
 * Peter Thiel ([mimesis](https://iep.utm.edu/girard/#H2), [technological progress as a moral imperative](https://youtu.be/F3EBfS9IcB4?t=3868))
-* Tyler Cowen ([importance of culture](https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html), [there is something is wrong with everything](https://marginalrevolution.com/marginalrevolution/2015/04/tyler-cowens-three-laws.html))
-* Nietzsche ([life affirmation](https://en.wikipedia.org/wiki/Nietzschean_affirmation), [culture and morality](https://en.wikipedia.org/wiki/Master%E2%80%93slave_morality))
+* Tyler Cowen ([culture is everything](https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html), [there is something is wrong with everything](https://marginalrevolution.com/marginalrevolution/2015/04/tyler-cowens-three-laws.html))
+* Friedrich Nietzsche ([life affirmation](https://en.wikipedia.org/wiki/Nietzschean_affirmation), [culture and morality](https://en.wikipedia.org/wiki/Master%E2%80%93slave_morality))
 * Richard Feynman ([curiosity](https://www.youtube.com/watch?v=lmTmGLzPVyM), [sense of awe](https://www.youtube.com/watch?v=36GT2zI8lVA))
 * Friedrich Hayek ([cultural evolution](https://www.docdroid.net/n8mk5H9/the-three-sources-of-human-values-pdf), [the use of knowledge in society](http://www.econlib.org/library/Essays/hykKnw1.html))
 * Nassim Taleb ([antifragility](https://en.wikipedia.org/wiki/Antifragility), [optionality](https://25iq.com/2013/10/13/a-dozen-things-ive-learned-from-nassim-taleb-about-optionalityinvesting/))
 * Naval Ravikant ([autodidacticism](https://www.youtube.com/watch?v=dmBoU93TRlo), [life fulfillment](https://youtu.be/X7tnoR6a-8A))
 
 <!--
-* Leo Strauss ([Esotericism](https://plato.stanford.edu/entries/strauss-leo/#Esot); [liberalism and nihilism](https://en.wikipedia.org/wiki/Leo_Strauss#Liberalism_and_nihilism))
-* Agnes Callard ([Proleptic reasons](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2019-06/Callard%20Proleptic%20Reasons%20Final%20Published%20Version%20OSME.pdf); [aspiration](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2018-09/Aspiration%20final%20ms.%20UV.pdf))
+* Leo Strauss ([esotericism](https://plato.stanford.edu/entries/strauss-leo/#Esot); [liberalism and nihilism](https://en.wikipedia.org/wiki/Leo_Strauss#Liberalism_and_nihilism))
+* Agnes Callard ([proleptic reasons](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2019-06/Callard%20Proleptic%20Reasons%20Final%20Published%20Version%20OSME.pdf); [aspiration](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2018-09/Aspiration%20final%20ms.%20UV.pdf))
 -->
 
 
