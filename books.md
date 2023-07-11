@@ -344,6 +344,7 @@ Jump to:
 * [Jonathan Bi](https://johnathanbi.com/readinglist)
 * [Kevin Simler](http://www.meltingasphalt.com/what-im-reading/)
 * [Venkatesh Rao](https://www.ribbonfarm.com/now-reading/)
+* [Brendan McCord](https://www.brendanmccord.com/readinglist)
 * [David Chapman](https://meaningness.com/subcultures/comments#comment-1078)
 * [Zhurnal](http://zhurnaly.com/cgi-bin/wiki/BooksToConsider)
 * [Taleb’s Amazon reviews](https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_srp_d_pdp?ie=UTF8)
