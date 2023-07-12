@@ -292,7 +292,9 @@ Jump to:
   - _The Law_
   - _That Which Is Seen, and That Which Is Not Seen_
 - Lasch, _The Culture of Narcissism_
-- Caplan, _The Myth of the Rational Voter_
+- Caplan
+  - _The Myth of the Rational Voter_
+  - _Voters as Mad Scientists: Essays on Political Irrationality_
 - Kling, _The Three Languages of Politics_
 - Gurri, _The Revolt of the Public_
 - Hayek, _The Road to Serfdom_
