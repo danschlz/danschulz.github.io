@@ -6,7 +6,12 @@ permalink: /movies/
 
 I got more interested in movies during the 2020 pandemic. These are some favorites.
 
-* Before Sunrise / Before Sunset / Before Midnight / Boyhood
+* Before Sunrise / Before Sunset / Before Midnight / Boyhood / Dazed and Confused
+* Paris, Texas
+* City of God
+* Pulp Fiction / Reservoir Dogs / Inglourious Basterds / Once Upon a Time... in Hollywood
+* Aftersun
+* After Yang
 * 2001: A Space Odyssey / Lolita / Eyes Wide Shut / Barry Lyndon
 * A Separation / About Elly
 * The Last Days of Disco
@@ -18,7 +23,6 @@ I got more interested in movies during the 2020 pandemic. These are some favorit
 * Burning
 * Rushmore
 * La Soufrière / Lessons of Darkness
-* City of God
 * The Conversation / The Godfather
 * Cloud Atlas / The Matrix
 * The Lighthouse / The Witch
@@ -42,12 +46,11 @@ I got more interested in movies during the 2020 pandemic. These are some favorit
 * The Fountain
 * Primer / Upstream Color
 * Mulholland Drive / Blue Velvet
-* Pulp Fiction / Reservoir Dogs / Inglourious Basterds / Once Upon a Time... in Hollywood
 * Goodfellas / Casino / The Departed / After Hours
 * Incendies / Enemy / Prisoners / Sicario / Arrival / Dune
 * The Dark Knight / Inception / Interstellar / Memento / The Prestige
 * The Dawn Wall
-* More on [Letterboxd](https://letterboxd.com/danschlz/films/diary/)
+* More on [Letterboxd](https://letterboxd.com/danschulz/films/diary/)
 
 ### Commentary
 * [Alex Tabarrok on The Gaslighting of Parasite](https://marginalrevolution.com/marginalrevolution/2020/06/the-gaslighting-of-parasite.html)
