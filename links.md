@@ -12,6 +12,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Riva Tez](https://www.hardtowrite.com/)
 * [Holden Karnofsky](https://www.cold-takes.com/)
 * [Applied Divinity Studies](https://applieddivinitystudies.com/)
+* [Steve Hsu](https://infoproc.blogspot.com/)
 * [Tanner Greer](https://scholars-stage.org/)
 * [Erik Hoel](https://www.theintrinsicperspective.com/archive)
 * [N.S. Lyons](https://theupheaval.substack.com/archive)
