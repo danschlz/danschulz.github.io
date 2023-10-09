@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-This is my personal site where I share few of the things I'm most interested in. I also host a podcast where I interview people I admire and learn a lot from at [danschulz.co](https://www.danschulz.co/).
+This is my personal site that lists a few of the things I'm most interested in. I also host a podcast where I interview people I admire and learn a lot from at [danschulz.co](https://www.danschulz.co/).
 
 [Ideas](/ideas/)  
 [Books](/books/)  
