@@ -18,6 +18,10 @@ I got more interested in movies during the 2020 pandemic. These are some favorit
 * Rear Window / North by Northwest / Vertigo
 * The Apartment
 * Do the Right Thing
+* Ghost in the Shell
+* Possession
+* Talk to Me
+* Buffalo '66
 * Woman in the Dunes
 * Memories of Murder / Parasite
 * Burning
