@@ -7,6 +7,7 @@ Below are links to a few of the things I'm most interested in. I also host a pod
 [Books](/books/)  
 [Links](/links/)  
 [Movies](/movies/)  
-[Videos](/videos/)
+[Videos](/videos/)  
+[Podcasts](/podcasts/)
 
 <a class="muted small" href="/contact">Contact</a>
