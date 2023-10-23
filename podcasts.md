@@ -3,7 +3,7 @@ layout: page
 title: Podcasts
 permalink: /podcasts/
 ---
-Podcast's I recommend.
+Podcasts I recommend.
 
 **General**
 - [Conversations with Tyler](https://conversationswithtyler.com/) (Tyler Cowen)
