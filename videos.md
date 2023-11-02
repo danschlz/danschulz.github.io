@@ -7,14 +7,20 @@ permalink: /videos/
 Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I think video is an important medium and a great way to learn.
 
 ### Videos
-* [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
+* [Paul Romer and Endogenous Growth Theory](https://www.youtube.com/watch?v=NxqNRnxUd7E)
 * [Marjorie Garber: Shakespeare After All](https://www.youtube.com/playlist?list=PLw4-Fp0S2dJZxt7cIjyX7tj8IqmyQighi)
 * [Anarchism: Vignettes Against Hobbes](https://www.youtube.com/watch?v=wcMyJ3BgM1k)
 * [Alan Kay on Learning](https://www.youtube.com/watch?v=50L44hEtVos&list=FLR5OhzKy6ZkaNfkZnNrJObA)
 * [You Are Two: Split Brain Experiments](https://www.youtube.com/watch?v=wfYbgdo8e-8&list=FLR5OhzKy6ZkaNfkZnNrJObA)
-* [Raj Chetty: Improving Equality of Opporutnity](https://www.youtube.com/watch?v=ueY5MB5w7_I&list=PL84TZvatkf54lki_SeHB-KzqV8ZIaLi7R)
+* [1977: Sylvester Stallone on making ROCKY](https://www.youtube.com/watch?v=dFlybZL1mWE&list=FLR5OhzKy6ZkaNfkZnNrJObA)
+* [Henry Wadsworth Longfellow - 'Psalm of Life'](https://www.youtube.com/watch?v=MPoJYC4ueLA)
+* [Rudyard Kipling - 'If'](https://www.youtube.com/watch?v=FyXn0LcKBCM)
+* [WANDERER | The Profound Anglo-Saxon Poem that Tolkien Used in Lord of the Rings: The Two Towers](https://www.youtube.com/watch?v=tSJ7Sl-Q-HE)
 * [PBS Documentary on Napoleon](https://www.youtube.com/watch?v=MrbiSUgZEbg)
-* [Alan Ko: Lectures on Finance Theory](https://www.youtube.com/watch?v=HdHlfiOAJyE&list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW)
+* [Lee Kuan Yew versus the SIA Strikers](https://www.youtube.com/watch?v=ytMXSLeqFMY)
+* [Caravaggio: Master Of Light](https://www.youtube.com/watch?v=R1lcb_7gj5k)
+* [Alan Ko: Lectures on Finance Theory](https://www.youtube.com/watch?v=HdHlfiOAJyE)
+* [david foster wallace being based for 6 minutes](https://www.youtube.com/watch?v=E8ZONdfzmBU)
 * [Robert Saplosky: Lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
 * [Peter Thiel Debates: Should Technology Treat Death as an Enemy?](https://www.youtube.com/watch?v=iNDYvf6-NMw) (This is Thiel at his best)
 
