@@ -16,6 +16,7 @@ Podcasts I recommend.
 - [The Joe Walker Podcast](https://josephnoelwalker.com/)
 - [The 80,000 Hours Podcast](https://80000hours.org/podcast/)
 - [Clearer Thinking with Spencer Greenberg](https://podcast.clearerthinking.org/)
+- [Red Scare](https://redscarepodcast.libsyn.com/)
 
 **History**
 - [The Rest Is History](https://podcasts.apple.com/gb/podcast/the-rest-is-history/id1537788786) (Tom Holland & Dominic Sandbrook)
