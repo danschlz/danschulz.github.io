@@ -28,7 +28,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 * [Alexey Guzey](https://guzey.com/)
 * [Matt Lakeman](https://dormin.org/)
 
-Particularly great posts:
+All-time great posts:
 
 - [Time Magazine, "Lee Kuan Yew Reflects" (2005)](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
 - [Riva Tez, "The Grandest Vision for Humanity" (2014)](https://www.hardtowrite.com/grandestvision/)
