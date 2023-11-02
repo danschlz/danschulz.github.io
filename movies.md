@@ -58,7 +58,6 @@ I got more interested in movies during the 2020 pandemic. These are some favorit
 
 ### Commentary
 * [Alex Tabarrok on The Gaslighting of Parasite](https://marginalrevolution.com/marginalrevolution/2020/06/the-gaslighting-of-parasite.html)
-  * "The conventional interpretation is so obviously wrong that I cannot but think that it is anything but a collective gaslighting... It’s amazing that a film this politically incorrect, even reactionary, could win multiple awards, it’s as if The Camp of the Saints won best picture."
-* [Tyler Cowen, Abe Callard, and Agnes Callard talk about Asghar Farhadi, the value of the big screen, and more.](https://www.listennotes.com/podcasts/subject-to-change/tyler-cowen-rates-a-separation-2JTelKYhznx/)
+* [Tyler Cowen, Abe Callard, and Agnes Callard talk about Asghar Farhadi, the value of the big screen, and more](https://www.listennotes.com/podcasts/subject-to-change/tyler-cowen-rates-a-separation-2JTelKYhznx/)
 * [Werner Herzog on why he makes films](https://youtu.be/PxfYDUVnHg4)
 * [Jackie Chan: How to Do Action Comedy](https://www.youtube.com/watch?v=Z1PCtIaM_GQ)
