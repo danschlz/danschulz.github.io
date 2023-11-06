@@ -30,6 +30,7 @@ To my delight, the quality and variety of online writing seems to have been gett
 
 All-time great posts:
 
+- [Joseph Heath, Why the Culture Wins: An Appreciation of Iain M. Banks (2017)](https://www.sciphijournal.org/index.php/2017/11/12/why-the-culture-wins-an-appreciation-of-iain-m-banks/)
 - [Time Magazine, "Lee Kuan Yew Reflects" (2005)](http://content.time.com/time/subscriber/printout/0,8816,1137705,00.html)
 - [Riva Tez, "The Grandest Vision for Humanity" (2014)](https://www.hardtowrite.com/grandestvision/)
 - [Jose Luis Ricon on the distinction between public and private organizations (2018)](https://nintil.com/the-crumbling-public-private-distinction) 
