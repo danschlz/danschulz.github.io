@@ -8,6 +8,8 @@ At some point in my life, I gave a lot of thought to these people and their idea
 * Peter Thiel ([mimesis](https://iep.utm.edu/girard/#H2), [technological progress as a moral imperative](https://youtu.be/F3EBfS9IcB4?t=3868))
 * Tyler Cowen ([culture is everything](https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html), [there is something is wrong with everything](https://marginalrevolution.com/marginalrevolution/2015/04/tyler-cowens-three-laws.html))
 * Friedrich Nietzsche ([life affirmation](https://en.wikipedia.org/wiki/Nietzschean_affirmation), [evolution of ethics](https://en.wikipedia.org/wiki/On_the_Genealogy_of_Morality))
+* Ludwig Wittgenstein ([language games](https://en.wikipedia.org/wiki/Language_game_(philosophy)), [philosophy as therapy](http://www.paulgraham.com/philosophy.html))
+* William James ([the energies of men](https://www.jstor.org/stable/2177575), [the will to believe](https://en.wikipedia.org/wiki/The_Will_to_Believe))
 * Richard Feynman ([curiosity](https://www.youtube.com/watch?v=lmTmGLzPVyM), [sense of awe](https://www.youtube.com/watch?v=36GT2zI8lVA))
 * Friedrich Hayek ([cultural evolution](https://www.docdroid.net/n8mk5H9/the-three-sources-of-human-values-pdf), [the use of knowledge in society](http://www.econlib.org/library/Essays/hykKnw1.html))
 * Nassim Taleb ([antifragility](https://en.wikipedia.org/wiki/Antifragility), [optionality](https://25iq.com/2013/10/13/a-dozen-things-ive-learned-from-nassim-taleb-about-optionalityinvesting/))
