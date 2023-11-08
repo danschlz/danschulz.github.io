@@ -10,12 +10,12 @@ Podcasts I recommend.
 - [Manifold](https://www.manifold1.com/) (Steve Hsu)
 - [In Our Time](https://www.bbc.co.uk/programmes/b006qykl) (Melvyn Bragg)
 - [Dwarkesh Podcast](https://www.dwarkeshpatel.com/podcast) (Dwarkesh Patel)
-- [Razib Khan's Unsupervised Learning](https://unsupervisedlearning.libsyn.com/site)
+- [Unsupervised Learning](https://unsupervisedlearning.libsyn.com/site) (Razib Khan)
 - [From the New World](https://www.fromthenew.world/podcast) (Brian Chau)
-- [What Really Matters with Walter Russell Mead](https://www.tabletmag.com/podcasts/what-really-matters)
+- [What Really Matters](https://www.tabletmag.com/podcasts/what-really-matters) (Walter Russell Mead)
 - [The Joe Walker Podcast](https://josephnoelwalker.com/)
-- [The 80,000 Hours Podcast](https://80000hours.org/podcast/)
-- [Clearer Thinking with Spencer Greenberg](https://podcast.clearerthinking.org/)
+- [The 80,000 Hours Podcast](https://80000hours.org/podcast/) (Rob Wiblin)
+- [Clearer Thinking](https://podcast.clearerthinking.org/) (Spencer Greenberg)
 - [Red Scare](https://redscarepodcast.libsyn.com/)
 
 **History**
