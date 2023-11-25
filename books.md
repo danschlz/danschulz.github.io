@@ -174,6 +174,10 @@ Jump to:
 - Pynchon
   - _V._
   - _The Crying of Lot 49_
+- Tolstoy
+  - _Anna Karenina_
+  - _The Death of Ivan Ilych_
+  - _Hadji Murat_
 - Houellebecq
   - _Submission_
   - _The Elementary Particles_
@@ -219,9 +223,6 @@ Jump to:
 - Nabokov
   - _Lolita_
   - _Pnin_
-- Tolstoy
-  - _The Death of Ivan Ilych_
-  - _Hadji Murat_
 - Bulgakov, _The Master and Margarita_
 - Ishiguro
   - _The Remains of the Day_
