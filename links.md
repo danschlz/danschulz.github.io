@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-To my delight, the quality and variety of online writing seems to have been getting much better over the last two years. I hope the trend continues. These sites are some of my favorites.
+To my delight, the quality and variety of online writing seems to have improved a lot since the pandemic. I hope the trend continues. These sites are some of my favorites.
 
 * [Marginal Revolution](http://marginalrevolution.com/) (anyone who finds Tyler interesting, I find interesting)
 * [Fantastic Anachronism](https://fantasticanachronism.com/)
