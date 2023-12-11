@@ -21,6 +21,7 @@ Contra [Byrne Hobart](https://medium.com/@byrnehobart/read-2c3d4fba90ab), I thin
 * [Alan Ko: Lectures on Finance Theory](https://www.youtube.com/watch?v=HdHlfiOAJyE)
 * [david foster wallace being based for 6 minutes](https://www.youtube.com/watch?v=E8ZONdfzmBU)
 * [Robert Saplosky: Lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
+* [Jeff Bezos on stress](https://www.youtube.com/watch?v=NqVoOC2azZI)
 * [Peter Thiel Debates: Should Technology Treat Death as an Enemy?](https://www.youtube.com/watch?v=iNDYvf6-NMw) (This is Thiel at his best)
 
 ### Great YouTube channels <a name="youtube"></a>
