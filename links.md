@@ -15,6 +15,7 @@ To my delight, the quality and variety of online writing seems to have improved 
 * [Steve Hsu](https://infoproc.blogspot.com/)
 * [Tanner Greer](https://scholars-stage.org/)
 * [Samuel Hammond](https://www.secondbest.ca/)
+* [Noah Smith](https://www.noahpinion.blog/)
 * [Erik Hoel](https://www.theintrinsicperspective.com/archive)
 * [N.S. Lyons](https://theupheaval.substack.com/archive)
 * [Zvi Mowshowitz](https://thezvi.substack.com/archive)
