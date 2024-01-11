@@ -7,6 +7,7 @@ permalink: /links/
 To my delight, the quality and variety of online writing seems to have improved a lot since the pandemic. I hope the trend continues. These sites are some of my favorites.
 
 * [Marginal Revolution](http://marginalrevolution.com/) (anyone who finds Tyler interesting, I find interesting)
+* [The Browser](https://thebrowser.com/) (the best place to find great writing)
 * [Fantastic Anachronism](https://fantasticanachronism.com/)
 * [Slate Star Codex](http://slatestarcodex.com/) & [Astral Codex Ten](https://astralcodexten.substack.com/archive)
 * [Riva Tez](https://www.hardtowrite.com/)
