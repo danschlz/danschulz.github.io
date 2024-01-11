@@ -57,6 +57,7 @@ I got more interested in movies during the 2020 pandemic. These are some favorit
 * More on [Letterboxd](https://letterboxd.com/danschulz/films/diary/)
 
 ### Commentary
+* [How To Analyze Movies – Film Studies 101](https://www.youtube.com/watch?v=ahHIifcFyqk)
 * [Alex Tabarrok on The Gaslighting of Parasite](https://marginalrevolution.com/marginalrevolution/2020/06/the-gaslighting-of-parasite.html)
 * [Tyler Cowen, Abe Callard, and Agnes Callard talk about Asghar Farhadi, the value of the big screen, and more](https://www.listennotes.com/podcasts/subject-to-change/tyler-cowen-rates-a-separation-2JTelKYhznx/)
 * [Werner Herzog on why he makes films](https://youtu.be/PxfYDUVnHg4)
