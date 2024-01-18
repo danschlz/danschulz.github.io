@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Below are links to a few of the things I'm most interested in. I also host a podcast where I interview people I admire and learn a lot from at [danschulz.co](https://www.danschulz.co/).
+Below are links to a few of the things I'm most interested in. I also host a podcast where I interview people I admire and learn a lot from at [danschulz.co](https://www.danschulz.co/) (or head to [YouTube](https://www.youtube.com/@dnschlz), [Spotify](https://open.spotify.com/show/59YkrYwjAgiKAVMNGWPaLE), [Apple](https://podcasts.apple.com/us/podcast/undertone/id1693303954)).
 
 [Ideas](/ideas/)  
 [Books](/books/)  
