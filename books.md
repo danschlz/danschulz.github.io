@@ -10,11 +10,11 @@ I love stumbling on [other people's reading lists](#otherlists), and this page i
 
 Bolano, _The Savage Detectives_ and _2666_. My favorite author. His two big novels are the best and worth every bit of effort.
 
-Borges, _Ficciones_. These stories are the easiest way to describe my taste in fiction. Philosophical literature with layers and layers of meaning that rewards rereading. Tlön, Uqbar, Orbis Tertius is my favorite, but I come back to all of them frequently.
+Borges, _Ficciones_. These stories are the easiest way to describe my taste in fiction. Philosophical literature with layers of meaning that reward rereading. Tlön, Uqbar, Orbis Tertius is my favorite, but I come back to all of them frequently.
 
 Adams, _Watership Down_. A story about rabbits that says profound things about friendship, mythology, fertility, totalitarianism, and more.
 
-Sebald, _Austerlitz_. Sebald without question writes the most beautiful prose I've had the pleasure of reading.
+Sebald, _Austerlitz_. Sebald is perhaps the most sublime prose stylist.
 
 Zweig, _The World of Yesterday_. A literary memoir and first person take on what it was like to watch the world get obliterated in the first half of the twentieth century. A reminder that history can reset itself in a single generation.
 
@@ -22,9 +22,9 @@ Henrich, _The Secret of our Success_. A readable introduction to cultural evolut
 
 Chiang, _Stories of your Life and Others_ and _Exhalation_. Like Borges, Chiang writes knock out speculative fiction. Less literary and heavier on the sci-fi.
 
-Wallace, _Consider the Lobster and other Essays_. When I was a teenager I'd Google "highest IQ person ever" and was always surprised to find Goethe alongside the likes of John von Neumann. Well, these essays taught me that verbal dexterity can be just as impressive as multiplying eight digit numbers in your head.
+Wallace, _Consider the Lobster and other Essays_. When I was a teenager I'd Google "highest IQ person ever" and was always surprised to find Goethe alongside John von Neumann. These essays taught me that verbal dexterity can be just as impressive as multiplying eight digit numbers in your head.
 
-Houellebecq, _Submission_. Houellebecq is the author most responsible for getting me hooked on fiction, and Submission is the one I started with. Satirical, hilarious, and a little Straussian.
+Houellebecq, _Submission_. Houellebecq is the author most responsible for getting me hooked on fiction, and Submission is the one I started with. Satirical, hilarious, Straussian.
 
 Ferrante, _The Neapolitan Novels_. 
 
@@ -60,6 +60,7 @@ Jump to:
 * [China](#china)
 * [Politics / Sociology](#politics)
 * [Ideas, broadly](#ideas)
+* [Music](#music)
 * [Essays](#essays)
 * [Investing](#investing)
 * [Writing](#writing)
@@ -206,6 +207,7 @@ Jump to:
 - Moravia, _Agostino_
 - West, _Miss Lonelyhearts_
 - Bernhard, _The Loser_
+- Auster, _The New York Trilogy_
 - Johnson, _Jesus' Son_
 - Maugham, _The Razor's Edge_
 - Casares, _The Invention of Morel_
@@ -237,6 +239,7 @@ Jump to:
   - _The Old Man and the Sea_
 - Twain, _The Adventures of Tom Sawyer_
 - Steinbeck, _East of Eden_
+- Moshfegh, _My Year of Rest and Relaxation_
 - Lispector, _The Hour of the Star_
 - Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
@@ -316,6 +319,11 @@ Jump to:
 - Thiel, _Zero to One_
 - Ito, _Whiplash_
 - Landsburg, _The Big Questions_
+
+**Music** <a name="music"></a>
+- Schonberg, _The Lives of the Great Composers_
+- Johnson, _Mozart: A Life_
+- Murakami,  _Absolutely on Music: Conversations with Seiji Ozawa_
 
 **Essays** <a name="essays"></a>
 - Wallace, _Consider the Lobster_
