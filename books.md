@@ -61,6 +61,7 @@ Jump to:
 * [Politics / Sociology](#politics)
 * [Ideas, broadly](#ideas)
 * [Music](#music)
+* [Art](#art)
 * [Essays](#essays)
 * [Investing](#investing)
 * [Writing](#writing)
@@ -105,6 +106,7 @@ Jump to:
 - Anderson, _Lawrence in Arabia_
 - Durant, _The Lessons of History_
 - Hoffman, _The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy_
+- Higgs, _Stranger Than We Can Imagine: Making Sense of the Twentieth Century_
 
 **Philosophy** <a name="philosophy"></a>
 - Nietzsche  
@@ -325,7 +327,12 @@ Jump to:
 - Johnson, _Mozart: A Life_
 - Murakami,  _Absolutely on Music: Conversations with Seiji Ozawa_
 
+**Art** <a name="art"></a>
+- Gombrich, _The Story of Art_
+- Berger, _Ways of Seeing_
+
 **Essays** <a name="essays"></a>
+- Rilke, _Letters to a Young Poet_
 - Wallace, _Consider the Lobster_
 - Didion, _Slouching Towards Bethlehem_
 - Houellebecq, _H. P. Lovecraft: Against the World, Against Life_
