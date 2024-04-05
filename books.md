@@ -329,6 +329,7 @@ Jump to:
 
 **Art** <a name="art"></a>
 - Gombrich, _The Story of Art_
+- Moser, _The Upside-Down World: Meetings with the Dutch Masters_
 - Berger, _Ways of Seeing_
 
 **Essays** <a name="essays"></a>
