@@ -131,6 +131,7 @@ Jump to:
 - Sledge, _With the Old Breed: At Peleliu and Okinawa_
 - Coram, _Boyd_
 - Murakami, _What I Talk About When I Talk About Running_
+- Moser, _Sontag: Her Life and Work_
 
 **Tech History** <a name="svalley"></a>
 - Mallaby, _The Power Law_
