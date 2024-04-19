@@ -4,7 +4,7 @@ title: Meaning
 permalink: /meaning/
 ---
 
-As I'm sure many do, I think excessively about the meaning of life. I don't believe there is an answer, but there are people who have written pieces that point in the right direction. Here are a few of my favorites:
+Meaning in life is mostly ineffable, but these posts point toward something important.
 
 - [Scott Summner, "Wallowing in nostalgia (an autobiography)"](https://www.themoneyillusion.com/wallowing-in-nostalgia-an-autobiography/)
 - [Scott Sumner, "What do we mean by meaning?"](https://www.themoneyillusion.com/what-do-we-mean-by-meaning/)
