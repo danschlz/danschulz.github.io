@@ -83,6 +83,7 @@ Jump to:
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
 **History** <a name="history"></a>
+- Barzun, _From Dawn to Decadence: 500 Years of Western Cultural Life, 1500 to the Present_
 - Gibbon, _The History of the Decline and Fall of the Roman Empire_
 - Ward-Perkins, _The Fall of Rome_
 - Caesar, _The Civil War_
