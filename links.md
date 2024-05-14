@@ -46,7 +46,7 @@ All-time great posts:
 - [Joan Didion, "On Keeping a Notebook" (1968)](https://accessinghigherground.org/handouts2013/HTCTU%20Alt%20Format%20Manuals/Processing%20PDF%20Sample%20Files/00%20On%20Keeping%20a%20Notebook.pdf)
 - [Joan Didion, "On Self-Respect" (1961)](https://www.vogue.com/article/joan-didion-self-respect-essay-1961)
 - [Ross Douthat, "‘Watership Down’ and the Crisis of Liberalism" (2019)](https://www.nytimes.com/2019/10/22/opinion/watership-down-liberalism.html) ([Archive link](https://web.archive.org/web/20191022102037/https://www.nytimes.com/2019/10/22/opinion/watership-down-liberalism.html))
-- [Tyler Cowen, "Deconstruncting cultural codes" (2018)](https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html)
+- [Tyler Cowen, "Deconstructing cultural codes" (2018)](https://marginalrevolution.com/marginalrevolution/2018/12/deconstructing-cultural-codes.html)
 - [Tyler Cowen, "My philosophy of interviewing" (2017)](https://marginalrevolution.com/marginalrevolution/2017/09/my-philosophy-of-interviewing.html)
 - [Tyler Cowen, "The high-return activity of raising others’ aspirations" (2018)](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html)
 - [Mills Baker, "The Charisma of Leaders" (2013)](https://metaismurder.com/post/44155254813/the-charisma-of-leaders)
