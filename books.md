@@ -358,6 +358,7 @@ Jump to:
 * [Tyler Cowen: Whose entire body of work is worth reading?](http://marginalrevolution.com/marginalrevolution/2013/05/whose-entire-body-of-work-is-worth-reading.html)
 * [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
 * [Dan Wang](https://danwang.co/books/)
+* [Nabeel S. Qureshi](https://nabeelqu.co/books)
 * [Jsomers](http://jsomers.net/#books)
 * [Brian Eno](https://www.brainpickings.org/2014/03/03/brian-eno-reading-list/)
 * [Stewart Brand](https://www.brainpickings.org/2014/03/07/stewart-brand-reading-list/)
