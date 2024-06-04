@@ -326,6 +326,7 @@ Jump to:
 
 **Music** <a name="music"></a>
 - Schonberg, _The Lives of the Great Composers_
+- Swafford, _Beethoven: Anguish and Triumph_
 - Johnson, _Mozart: A Life_
 - Murakami,  _Absolutely on Music: Conversations with Seiji Ozawa_
 
