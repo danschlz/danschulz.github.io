@@ -8,7 +8,7 @@ Below are links to a few of the things I'm most interested in. I also host a pod
 [Links](/links/)  
 [Movies](/movies/)  
 [Videos](/videos/)  
-[Podcasts](/podcasts/)
+[Podcasts](/podcasts/)  
 [Music](/music/)
 
 <a class="muted small" href="/contact">Contact</a>
