@@ -9,5 +9,6 @@ Below are links to a few of the things I'm most interested in. I also host a pod
 [Movies](/movies/)  
 [Videos](/videos/)  
 [Podcasts](/podcasts/)
+[Music](/music/)
 
 <a class="muted small" href="/contact">Contact</a>
