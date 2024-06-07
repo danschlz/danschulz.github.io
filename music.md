@@ -4,7 +4,7 @@ title: Music
 permalink: /music/
 ---
 
-I got addicted to classical music in 2024, and it's been one of the most emotionally rewarding discoveries of my life. The pieces that got me hooked were Mozart's Piano Concerto No. 20, Beethoven's Piano Concerto No. 4, and Beethoven's Waldstein Sonata (esp. the third movement). Robert Greenberg's "[How to Listen to and Understand Great Music](https://www.audible.com/pd/How-to-Listen-to-and-Understand-Great-Music-3rd-Edition-Audiobook/B00DDVQIM2)" and the /r/classicalmusic subreddit have been great resources.
+I got addicted to classical music in 2024 and it's been one of the most emotionally rewarding discoveries of my life. The pieces that got me hooked were Mozart's Piano Concerto No. 20, Beethoven's Piano Concerto No. 4, and Beethoven's Waldstein Sonata (esp. the third movement). Robert Greenberg's "[How to Listen to and Understand Great Music](https://www.audible.com/pd/How-to-Listen-to-and-Understand-Great-Music-3rd-Edition-Audiobook/B00DDVQIM2)" and the /r/classicalmusic subreddit have been great resources.
 
 Here are a few Spotify playlists I've put together.
 
