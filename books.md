@@ -360,6 +360,7 @@ Jump to:
 * [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
 * [Dan Wang](https://danwang.co/books/)
 * [Nabeel S. Qureshi](https://nabeelqu.co/books)
+* [Joe Cheung](https://subcriticalappraisal.com/bookshelf/)
 * [Jsomers](http://jsomers.net/#books)
 * [Brian Eno](https://www.brainpickings.org/2014/03/03/brian-eno-reading-list/)
 * [Stewart Brand](https://www.brainpickings.org/2014/03/07/stewart-brand-reading-list/)
