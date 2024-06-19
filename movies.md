@@ -6,6 +6,7 @@ permalink: /movies/
 
 I got more interested in movies during the 2020 pandemic. These are some favorites.
 
+* Whiplash
 * Before Sunrise / Before Sunset / Before Midnight / Boyhood / Dazed and Confused
 * Paris, Texas
 * City of God
