@@ -123,6 +123,7 @@ Jump to:
 - Strauss, _Persecution and the Art of Writing_
 - Cowen, _Stubborn Attachments_
 - Machiavelli, _The Prince_
+- Wilde, _Miscellaneous Aphorisms; The Soul of Man_
 - Durant, _The Story of Philosophy_
 - Dennett, _Intution Pumps_
 
@@ -337,12 +338,14 @@ Jump to:
 
 **Essays** <a name="essays"></a>
 - Rilke, _Letters to a Young Poet_
+- Hickey, _Air Guitar: Essays on Art and Democracy_
 - Wallace, _Consider the Lobster_
 - Didion, _Slouching Towards Bethlehem_
 - Houellebecq, _H. P. Lovecraft: Against the World, Against Life_
 - Tolstoy, _A Confession_
 - Roosevelt, _Citizenship in a Republic_
 - Baldwin, _The Fire Next Time_
+- Wilde, _The Critic as Artist_
 
 **Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
