@@ -199,6 +199,7 @@ Jump to:
 - Mitchell
   - _Number9Dream_
   - _Cloud Atlas_
+- Vodolazkin, _Laurus_
 - Melville, _Moby-Dick_
 - Adams, _Watership Down_
 - Williams, _Stoner_
