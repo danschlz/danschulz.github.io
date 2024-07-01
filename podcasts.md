@@ -27,6 +27,7 @@ Podcasts I recommend.
 
 **Philosophy**
 - [Very Bad Wizards](https://sites.libsyn.com/474285/site)
+- [Weird Studies](https://www.weirdstudies.com/)
 - [The Nietzsche Podcast](https://www.patreon.com/untimelyreflections)
 - [The New Thinkery](https://thenewthinkery.libsyn.com/website)
 - [Philosophy Bites](http://www.philosophybites.com/)
