@@ -26,6 +26,4 @@ Here are a few Spotify playlists I've put together.
 * [Piano quintets](https://open.spotify.com/playlist/53WSENp663YHza73Ww9Nyi?si=0467e06469b34fb3)
 * [Clarinet quintets](https://open.spotify.com/playlist/3MD6k3pEVY7sNa0smvuvz9?si=17bb2542e1e04882)
 * [Piano and winds](https://open.spotify.com/playlist/4ZSdMfeVX8PGykz9Nyr0GW?si=bd51faa4f8d3495e)
-* [Symphonic poems](https://open.spotify.com/playlist/3ZmKAO5JBU0K9WC5zmzUhD?si=f9eb4ec7bc7f47e0)
-* [Overtures](https://open.spotify.com/playlist/7hq9xEoRoXka5edO5Cl09b?si=a48cb6d5fdab448a)
 * [Piano bangers](https://open.spotify.com/playlist/6kURKdivewP2JlCzUJOZGX?si=b01ab0153d12430c)
