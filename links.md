@@ -29,6 +29,7 @@ To my delight, the quality and variety of online writing seems to have improved 
 * [Scott Sumner](https://themoneyillusion.com/)
 * [Alexey Guzey](https://guzey.com/)
 * [Matt Lakeman](https://dormin.org/)
+* [Daniel Frank](https://danfrank.ca/)
 
 All-time great posts:
 
