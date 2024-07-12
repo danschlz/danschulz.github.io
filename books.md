@@ -121,6 +121,7 @@ Jump to:
   - _Selections_  
   - _The Poverty of Historicism_  
 - Strauss, _Persecution and the Art of Writing_
+- Zizek, _How to Read Lacan_
 - Cowen, _Stubborn Attachments_
 - Machiavelli, _The Prince_
 - Wilde, _Miscellaneous Aphorisms; The Soul of Man_
@@ -335,6 +336,8 @@ Jump to:
 **Art** <a name="art"></a>
 - Gombrich, _The Story of Art_
 - Moser, _The Upside-Down World: Meetings with the Dutch Masters_
+- Tanizaki, _In Praise of Shadows_
+- Martel, _Reclaiming Art in the Age of Artifice_
 - Berger, _Ways of Seeing_
 
 **Essays** <a name="essays"></a>
