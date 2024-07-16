@@ -4,7 +4,7 @@ title: Movies
 permalink: /movies/
 ---
 
-A few favorites.
+A few movies that at some point I really liked.
 
 * _Paris, Texas_ (Wim Wenders, 1984)
 * _Perfect Days_ (Wim Wenders, 2023)
