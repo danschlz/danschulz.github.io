@@ -4,57 +4,38 @@ title: Movies
 permalink: /movies/
 ---
 
-A few of my favorites.
+A few favorites.
 
-* Whiplash
-* Before Sunrise / Before Sunset / Before Midnight / Boyhood / Dazed and Confused
-* Paris, Texas
-* City of God
-* Pulp Fiction / Reservoir Dogs / Inglourious Basterds / Once Upon a Time... in Hollywood
-* Aftersun
-* After Yang
-* 2001: A Space Odyssey / Lolita / Eyes Wide Shut / Barry Lyndon
-* A Separation / About Elly
-* The Last Days of Disco
-* Rear Window / North by Northwest / Vertigo
-* The Apartment
-* Do the Right Thing
-* Ghost in the Shell
-* Possession
-* Talk to Me
-* Buffalo '66
-* Woman in the Dunes
-* Memories of Murder / Parasite
-* Burning
-* Rushmore
-* La Soufrière / Lessons of Darkness
-* The Conversation / The Godfather
-* Cloud Atlas / The Matrix
-* The Lighthouse / The Witch
-* Big Night
-* Good Time / Uncut Gems
-* Hereditary
-* Lost in Translation
-* The Big Lebowski
-* YiYi
-* The Pianist
-* Perfect Blue
-* Winter Sleep
-* Caché / Amour
-* Oldboy / The Handmaiden
-* Blade Runner (both)
-* True Romance
-* The Breakfast Club / Ferris Bueller's Day Off
-* Eternal Sunshine of the Spotless Mind
-* Let the Right One In
-* Coherence
-* The Fountain
-* Primer / Upstream Color
-* Mulholland Drive / Blue Velvet
-* Goodfellas / Casino / The Departed / After Hours
-* Incendies / Enemy / Prisoners / Sicario / Arrival / Dune
-* The Dark Knight / Inception / Interstellar / Memento / The Prestige
-* The Dawn Wall
+* _Paris, Texas_ (Wim Wenders, 1984)
+* _Perfect Days_ (Wim Wenders, 2023)
+* _Before Sunrise_ (Richard Linklater, 1995)
+* _Whiplash_ (Damien Chazelle, 2014)
+* _Close-Up_ (Abbas Kiarostami, 1990)
+* _Aftersun_ (Charlotte Wells, 2022)
+* _Once Upon a Time in America_ (Sergio Leone, 1984)
+* _High and Low_ (Akira Kurosawa, 1963)
+* _The Last Days of Disco_ (Whit Stillman, 1998)
+* _Memories of Murder_ (Bong Joon-ho, 2003)
+* _The Apartment_ (Billy Wilder, 1960)
+* _City of God_ (Fernando Meirelles, 2002)
+* _A Separation_ (Asghar Farhadi, 2011)
+* _Kinds of Kindness_ (Yorgos Lanthimos, 2024)
+* _Incendies_, (Denis Villeneuve, 2010)
+* _Possession_, (Andrzej Żuławski, 1981)
+* _Big Night_, (Stanley Tucci, Campbell Scott, 1996)
+* _Woman in the Dunes_, (Hiroshi Teshigahara, 1964)
+* _Rear Window_, (Alfred Hitchcock, 1954)
+* _The Conversation_, (Francis Ford Coppola, 1974)
+* _La Soufrière_, (Werner Herzog, 1977)
+* _Eyes Wide Shut_, (Stanley Kubrick, 1999)
+* _Lost in Translation_, (Sofia Coppola, 2003)
+* _Talk to Me_, (Michael Philippou, Danny Philippou, 2022)
+* _Good Time_, (Josh Safdie, Benny Safdie, 2017)
+* _Hereditary_, (Ari Aster, 2018)
+* _Perfect Blue_, (Satoshi Kon, 1997)
+* _Yi Yi_, (Edward Yang, 2000)
+* _Oldboy_, (Park Chan-wook, 2003)
+* _Eternal Sunshine of the Spotless Mind_, (Michel Gondry, 2004)
 * More on [Letterboxd](https://letterboxd.com/danschulz/films/diary/)
 
 ### Commentary
