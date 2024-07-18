@@ -336,6 +336,7 @@ Jump to:
 **Art** <a name="art"></a>
 - Gombrich, _The Story of Art_
 - Moser, _The Upside-Down World: Meetings with the Dutch Masters_
+- Knausgaard, _So Much Longing in So Little Space: The Art of Edvard Munch_
 - Tanizaki, _In Praise of Shadows_
 - Martel, _Reclaiming Art in the Age of Artifice_
 - Berger, _Ways of Seeing_
