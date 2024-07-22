@@ -15,12 +15,6 @@ At some point in my life, I gave a lot of thought to these people and their idea
 * Nassim Taleb ([antifragility](https://en.wikipedia.org/wiki/Antifragility), [optionality](https://25iq.com/2013/10/13/a-dozen-things-ive-learned-from-nassim-taleb-about-optionalityinvesting/))
 * Naval Ravikant ([autodidacticism](https://www.youtube.com/watch?v=dmBoU93TRlo), [life fulfillment](https://youtu.be/X7tnoR6a-8A))
 
-<!--
-* Leo Strauss ([esotericism](https://plato.stanford.edu/entries/strauss-leo/#Esot); [liberalism and nihilism](https://en.wikipedia.org/wiki/Leo_Strauss#Liberalism_and_nihilism))
-* Agnes Callard ([proleptic reasons](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2019-06/Callard%20Proleptic%20Reasons%20Final%20Published%20Version%20OSME.pdf); [aspiration](https://humanities-web.s3.us-east-2.amazonaws.com/philosophy/prod/2018-09/Aspiration%20final%20ms.%20UV.pdf))
--->
-
-
 A few quotes have stuck with me for years.
 
 Theodor Adorno on hobbies:
@@ -31,6 +25,9 @@ Karl Ove Knausgaard in Book Six of his series, _My Struggle_:
 
 Philip Roth in _American Pastoral_:
 > You get them wrong before you meet them, while you're anticipating meeting them; you get them wrong while you're with them; and then you go home to tell somebody else about the meeting and you get them all wrong again. Since the same generally goes for them with you, the whole thing is really a dazzling illusion. ... The fact remains that getting people right is not what living is all about anyway. It's getting them wrong that is living, getting them wrong and wrong and wrong and then, on careful reconsideration, getting them wrong again. That's how we know we're alive: we're wrong. Maybe the best thing would be to forget being right or wrong about people and just go along for the ride. But if you can do that -- well, lucky you.
+
+Andrey Tarkovsky in _Sculpting in Time_:
+> The allotted function of art is not, as is often assumed, to put across ideas, to propagate thoughts, to serve as an example. The aim of art is to prepare a person for death, to plough and harrow his soul, rendering it capable of turning to good.
 
 Ayn Rand,[^1] writing to a fan in 1960:
 > You ask me about the meaning of the dialogue on page 702 of Atlas Shrugged:  
