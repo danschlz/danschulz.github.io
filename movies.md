@@ -36,7 +36,7 @@ Movies I recommend.
 * _Perfect Blue_ (Satoshi Kon, 1997)
 * _Yi Yi_ (Edward Yang, 2000)
 * _Oldboy_ (Park Chan-wook, 2003)
-* _Eternal Sunshine of the Spotless Mind_, (Michel Gondry, 2004)
+* _Eternal Sunshine of the Spotless Mind_ (Michel Gondry, 2004)
 * _Aftersun_ (Charlotte Wells, 2022)
 * More on [Letterboxd](https://letterboxd.com/danschulz/films/diary/)
 
