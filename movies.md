@@ -11,6 +11,7 @@ Movies I recommend.
 * _Before Sunrise_ (Richard Linklater, 1995)
 * _Whiplash_ (Damien Chazelle, 2014)
 * _Close-Up_ (Abbas Kiarostami, 1990)
+* _Taste of Cherry_ (Abbas Kiarostami, 1997)
 * _A Separation_ (Asghar Farhadi, 2011)
 * _Incendies_, (Denis Villeneuve, 2010)
 * _The Last Days of Disco_ (Whit Stillman, 1998)
