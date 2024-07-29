@@ -8,6 +8,7 @@ Movies I recommend.
 
 * _Paris, Texas_ (Wim Wenders, 1984)
 * _Perfect Days_ (Wim Wenders, 2023)
+* _Wings of Desire_ (Wim Wenders, 1987)
 * _Before Sunrise_ (Richard Linklater, 1995)
 * _Whiplash_ (Damien Chazelle, 2014)
 * _Close-Up_ (Abbas Kiarostami, 1990)
@@ -19,6 +20,7 @@ Movies I recommend.
 * _Good Time_ (Josh Safdie, Benny Safdie, 2017)
 * _Once Upon a Time in America_ (Sergio Leone, 1984)
 * _High and Low_ (Akira Kurosawa, 1963)
+* _Tokyo Story_ (Yasujirō Ozu, 1953)
 * _Memories of Murder_ (Bong Joon-ho, 2003)
 * _The Apartment_ (Billy Wilder, 1960)
 * _City of God_ (Fernando Meirelles, 2002)
