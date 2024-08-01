@@ -5,46 +5,6 @@ permalink: /books/
 ---
 I love stumbling on [other people's reading lists](#otherlists), and this page is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
-<!---
-**The best**
-
-Bolano, _The Savage Detectives_ and _2666_. My favorite author. His two big novels are the best and worth every bit of effort.
-
-Borges, _Ficciones_. These stories are the easiest way to describe my taste in fiction. Philosophical literature with layers of meaning that reward rereading. Tlön, Uqbar, Orbis Tertius is my favorite, but I come back to all of them frequently.
-
-Adams, _Watership Down_. A story about rabbits that says profound things about friendship, mythology, fertility, totalitarianism, and more.
-
-Sebald, _Austerlitz_. Sebald is perhaps the most sublime prose stylist.
-
-Zweig, _The World of Yesterday_. A literary memoir and first person take on what it was like to watch the world get obliterated in the first half of the twentieth century. A reminder that history can reset itself in a single generation.
-
-Henrich, _The Secret of our Success_. A readable introduction to cultural evolution and my favorite book that you might call "big history." More rigorous than _Sapiens_; _Guns, Germs, and Steel_; and the like.
-
-Chiang, _Stories of your Life and Others_ and _Exhalation_. Like Borges, Chiang writes knock out speculative fiction. Less literary and heavier on the sci-fi.
-
-Wallace, _Consider the Lobster and other Essays_. When I was a teenager I'd Google "highest IQ person ever" and was always surprised to find Goethe alongside John von Neumann. These essays taught me that verbal dexterity can be just as impressive as multiplying eight digit numbers in your head.
-
-Houellebecq, _Submission_. Houellebecq is the author most responsible for getting me hooked on fiction, and Submission is the one I started with. Satirical, hilarious, Straussian.
-
-Ferrante, _The Neapolitan Novels_. 
-
-Pesssoa, _The Book of Disquiet_ 
-
-Sledge, _With the Old Breed_
-
-Murakami, _Hard-Boiled Wonderland and the End of the World_
-
-Hofstadter, _Gödel, Escher, Bach_
-
-Taleb, _Antifragile_
-
-Cowen, _Stubborn Attachments_
-
-Dawkins, _The Selfish Gene_
-
-Mitchell, _Number9Dream_
---->
-
 Jump to:
 * [Economics](#economics)
 * [History](#history)
@@ -60,8 +20,9 @@ Jump to:
 * [China](#china)
 * [Politics / Sociology](#politics)
 * [Ideas, broadly](#ideas)
-* [Music](#music)
 * [Art](#art)
+* [Music](#music)
+* [Film](#film)
 * [Essays](#essays)
 * [Investing](#investing)
 * [Writing](#writing)
@@ -327,12 +288,6 @@ Jump to:
 - Ito, _Whiplash_
 - Landsburg, _The Big Questions_
 
-**Music** <a name="music"></a>
-- Schonberg, _The Lives of the Great Composers_
-- Swafford, _Beethoven: Anguish and Triumph_
-- Johnson, _Mozart: A Life_
-- Murakami,  _Absolutely on Music: Conversations with Seiji Ozawa_
-
 **Art** <a name="art"></a>
 - Gombrich, _The Story of Art_
 - Moser, _The Upside-Down World: Meetings with the Dutch Masters_
@@ -341,6 +296,16 @@ Jump to:
 - Sylvester, _Interviews with Francis Bacon_
 - Martel, _Reclaiming Art in the Age of Artifice_
 - Berger, _Ways of Seeing_
+
+**Music** <a name="music"></a>
+- Schonberg, _The Lives of the Great Composers_
+- Swafford, _Beethoven: Anguish and Triumph_
+- Johnson, _Mozart: A Life_
+- Murakami,  _Absolutely on Music: Conversations with Seiji Ozawa_
+
+**Film** <a name="film"></a>
+- Tarkovsky, _Sculpting in Time_
+- Dyer, _Zona: A Book About a Film About a Journey to a Room_
 
 **Essays** <a name="essays"></a>
 - Rilke, _Letters to a Young Poet_
