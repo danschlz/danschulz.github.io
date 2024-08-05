@@ -304,6 +304,7 @@ Jump to:
 - Murakami,  _Absolutely on Music: Conversations with Seiji Ozawa_
 
 **Film** <a name="film"></a>
+- Tarantino, _Cinema Speculation_
 - Tarkovsky, _Sculpting in Time_
 - Dyer, _Zona: A Book About a Film About a Journey to a Room_
 
