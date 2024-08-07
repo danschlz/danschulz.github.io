@@ -44,7 +44,10 @@ Movies I recommend.
 
 ### Commentary
 * [How To Analyze Movies – Film Studies 101](https://www.youtube.com/watch?v=ahHIifcFyqk)
+* [Tarantino on De Palma](https://www.youtube.com/watch?v=bsAZSBfuFb4&t=21s)
+* [Quentin Tarantino goes through every film he saw in 1979](https://www.youtube.com/watch?v=FXWlNlHAxB4)
 * [Alex Tabarrok on The Gaslighting of Parasite](https://marginalrevolution.com/marginalrevolution/2020/06/the-gaslighting-of-parasite.html)
 * [Tyler Cowen, Abe Callard, and Agnes Callard talk about Asghar Farhadi, the value of the big screen, and more](https://www.listennotes.com/podcasts/subject-to-change/tyler-cowen-rates-a-separation-2JTelKYhznx/)
 * [Werner Herzog on why he makes films](https://youtu.be/PxfYDUVnHg4)
 * [Jackie Chan: How to Do Action Comedy](https://www.youtube.com/watch?v=Z1PCtIaM_GQ)
+* [How A24 took over Hollywood](https://www.youtube.com/watch?v=7tuRJIkDcXg)
