@@ -19,6 +19,8 @@ Movies I recommend.
 * _Almost Famous_ (Cameron Crowe, 2002)
 * _Good Time_ (Josh Safdie, Benny Safdie, 2017)
 * _Once Upon a Time in America_ (Sergio Leone, 1984)
+* _Stalker_ (Tarkovsky, 1979)
+* _Straw Dogs_ (Peckinpah, 1971)
 * _High and Low_ (Akira Kurosawa, 1963)
 * _Tokyo Story_ (Yasujirō Ozu, 1953)
 * _Memories of Murder_ (Bong Joon-ho, 2003)
