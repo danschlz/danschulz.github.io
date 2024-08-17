@@ -307,6 +307,7 @@ Jump to:
 - Tarantino, _Cinema Speculation_
 - Tarkovsky, _Sculpting in Time_
 - Dyer, _Zona: A Book About a Film About a Journey to a Room_
+- Harris, _Pictures at a Revolution: Five Movies and the Birth of the New Hollywood_
 
 **Essays** <a name="essays"></a>
 - Rilke, _Letters to a Young Poet_
