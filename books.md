@@ -292,8 +292,8 @@ Jump to:
 - Gombrich, _The Story of Art_
 - Moser, _The Upside-Down World: Meetings with the Dutch Masters_
 - Knausgaard, _So Much Longing in So Little Space: The Art of Edvard Munch_
-- Tanizaki, _In Praise of Shadows_
 - Sylvester, _Interviews with Francis Bacon_
+- Wilde, _The Critic as Artist_
 - Martel, _Reclaiming Art in the Age of Artifice_
 - Berger, _Ways of Seeing_
 
@@ -318,7 +318,7 @@ Jump to:
 - Tolstoy, _A Confession_
 - Roosevelt, _Citizenship in a Republic_
 - Baldwin, _The Fire Next Time_
-- Wilde, _The Critic as Artist_
+- Tanizaki, _In Praise of Shadows_
 
 **Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
