@@ -53,6 +53,11 @@ Podcasts I recommend.
 - [Sticky Notes: The Classical Music Podcast](https://stickynotespodcast.libsyn.com/) (Joshua Weilerstein)
 - [Embrace Everything - The World of Gustav Mahler](https://art19.com/shows/embrace-everything-the-world-of-gustav-mahler) (Aaron Cohen)
 
+**Film**
+- [Video Archives](https://podcasts.apple.com/us/podcast/the-video-archives-podcast-with-quentin-tarantino/id1627069896) (Quentin Tarantino & Roger Avary)
+- [The Rewatchables](https://www.theringer.com/the-rewatchables)
+- [Steven Benedict](http://www.stevenbenedict.ie/category/podcasts/)
+
 **Comedy**
 - [We Might Be Drunk](https://sites.libsyn.com/317828/wemightbedrunk) (Sam Morril and Mark Normand)
 - [Matt and Shane's Secret Podcast](https://audioboom.com/channels/5118708-matt-and-shane-s-secret-podcast) (Matt McCusker & Shane Gillis)
