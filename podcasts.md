@@ -55,11 +55,11 @@ Podcasts I recommend.
 
 **Film**
 - [Video Archives](https://podcasts.apple.com/us/podcast/the-video-archives-podcast-with-quentin-tarantino/id1627069896) (Quentin Tarantino & Roger Avary)
-- [The Rewatchables](https://www.theringer.com/the-rewatchables)
 - [Steven Benedict](http://www.stevenbenedict.ie/category/podcasts/)
+- [The Rewatchables](https://www.theringer.com/the-rewatchables)
 
 **Comedy**
-- [We Might Be Drunk](https://sites.libsyn.com/317828/wemightbedrunk) (Sam Morril and Mark Normand)
+- [We Might Be Drunk](https://sites.libsyn.com/317828/wemightbedrunk) (Sam Morril & Mark Normand)
 - [Matt and Shane's Secret Podcast](https://audioboom.com/channels/5118708-matt-and-shane-s-secret-podcast) (Matt McCusker & Shane Gillis)
 - [This Past Weekend](https://www.theovon.com/this-past-weekend) (Theo Von)
 - [The Tim Dillon Show](https://audioboom.com/channels/5093219-the-tim-dillon-show)
