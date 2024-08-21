@@ -4,7 +4,7 @@ title: Meaning
 permalink: /meaning/
 ---
 
-Thinking about meaning is obviously one of the most important parts of life, but thinking too hard about it seems to have diminishing returns. With that in mind, these are a few of my favorite thoughts on the topic.
+Thinking about meaning is obviously an important part of life, but thinking too hard about it seems to have diminishing returns. With that in mind, these are a few of my favorite thoughts on the topic.
 
 - [Scott Summner, "Wallowing in nostalgia (an autobiography)"](https://www.themoneyillusion.com/wallowing-in-nostalgia-an-autobiography/)
 - [Scott Sumner, "What do we mean by meaning?"](https://www.themoneyillusion.com/what-do-we-mean-by-meaning/)
