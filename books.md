@@ -151,7 +151,7 @@ Jump to:
   - _The Elementary Particles_
   - _Whatever_
 - Ferrante, _The Neapolitan Novels_
-- Knausgaard, _My Struggle Books I & II_
+- Knausgaard, _My Struggle Books I, II, & III_
 - Sebald
   - _Austerlitz_
   - _The Emigrants_
