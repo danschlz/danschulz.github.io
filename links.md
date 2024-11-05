@@ -19,6 +19,7 @@ To my delight, the quality and variety of online writing seems to have improved 
 * [Joseph Heath](https://josephheath.substack.com/)
 * [patio11](https://www.bitsaboutmoney.com/)
 * [Sam Kriss](https://samkriss.substack.com/)
+* [Ted Gioia](https://www.honest-broker.com/)
 * [Riva Tez](https://www.hardtowrite.com/)
 * [Steve Hsu](https://infoproc.blogspot.com/)
 * [Cremieux Recueil](https://www.cremieux.xyz/)
