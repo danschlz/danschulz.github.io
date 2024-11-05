@@ -4,7 +4,7 @@ title: Links
 permalink: /links/
 ---
 
-To my delight, the quality and variety of online writing seems to have improved a lot since the pandemic; I hope the trend continues. I'm a big fan of RSS and [Feebin](https://feedbin.com/) to keep up with my favorite sites. These are some of my favorites. 
+To my delight, the quality and variety of online writing seems to have improved a lot since the pandemic; I hope the trend continues. I'm a big fan of RSS and use [Feebin](https://feedbin.com/) to keep up with my favorite sites. These are some of my favorites. 
 
 * [Marginal Revolution](http://marginalrevolution.com/) (anyone who finds Tyler interesting, I find interesting)
 * [The Browser](https://thebrowser.com/) (really great long-form aggregator)
