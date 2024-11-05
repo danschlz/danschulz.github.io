@@ -4,16 +4,26 @@ title: Links
 permalink: /links/
 ---
 
-To my delight, the quality and variety of online writing seems to have improved a lot since the pandemic. I hope the trend continues. These sites are some of my favorites.
+To my delight, the quality and variety of online writing seems to have improved a lot since the pandemic, and I hope the trend continues. I'm a big fan of RSS and [Feebin](https://feedbin.com/) to keep up with my favorite sites. These are some of my favorites.
 
 * [Marginal Revolution](http://marginalrevolution.com/) (anyone who finds Tyler interesting, I find interesting)
-* [The Browser](https://thebrowser.com/) (the best place to find great writing)
+* [The Browser](https://thebrowser.com/) (really great long-form aggregator)
 * [Fantastic Anachronism](https://fantasticanachronism.com/)
 * [Slate Star Codex](http://slatestarcodex.com/) & [Astral Codex Ten](https://astralcodexten.substack.com/archive)
-* [Riva Tez](https://www.hardtowrite.com/)
-* [Holden Karnofsky](https://www.cold-takes.com/)
+* [Mr. and Mrs. Psmith’s Bookshelf](https://www.thepsmiths.com/)
+* [Scott Sumner](https://scottsumner.substack.com/) & [Archive](https://themoneyillusion.com/)
+* [Nabeel S. Quershi](https://nabeelqu.substack.com/)
 * [Applied Divinity Studies](https://applieddivinitystudies.com/)
+* [Gavin Leech](https://www.gleech.org/)
+* [Misha Saul](https://www.kvetch.au/)
+* [Joseph Heath](https://josephheath.substack.com/)
+* [patio11](https://www.bitsaboutmoney.com/)
+* [Sam Kriss](https://samkriss.substack.com/)
+* [Riva Tez](https://www.hardtowrite.com/)
 * [Steve Hsu](https://infoproc.blogspot.com/)
+* [Cremieux Recueil](https://www.cremieux.xyz/)
+* [Trung Phan](https://www.readtrung.com/)
+* [Holden Karnofsky](https://www.cold-takes.com/)
 * [Tanner Greer](https://scholars-stage.org/)
 * [Samuel Hammond](https://www.secondbest.ca/)
 * [Noah Smith](https://www.noahpinion.blog/)
@@ -26,7 +36,6 @@ To my delight, the quality and variety of online writing seems to have improved 
 * [Matt Levine](https://www.bloomberg.com/view/topics/money-stuff)
 * [Byrne Hobart](https://diff.substack.com/)
 * [Dan Wang](https://danwang.co/)
-* [Scott Sumner](https://themoneyillusion.com/)
 * [Alexey Guzey](https://guzey.com/)
 * [Matt Lakeman](https://dormin.org/)
 * [Daniel Frank](https://danfrank.ca/)
