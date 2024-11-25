@@ -13,6 +13,7 @@ Jump to:
 * [Tech History](#svalley)
 * [Business History](#bhistory)
 * [Fiction](#fiction)
+* [Poetry](#poetry)
 * [Science Fiction](#scifi)
 * [Science / Physics](#science)
 * [Biology / Anthropology](#biology)
@@ -208,6 +209,7 @@ Jump to:
 - Twain, _The Adventures of Tom Sawyer_
 - Steinbeck, _East of Eden_
 - Moshfegh, _My Year of Rest and Relaxation_
+- Ernaux, _The Years_
 - Lispector, _The Hour of the Star_
 - Carroll, _Alice's Adventures in Wonderland_
 - Eagleman, _Sum: Forty Tales from the Afterlives_
@@ -215,6 +217,10 @@ Jump to:
 - Hrabal, _Too Loud a Solitude_
 - Mandel, _Station Eleven_
 - Sophocles, _Oedipus the King_
+
+**Poetry** <a name="poetry"></a>
+- Eliot, _The Wasteland and Other Peoms_
+- Baudelaire, _The Flowers of Evil_
 - Homer
 
 **Science Fiction** <a name="scifi"></a>
