@@ -219,7 +219,7 @@ Jump to:
 - Sophocles, _Oedipus the King_
 
 **Poetry** <a name="poetry"></a>
-- Eliot, _The Wasteland and Other Peoms_
+- Eliot, _The Wasteland and Other Poems_
 - Baudelaire, _The Flowers of Evil_
 - Homer
 
