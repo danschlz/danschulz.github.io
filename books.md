@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /books/
 ---
-I love stumbling on [other people's reading lists](#otherlists), and this page is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I love stumbling on [other people's reading lists](#otherlists), so this is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 Jump to:
 * [Economics](#economics)
