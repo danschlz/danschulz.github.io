@@ -42,9 +42,12 @@ Podcasts I recommend.
 - [Macro Musings](https://macromarketmusings.blogspot.com/) (David Beckworth)
 
 **Business**
+- [Acquired](https://www.acquired.fm/)
 - [Invest Like the Best](https://www.joincolossus.com/episodes?prod-episode-release-desc%5BrefinementList%5D%5BpodcastName%5D%5B0%5D=Invest%20Like%20the%20Best)
 - [Founders](https://www.joincolossus.com/)
 - [Business Breakdowns](https://www.joincolossus.com/)
+- [The Riff](https://www.podpage.com/theriff/)
+- [BG2Pod with Brad Gerstner and Bill Gurley](https://creators.spotify.com/pod/show/bg2pod)
 - [Animal Spirits](https://awealthofcommonsense.com/podcast/)
 - [My First Million](https://www.mfmpod.com/)
 - [The Alchemy of Money](https://podcasters.spotify.com/pod/show/frederik-gieschen)
