@@ -47,6 +47,9 @@ Jump to:
 **History** <a name="history"></a>
 - Barzun, _From Dawn to Decadence: 500 Years of Western Cultural Life, 1500 to the Present_
 - Gibbon, _The History of the Decline and Fall of the Roman Empire_
+- Durant
+  - _The Age of Louis XIV: The Story of Civilization, Volume VIII_
+  - _The Lessons of History_
 - Ward-Perkins, _The Fall of Rome_
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
@@ -63,11 +66,11 @@ Jump to:
   - _Before the Storm: Barry Goldwater and the Unmaking of the American Consensus_
   - _Nixonland: The Rise of a President and the Fracturing of America_
 - Caro
+  - _The Power Broker_
   - _The Path to Power_
   - _Means of Ascent_
 - Yergin, _The Prize_
 - Anderson, _Lawrence in Arabia_
-- Durant, _The Lessons of History_
 - Hoffman, _The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy_
 - Higgs, _Stranger Than We Can Imagine: Making Sense of the Twentieth Century_
 
