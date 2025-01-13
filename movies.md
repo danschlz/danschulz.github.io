@@ -25,6 +25,8 @@ Movies I recommend.
 * _Good Time_ (Josh Safdie, Benny Safdie, 2017)
 * _Once Upon a Time in America_ (Sergio Leone, 1984)
 * _Stalker_ (Andrei Tarkovsky, 1979)
+* _Elle_ (Paul Verhoeven, 2016)
+* _Safe_ (Todd Haynes, 1995)
 * _Blow Out_ (Brian De Palma, 1981)
 * _Straw Dogs_ (Sam Peckinpah, 1971)
 * _Hardcore_ (Paul Schrader, 1979)
