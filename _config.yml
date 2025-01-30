@@ -6,5 +6,7 @@ url: "https://danschlz.github.io"
 baseurl: ""
 permalink: /:categories/:title:output_ext
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 plugins:
   - jekyll-feed
