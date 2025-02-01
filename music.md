@@ -4,7 +4,7 @@ title: Music
 permalink: /music/
 ---
 
-In 2025 I started tracking albums I've listened to all the way through at [Rate Your Music](https://rateyourmusic.com/collection/dnsz/ss.rd). These are some of the playlists I keep going back to or currently have on repeat:
+In 2025 I started tracking albums I've listened to all the way through at [Rate Your Music](https://rateyourmusic.com/collection/dnsz/ss.rd). These are some playlists I keep going back to or currently have on repeat:
 
 * [Reruns](https://open.spotify.com/playlist/1aBExd90ioxHqzRrfs4Dhr?si=09ff1a7fe5ac4099)
 * [Black Friday](https://open.spotify.com/playlist/7qBWDMAKsbP9sitdpWBzeE?si=68cb17dc83094e20)
