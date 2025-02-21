@@ -79,5 +79,6 @@ All-time great posts:
 - [Scott Alexander, "Archipelago and Atomic Communitarianism" (2014)](https://slatestarcodex.com/2014/06/07/archipelago-and-atomic-communitarianism)
 - [Scott Alexander, "How the West Was Won" (2016)](https://slatestarcodex.com/2016/07/25/how-the-west-was-won/)
 - [Scott Alexander, "The Lottery of Fascinations" (2013)](https://slatestarcodex.com/2013/06/30/the-lottery-of-fascinations/)
+- [Ted Gioia, "Remembering Wayne Shorter (1933-2023)" (2023)](https://www.honest-broker.com/p/remembering-wayne-shorter-1933-2023)
 - [Tyler Hogge, "A few thoughts on intensity" (2024)](https://tylerhogge.com/2024/01/29/a-few-thoughts-on-intensity/)
 - [Mark Zuckerberg, Peter Thiel, Sheryl Sandberg, Marc Andreessen, and others discuss millennials and predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
