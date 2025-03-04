@@ -4,7 +4,7 @@ title: Music
 permalink: /music/
 ---
 
-In 2025 I started logging albums as I listen on [Rate Your Music](https://rateyourmusic.com/collection/dnsz/ss.rd). Some go to playlists:
+In 2025 I started logging albums I listen to on [Rate Your Music](https://rateyourmusic.com/collection/dnsz/ss.rd). Some go to playlists:
 
 * [Reruns](https://open.spotify.com/playlist/1aBExd90ioxHqzRrfs4Dhr?si=09ff1a7fe5ac4099)
 * [Black Friday](https://open.spotify.com/playlist/7qBWDMAKsbP9sitdpWBzeE?si=68cb17dc83094e20)
@@ -18,9 +18,11 @@ A few favorite classical playlists/recordings:
 
 * [Classical all timers](https://open.spotify.com/playlist/1eYD5BUaapMfNGDoEiPDXO?si=64f367b30a42468a)
 * [Piano bangers](https://open.spotify.com/playlist/6kURKdivewP2JlCzUJOZGX?si=b01ab0153d12430c)
+* [Cosmic piano](https://open.spotify.com/playlist/3JvRWGpcHCjgCw0ghbh1SA?si=803b3ab90fee4f11)
 * [Slow movements](https://open.spotify.com/playlist/3XU09g8N8cbWzFIgqJdkeL?si=a5b387a7369e4fff)
 * [Piano concerti](https://open.spotify.com/playlist/20Y6NRhIlhNEFNBzeN2u6R?si=5e127130c5634a26)
-* [Minsoo Sohn's Beethoven Piano Sonatas](https://open.spotify.com/album/5xZS63vJBpsPbIOi0Hvlc4?si=l3jK3PPSTrOYbiLUCDtd3A)
+* [Minsoo Sohn's Beethoven: Piano Sonatas](https://open.spotify.com/album/5xZS63vJBpsPbIOi0Hvlc4?si=l3jK3PPSTrOYbiLUCDtd3A)
+* [Sviatoslav Richter's Bach: The Well-Tempered Clavier](https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C?si=MHIAyTRSRE6GK8L4CVrBYQ)
 * [Krystian Zimerman's Chopin: Ballades; Barcarolle; Fantaisie](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2?si=cdlEH6dzTFmXO4Pjjd0k9Q)
 * [Mitsuko Uchida's Schubert Piano works (esp. Sonatas 19–21 and all Impromptus)](https://open.spotify.com/album/6WyrofdS0VcQwalzvy9VIA?si=WtCPvO4TTf2JivIS8fUQwQ)
 * [Martha Agerich's Schumann: Fantasia Op. 17](https://open.spotify.com/album/60wBLkr0WADMATI5O9D97I?si=HY_TmoFNQKqo3TkYjgV7Uw)
