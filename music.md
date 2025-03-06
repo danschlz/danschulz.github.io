@@ -4,7 +4,7 @@ title: Music
 permalink: /music/
 ---
 
-In 2025 I started logging albums I listen to on [Rate Your Music](https://rateyourmusic.com/collection/dnsz/ss.rd). Some go to playlists:
+In 2025 I started logging albums as I listen on [Rate Your Music](https://rateyourmusic.com/collection/dnsz/ss.rd). Some go to playlists:
 
 * [Reruns](https://open.spotify.com/playlist/1aBExd90ioxHqzRrfs4Dhr?si=09ff1a7fe5ac4099)
 * [Black Friday](https://open.spotify.com/playlist/7qBWDMAKsbP9sitdpWBzeE?si=68cb17dc83094e20)
