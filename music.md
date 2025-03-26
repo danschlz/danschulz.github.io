@@ -49,7 +49,7 @@ A few favorite classical playlists/recordings:
 * [Minsoo Sohn's Beethoven: Piano Sonatas](https://open.spotify.com/album/5xZS63vJBpsPbIOi0Hvlc4?si=l3jK3PPSTrOYbiLUCDtd3A)
 * [Sviatoslav Richter's Bach: The Well-Tempered Clavier](https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C?si=MHIAyTRSRE6GK8L4CVrBYQ)
 * [Krystian Zimerman's Chopin: Ballades; Barcarolle; Fantaisie](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2?si=cdlEH6dzTFmXO4Pjjd0k9Q)
-* [Mitsuko Uchida's Schubert Piano works (esp. Sonatas 19–21 and all Impromptus)](https://open.spotify.com/album/6WyrofdS0VcQwalzvy9VIA?si=WtCPvO4TTf2JivIS8fUQwQ)
+* [Mitsuko Uchida's Schubert Piano works](https://open.spotify.com/album/6WyrofdS0VcQwalzvy9VIA?si=WtCPvO4TTf2JivIS8fUQwQ) (esp. Sonatas 19–21 and all Impromptus)
 * [Martha Agerich's Schumann: Fantasia Op. 17](https://open.spotify.com/album/60wBLkr0WADMATI5O9D97I?si=HY_TmoFNQKqo3TkYjgV7Uw)
 * Pavel Haas Quartet's Janacek String Quartet [No. 1](https://open.spotify.com/album/6TkdaEGFJlyDnd7C1URmMr?si=CbQdhbZlTIC_Urq7Wcav3g) & [No. 2](https://open.spotify.com/album/1t4K3IzZXvRHudQdNpFbfE?si=3K0ZSFq2R1-p_IPkrEpdlw)
 * [Quartetto Italiano's Schubert Last Four Quartets](https://open.spotify.com/album/6TkdaEGFJlyDnd7C1URmMr?si=GbK_sWoSTRqj03w63dYiiA)
