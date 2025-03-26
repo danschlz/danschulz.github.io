@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I find pretty much everything interesting but can’t get over the feeling that we’re living in a golden era where humanity’s greatest achievements in art and science are widely accessible and often free. It seems like such a gift that [it’s almost suspicious](https://en.wikipedia.org/wiki/Anthropic_principle). I worry a lot about going through life without at least making an effort to appreciate the best of the best.
+I find pretty much everything interesting, but can’t get over the feeling that we’re living in a golden era where humanity’s greatest achievements in art and science are widely accessible and often free. It seems like such a gift that [it’s almost suspicious](https://en.wikipedia.org/wiki/Anthropic_principle). I worry a lot about going through life without at least making an effort to appreciate the best of the best.
 
 Below are links to a few of the things I spend my free time on.
 
