@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I find almost everything interesting and can’t get over the sense we live in a golden era where our greatest aesthetic and scientific achievements are widely accessible, often for free. It’s almost [suspicious](https://en.wikipedia.org/wiki/Anthropic_principle). If only we had time to appreciate it all.
+I can’t get over the sense we live in a golden era where our greatest aesthetic and scientific achievements are widely accessible, often for free. It’s almost [suspicious](https://en.wikipedia.org/wiki/Anthropic_principle). If only we had time to appreciate it all.
 
 Links to a few of my favorite things.
 
