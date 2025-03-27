@@ -48,6 +48,7 @@ A few favorite classical playlists/recordings:
 * [Piano concerti](https://open.spotify.com/playlist/20Y6NRhIlhNEFNBzeN2u6R?si=5e127130c5634a26)
 * [Minsoo Sohn's Beethoven: Piano Sonatas](https://open.spotify.com/album/5xZS63vJBpsPbIOi0Hvlc4?si=l3jK3PPSTrOYbiLUCDtd3A)
 * [Sviatoslav Richter's Bach: The Well-Tempered Clavier](https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C?si=MHIAyTRSRE6GK8L4CVrBYQ)
+* [Mstislav Rostropovich's Bach: Cello Suites](https://open.spotify.com/album/5IKqgLc5o88Dur35OnLZXQ?si=q70mx_6wSEOOne8wpe2OEw)
 * [Krystian Zimerman's Chopin: Ballades; Barcarolle; Fantaisie](https://open.spotify.com/album/5c9v5oU43Oo22MSG8EKFp2?si=cdlEH6dzTFmXO4Pjjd0k9Q)
 * [Mitsuko Uchida's Schubert Piano works](https://open.spotify.com/album/6WyrofdS0VcQwalzvy9VIA?si=WtCPvO4TTf2JivIS8fUQwQ) (esp. Sonatas 19–21 and all Impromptus)
 * [Martha Agerich's Schumann: Fantasia Op. 17](https://open.spotify.com/album/60wBLkr0WADMATI5O9D97I?si=HY_TmoFNQKqo3TkYjgV7Uw)
