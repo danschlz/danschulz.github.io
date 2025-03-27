@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: blogs
+permalink: /blogs/
 ---
 
 To my delight, the quality and variety of online writing seems to have improved a lot since the pandemic; I hope the trend continues. I'm a big fan of RSS and use [Feebin](https://feedbin.com/) to keep up with my favorite sites. Here are some I recommend.
