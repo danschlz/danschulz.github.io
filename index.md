@@ -10,7 +10,7 @@ Links to a few of my favorite things.
 [Books](/books/)  
 [Movies](/movies/)  
 [Music](/music/)  
-[Links](/links/)  
+[Blogs](/blogs/)  
 [Videos](/videos/)  
 [Podcasts](/podcasts/)
 
