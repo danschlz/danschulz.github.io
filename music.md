@@ -34,7 +34,7 @@ And an arbitrary list of recommended albums:
 * David Bowie, [Low](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na?si=XGLbYyrOTsiPUOUtHKa03g)
 * The Strokes, [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN?si=FhwkCCr3RoWn9qd5tf2NQg)
 * Interpol, [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG?si=fFiVIgGzQhaDAmUgKtdf_Q)
-* King Gizzard, pretty much everything but esp. [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy?si=HfyH44oHSlGPEjKE_5INJg)
+* King Gizzard, pretty much everything, but esp. [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy?si=HfyH44oHSlGPEjKE_5INJg)
 * Radiohead, pretty much everything, favorite song is _Where I End and You Begin_
 
 Getting into classical music has been one of the most emotionally rewarding things I've ever spent time on. The pieces that got me hooked were Mozart's Piano Concerto No. 20, K. 466, Beethoven's Piano Concerto No. 4, Op. 58, and Beethoven's Waldstein Sonata, Op. 53 (esp. the third movement). Robert Greenberg's [How to Listen to and Understand Great Music](https://www.audible.com/pd/How-to-Listen-to-and-Understand-Great-Music-3rd-Edition-Audiobook/B00DDVQIM2), the [Sticky Notes podcast](https://stickynotespodcast.libsyn.com/), and the /r/classicalmusic subreddit have been great resources.
