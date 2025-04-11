@@ -49,6 +49,7 @@ All-time great posts:
 - [Jose Luis Ricon on the distinction between public and private organizations (2018)](https://nintil.com/the-crumbling-public-private-distinction) 
 - [C.S. Lewis, "The Inner Ring" (1944)](https://www.lewissociety.org/innerring/)
 - [Nick Land, "Hell-Baked" (2015)](https://archive.ph/NdGZ4)
+- [Parakeet, "Skittle Factory Dementia Monkey Titty Monetization" (2025)](https://parakeet.substack.com/p/skittle-factory-dementia-monkey-titty)
 - [Ben Kuhn, "Staring into the abyss as a core life skill" (2022)](https://www.benkuhn.net/abyss/)
 - [Venkatesh Rao, "A Big Little Idea Called Legibility" (2010)](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)
 - [David Sheff, "Playboy Interview: Steven Jobs" (1985)](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
