@@ -100,6 +100,7 @@ Jump to:
 - Coram, _Boyd_
 - Murakami, _What I Talk About When I Talk About Running_
 - Moser, _Sontag: Her Life and Work_
+- Smith, _Just Kids_
 
 **Tech History** <a name="svalley"></a>
 - Mallaby, _The Power Law_
@@ -187,12 +188,14 @@ Jump to:
 - Camus, _The Stranger_
 - Calvino, _Invisible Cities_
 - Stendhal, _The Red and the Black_
+- Kafka, _The Trial_
 - Mishima
   - _Patriotism_
   - _The Sailor Who Fell from Grace with the Sea_
 - Eco, _Foucault's Pendulum_
 - Woolf, _The Waves_
 - Abbott, _Flatland_
+- Kundera, _The Unbearable Lightness of Being_
 - Conrad, _Heart of Darkness_
 - Chandler, _The Big Sleep_
 - Nabokov
