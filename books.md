@@ -146,7 +146,7 @@ Jump to:
 - Pynchon
   - _V._
   - _The Crying of Lot 49_
-- Proust, _In Search of Lost Time, Volume I: Swann's Way_
+- Proust, _In Search of Lost Time, Volume I & II_
 - Tolstoy
   - _Anna Karenina_
   - _The Death of Ivan Ilych_
@@ -212,6 +212,7 @@ Jump to:
   - _The Old Man and the Sea_
 - Twain, _The Adventures of Tom Sawyer_
 - Steinbeck, _East of Eden_
+- Kavan, _Ice_
 - Moshfegh, _My Year of Rest and Relaxation_
 - Ernaux, _The Years_
 - Lispector, _The Hour of the Star_
