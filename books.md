@@ -56,6 +56,7 @@ Jump to:
 - Liddell Hart
   - _Scipio Africanus: Greater than Napoleon_
   - _Why Don't We Learn from History?_
+- Díaz del Castillo, _The Conquest of New Spain_
 - Roberts, _Napoleon: A Life_
 - McCullough, _1776_
 - Kershaw, _Hitler_
@@ -160,7 +161,9 @@ Jump to:
 - Knausgaard, _My Struggle Books I, II, & III_
 - Sebald
   - _Austerlitz_
+  - _The Rings of Saturn_
   - _The Emigrants_
+- Marías, _A Heart So White_
 - McCarthy
   - _Blood Meridian_
   - _The Road_
@@ -168,6 +171,7 @@ Jump to:
   - _Number9Dream_
   - _Cloud Atlas_
 - Vodolazkin, _Laurus_
+- Rulfo, _Pedro Páramo_
 - Melville, _Moby-Dick_
 - Adams, _Watership Down_
 - Williams, _Stoner_
