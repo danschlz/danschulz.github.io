@@ -49,6 +49,7 @@ And an arbitrary list of recommended albums:
 * Jeff Buckley, [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS?si=o24VwKSTR0GmP9tvD9fD2w) esp. _Dream Brother_
 * Jamie XX, [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ?si=7hBtvLdWQ6-mXVZNHJSn-Q); [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP?si=abvrdZBoSYSEYUw8zQcpxQ)
 * Gorillaz, [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8?si=7emeZaSNSg-UsbMNj6G-xg); [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT?si=Sr4JSPeXS8SROuRHA1FMDg)
+* Weyes Blood, [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk?si=odU56qXOTHCToNFocDJIAg); [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A?si=K_odZkUSQ8KGyXsazwhXHw)
 * Anish Kumar, [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g?si=ZvaCg58ySAuO9HvGMWJz_g)
 * GoGo Penguin, [v2.0](https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK?si=XQF8z7ZCSbG3Tr5uAriAGQ)
 * Miles Davis, [In A Silent Way](https://open.spotify.com/album/0Hs3BomCdwIWRhgT57x22T?si=aqQ7Dtb6TuiccnYNo3pRDg)
