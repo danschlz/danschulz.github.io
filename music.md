@@ -42,17 +42,11 @@ And an arbitrary list of recommended albums:
 * Jeff Buckley, [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS?si=o24VwKSTR0GmP9tvD9fD2w) esp. _Dream Brother_
 * Jamie XX, [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ?si=7hBtvLdWQ6-mXVZNHJSn-Q); [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP?si=abvrdZBoSYSEYUw8zQcpxQ)
 * Anish Kumar, [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g?si=ZvaCg58ySAuO9HvGMWJz_g)
-* Susumu Yokota, [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV?si=fPAybEYaTZu5QGHPgw0sRg)
-* GoGo Penguin, [v2.0](https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK?si=XQF8z7ZCSbG3Tr5uAriAGQ)
 * Miles Davis, [In A Silent Way](https://open.spotify.com/album/0Hs3BomCdwIWRhgT57x22T?si=aqQ7Dtb6TuiccnYNo3pRDg)
 * Tame Impala, [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?si=sIgwmICLQRSovn0_98BF_Q)
-* Mildlife, [Automatic](https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q?si=GtmNcS0CTQO7f7AJH0JrSA)
 * NEU!, [NEU!](https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH?si=8l1bgrz8SeqerE_oEb47Yw)
 * Spiritualized, [Lazer Guided Melodies](https://open.spotify.com/album/0kfT6lwFmXyepSvoItP4sa?si=L3fGsVBrQtOLA3hqaaCJKw)
 * David Bowie, [Low](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na?si=XGLbYyrOTsiPUOUtHKa03g)
-* The Strokes, [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN?si=FhwkCCr3RoWn9qd5tf2NQg)
-* Interpol, [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG?si=fFiVIgGzQhaDAmUgKtdf_Q)
-* Animal Collective, [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq?si=ywEO2GNURA68H93sefc9-Q)
 * Fishmans, [Uchū Nippon Setagaya](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy?si=SZ0qUyEjTkC4IBDfatPOeA); [Long Season](https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ?si=GUQVQ6VfT_mW8oIxpwlN8w); [Kūchū Camp](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI?si=tRKh8yqcTieOFcBmyHujIA)
 * King Gizzard, pretty much everything, but esp. [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy?si=HfyH44oHSlGPEjKE_5INJg)
 * Radiohead, pretty much everything, favorite song is _Where I End and You Begin_
