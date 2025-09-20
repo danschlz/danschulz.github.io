@@ -45,7 +45,6 @@ And an arbitrary list of recommended albums:
 * Air, [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a?si=Wxu3kAMFTl2SnQhi1Cq3Ig); [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363?si=26DFw_sTTr2pk_lyDU2NDQ)
 * Massive Attack, [Blue Lines](https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf?si=zruaxO47Sk6bYadd87SyjA); [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC?si=C88swgIUReKUGpykIwa0Vg); [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=g2lupl1yT0O0kF4usn3BuQ)
 * Daft Punk, [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc?si=K-3M9HSMRZiErdeU9dwvYg); [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa?si=vsdcAzCTTsOSvBw_P-_SyA)
-* Gorillaz, [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8?si=pO9LjdvzT-KfCRYqCD54wA); [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT?si=G9lq4e-dRl23_uxZsvE5zg)
 * Stereolab, [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs?si=MclISGSAT5uxiVhoVxukKQ)
 * Mazzy Star, [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA?si=6lQuqbJXTZOq-k9QlrCgoA); [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE?si=yfZ0PZiaSI6JOzvsDn-WxA)
 * Sigur Rós, [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC?si=5FAcYK-HQYm_Qu65GbYL9Q)
