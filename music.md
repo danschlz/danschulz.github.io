@@ -67,3 +67,4 @@ And an arbitrary list of recommended albums:
 * Pink Floyd, [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw?si=alSQ8xhZRWCg87yMVvAbhA); [Dark Side of the Moon](https://open.spotify.com/album/2xGMvroBbxek49QWF0hzpI?si=SKxEJN1TRG2MiEnwQeldQQ); [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4?si=UEGWYHpIS3mOh2LxUWm1ng); [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb?si=9pBygnvZRBGrpS0D2oVjuw)
 * King Gizzard, pretty much everything, but esp. [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy?si=HfyH44oHSlGPEjKE_5INJg)
 * Radiohead, pretty much everything, favorite song is _Where I End and You Begin_
+* The Beatles, everything
