@@ -56,7 +56,6 @@ And an arbitrary list of recommended albums:
 * GoGo Penguin, [v2.0](https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK?si=XQF8z7ZCSbG3Tr5uAriAGQ)
 * Miles Davis, [In A Silent Way](https://open.spotify.com/album/0Hs3BomCdwIWRhgT57x22T?si=aqQ7Dtb6TuiccnYNo3pRDg)
 * Tame Impala, [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?si=sIgwmICLQRSovn0_98BF_Q)
-* Chick Corea, [Return To Forever](https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc?si=lP5dv8IlSiequG3n2PDowg)
 * Mildlife, [Automatic](https://open.spotify.com/album/4l8HTiPwY1GrY3WNUNOZ8q?si=GtmNcS0CTQO7f7AJH0JrSA)
 * NEU!, [NEU!](https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH?si=8l1bgrz8SeqerE_oEb47Yw)
 * Spiritualized, [Lazer Guided Melodies](https://open.spotify.com/album/0kfT6lwFmXyepSvoItP4sa?si=L3fGsVBrQtOLA3hqaaCJKw)
@@ -65,5 +64,6 @@ And an arbitrary list of recommended albums:
 * The Strokes, [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN?si=FhwkCCr3RoWn9qd5tf2NQg)
 * Interpol, [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG?si=fFiVIgGzQhaDAmUgKtdf_Q)
 * Animal Collective, [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq?si=ywEO2GNURA68H93sefc9-Q)
+* Pink Floyd, [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw?si=alSQ8xhZRWCg87yMVvAbhA); [Dark Side of the Moon](https://open.spotify.com/album/2xGMvroBbxek49QWF0hzpI?si=SKxEJN1TRG2MiEnwQeldQQ); [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4?si=UEGWYHpIS3mOh2LxUWm1ng); [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb?si=9pBygnvZRBGrpS0D2oVjuw)
 * King Gizzard, pretty much everything, but esp. [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy?si=HfyH44oHSlGPEjKE_5INJg)
 * Radiohead, pretty much everything, favorite song is _Where I End and You Begin_
