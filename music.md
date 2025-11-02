@@ -32,6 +32,7 @@ And an arbitrary list of recommended albums:
 * Hot Natured, [Different Sides of the Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6?si=dGUh-M_LRGGieFdrpSUjiw)
 * The Avalanches, [Since I Left You](https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO?si=_xsm0mSsQKmtAroQu_hb_A); [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1?si=Z1Ueu7FuQh2zqGZzhpOyBQ)
 * Against All Logic, [2012 - 2017](https://open.spotify.com/album/6L2xSRFqrdj9zBwh2cM0TF?si=ZW7IwG81S3yz5PnFl_DlFQ)
+* Nicolas Jaar, Space Is The Only Noise; Sirens
 * Burial, [Untrue](https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK?si=RE1loMcIRaOV0AuNiebitw)
 * Jamie XX, [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ?si=7hBtvLdWQ6-mXVZNHJSn-Q); [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP?si=abvrdZBoSYSEYUw8zQcpxQ)
 * Talk Talk, [Spirit of Eden](https://open.spotify.com/album/4YXo7p7aubyVIbNLoVlBp9?si=xZH9xP2nRMe8bhPFoUaRlA); [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79?si=lBuW4khnSCegBw-oSMZD5g)
