@@ -25,7 +25,6 @@ I recently started logging albums as I listen on [Rate Your Music](https://ratey
 * [Reruns](https://open.spotify.com/playlist/1aBExd90ioxHqzRrfs4Dhr?si=09ff1a7fe5ac4099)
 * [Black Friday](https://open.spotify.com/playlist/7qBWDMAKsbP9sitdpWBzeE?si=68cb17dc83094e20)
 * [EZ tunes](https://open.spotify.com/playlist/3RrtgMpUXX7FK67VDhUNqr?si=cdcdf07474a7408d)
-* [Dixon's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWZMAcZLI8XCI?si=9e0600ef50ad4e90)
 
 And an arbitrary list of recommended albums:
 
@@ -37,10 +36,7 @@ And an arbitrary list of recommended albums:
 * Jamie XX, [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ?si=7hBtvLdWQ6-mXVZNHJSn-Q); [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP?si=abvrdZBoSYSEYUw8zQcpxQ)
 * Talk Talk, [Spirit of Eden](https://open.spotify.com/album/4YXo7p7aubyVIbNLoVlBp9?si=xZH9xP2nRMe8bhPFoUaRlA); [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79?si=lBuW4khnSCegBw-oSMZD5g)
 * Cortex, [Troupeau Bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB?si=lKec-6d_S0GOyFTpN_urKQ)
-* Air, [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a?si=Wxu3kAMFTl2SnQhi1Cq3Ig); [Talkie Walkie](https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363?si=26DFw_sTTr2pk_lyDU2NDQ)
 * Massive Attack, [Blue Lines](https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf?si=zruaxO47Sk6bYadd87SyjA); [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC?si=C88swgIUReKUGpykIwa0Vg); [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=g2lupl1yT0O0kF4usn3BuQ)
-* Sigur Rós, [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC?si=5FAcYK-HQYm_Qu65GbYL9Q)
 * Jeff Buckley, [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS?si=o24VwKSTR0GmP9tvD9fD2w) esp. _Dream Brother_
 * Anish Kumar, [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g?si=ZvaCg58ySAuO9HvGMWJz_g)
-* David Bowie, [Low](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na?si=XGLbYyrOTsiPUOUtHKa03g)
 * Fishmans, [Uchū Nippon Setagaya](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy?si=SZ0qUyEjTkC4IBDfatPOeA); [Long Season](https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ?si=GUQVQ6VfT_mW8oIxpwlN8w)
