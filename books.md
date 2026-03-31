@@ -74,6 +74,7 @@ Jump to:
 - Anderson, _Lawrence in Arabia_
 - Hoffman, _The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy_
 - Higgs, _Stranger Than We Can Imagine: Making Sense of the Twentieth Century_
+- Hamilton, _Mythology_
 
 **Philosophy** <a name="philosophy"></a>
 - Nietzsche  
@@ -96,12 +97,15 @@ Jump to:
 
 **Biography / Memoir** <a name="biography"></a>
 - Zweig, _The World of Yesterday_
+- White, _Marcel Proust_
 - Orwell, _Homage to Catalonia_
 - Sledge, _With the Old Breed: At Peleliu and Okinawa_
 - Coram, _Boyd_
 - Murakami, _What I Talk About When I Talk About Running_
 - Moser, _Sontag: Her Life and Work_
 - Smith, _Just Kids_
+- Glass, _Words Without Music: A Memoir_
+- Herzon, _Every Man for Himself and God Against All: A Memoir_
 
 **Tech History** <a name="svalley"></a>
 - Mallaby, _The Power Law_
@@ -148,7 +152,7 @@ Jump to:
 - Pynchon
   - _V._
   - _The Crying of Lot 49_
-- Proust, _In Search of Lost Time, Volume I & II_
+- Proust, _In Search of Lost Time, Volumes I, II, III
 - Tolstoy
   - _Anna Karenina_
   - _The Death of Ivan Ilych_
@@ -221,6 +225,7 @@ Jump to:
 - Steinbeck, _East of Eden_
 - Balle, _On the Calculation of Volume I_
 - Kavan, _Ice_
+- Rilke, _The Notebooks of Malte Laurids Brigge_
 - Moshfegh, _My Year of Rest and Relaxation_
 - Ernaux, _The Years_
 - Lispector, _The Hour of the Star_
@@ -272,6 +277,7 @@ Jump to:
 **China** <a name="china"></a>
 - Bougon, _Inside the Mind of Xi Jinping_
 - McGregor, _The Party_
+- Wang, _Breakneck: China's Quest to Engineer the Future_
 - Kroeber, _China's Economy: What Everyone Needs to Know_
 - Lovell, _Maoism: A Global History_
 - Studwell, _How Asia Works_
@@ -298,6 +304,7 @@ Jump to:
 **Ideas, Broadly** <a name="ideas"></a>
 - Bayles, _Art and Fear_
 - Johnstone, _Impro_
+- Postman, _Amusing Ourselves to Death: Public Discourse in the Age of Show Business_
 - Taleb, _Incerto_
 - Carse, _Finite and Infinite Games_
 - Gray, _Straw Dogs_
@@ -309,6 +316,7 @@ Jump to:
 
 **Art** <a name="art"></a>
 - Gombrich, _The Story of Art_
+- Van Gogh, _The Letters of Vincent van Gogh_
 - Moser, _The Upside-Down World: Meetings with the Dutch Masters_
 - Knausgaard, _So Much Longing in So Little Space: The Art of Edvard Munch_
 - Sylvester, _Interviews with Francis Bacon_
@@ -330,6 +338,9 @@ Jump to:
 
 **Essays** <a name="essays"></a>
 - Rilke, _Letters to a Young Poet_
+- Knausgaard
+  - _In the Land of the Cyclops: Essays_
+  - _Inadvertent_
 - Hickey, _Air Guitar: Essays on Art and Democracy_
 - Wallace, _Consider the Lobster_
 - Didion, _Slouching Towards Bethlehem_
@@ -338,6 +349,7 @@ Jump to:
 - Roosevelt, _Citizenship in a Republic_
 - Baldwin, _The Fire Next Time_
 - Tanizaki, _In Praise of Shadows_
+- Lewis, _The Abolition of Man_
 
 **Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
