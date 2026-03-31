@@ -152,7 +152,7 @@ Jump to:
 - Pynchon
   - _V._
   - _The Crying of Lot 49_
-- Proust, _In Search of Lost Time, Volumes I, II, III
+- Proust, _In Search of Lost Time, Volumes I, II, III_
 - Tolstoy
   - _Anna Karenina_
   - _The Death of Ivan Ilych_
