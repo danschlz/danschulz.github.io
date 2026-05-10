@@ -105,7 +105,7 @@ Jump to:
 - Moser, _Sontag: Her Life and Work_
 - Smith, _Just Kids_
 - Glass, _Words Without Music: A Memoir_
-- Herzon, _Every Man for Himself and God Against All: A Memoir_
+- Herzog, _Every Man for Himself and God Against All: A Memoir_
 
 **Tech History** <a name="svalley"></a>
 - Mallaby, _The Power Law_
