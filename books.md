@@ -48,11 +48,13 @@ Jump to:
 - Barzun, _From Dawn to Decadence: 500 Years of Western Cultural Life, 1500 to the Present_
 - Gibbon, _The History of the Decline and Fall of the Roman Empire_
 - Durant
-  - _The Age of Louis XIV: The Story of Civilization, Volume VIII_
+  - _Caesar and Christ: The Story of Civilization, Vol III_
+  - _The Age of Louis XIV: The Story of Civilization, Vol VIII_
   - _The Lessons of History_
 - Ward-Perkins, _The Fall of Rome_
 - Caesar, _The Civil War_
 - Goldsworthy, _Caesar: Life of a Colossus_
+- Holland, _Rubicon: The Last Years of the Roman Republic_
 - Liddell Hart
   - _Scipio Africanus: Greater than Napoleon_
   - _Why Don't We Learn from History?_
