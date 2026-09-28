@@ -45,6 +45,7 @@ Jump to:
 - Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
 **History** <a name="history"></a>
+- Herodotus, _The Histories_
 - Barzun, _From Dawn to Decadence: 500 Years of Western Cultural Life, 1500 to the Present_
 - Gibbon, _The History of the Decline and Fall of the Roman Empire_
 - Durant
@@ -83,7 +84,9 @@ Jump to:
   - _Twilight of the Idols_  
   - _Ecce Homo_  
 - Mencken, _The Philosophy of Friedrich Nietzsche_
+- Plato, _Euthyphro_; _Apology_; _Crito_
 - La Rochefoucauld, _Collected Maxims and Other Reflections_
+- James, _The Varieties of Religious Experience_
 - Hofstadter, _Godel, Escher, Bach_
 - Palaver, _Rene Girard's Mimetic Theory_
 - Popper  
@@ -118,6 +121,7 @@ Jump to:
 - Reid, _The Chip_
 - Kidder, _The Soul of a New Machine_
 - Berlin, _Troublemakers_
+- Miller, _Chip War_
 - Stone
   - _The Everything Store_
   - _Amazon Unbound_
@@ -236,13 +240,16 @@ Jump to:
 - Salinger, _The Catcher in the Rye_
 - Hrabal, _Too Loud a Solitude_
 - Mandel, _Station Eleven_
-- Sophocles, _Oedipus the King_
+- Aeschylus, _The Oresteia_; _Persians_; _Prometheus Bound_
+- Sophocles, _Oedipus the King_; _Antigone_
+- Shakespeare, _Macbeth_; _King Lear_; _Henry IV, Part 1_
 
 **Poetry** <a name="poetry"></a>
-- Dante, _Inferno_
+- Homer, _The Iliad_; _The Odyssey_
+- Shakespeare, _Sonnets_
+- Dante, _Inferno_  
 - Eliot, _The Wasteland and Other Poems_
 - Baudelaire, _The Flowers of Evil_
-- Homer
 
 **Science Fiction** <a name="scifi"></a>
 - Chiang
