@@ -241,13 +241,15 @@ Jump to:
 - Hrabal, _Too Loud a Solitude_
 - Mandel, _Station Eleven_
 - Aeschylus, _The Oresteia_; _Persians_; _Prometheus Bound_
-- Sophocles, _Oedipus the King_; _Antigone_
-- Shakespeare, _Macbeth_; _King Lear_; _Henry IV, Part 1_
+- Sophocles, _Oedipus the King_; ; _Oedipus at Colonus_; _Antigone_; _Electra_
+- Euripides, _Alcestis_; _Medea_
+- Shakespeare, _Macbeth_; _King Lear_; _Henry IV_; _Twelfth Night_; _The Taming of the Shrew_
 
 **Poetry** <a name="poetry"></a>
 - Homer, _The Iliad_; _The Odyssey_
 - Shakespeare, _Sonnets_
-- Dante, _Inferno_  
+- Dante, _Inferno_
+- Cavafy, _Collected Poems_
 - Eliot, _The Wasteland and Other Poems_
 - Baudelaire, _The Flowers of Evil_
 
