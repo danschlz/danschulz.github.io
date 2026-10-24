@@ -3,6 +3,15 @@ layout: page
 title: Bookshelf
 permalink: /books/
 ---
+Reading has given me quite a few happy memories. 
+
+- Homer, _The Iliad_
+  - I'd read and enjoyed _The Iliad_ several years ago but didn't fully appreciate it. When Christopher Nolan's Odyssey came out in 2026, I picked up Lombardo's translation before seeing the movie. To make sure I really got it, I listened to Elizabeth Vandiver's Great Courses lecture series alongside. The context around what Homer meant to the Greek people and the alien morality made for a great read. Doing the same with _The Iliad_ (this time in the Fagles translation) was an even greater experience and it's hard to overstate how much I missed in the first reading. I expect to read this many more times in my life.
+- Herodotus, _The Histories_
+  - Vandiver's Homer courses were such a great experience I decided to keep going with Herodotus. It's astonishing to me that this book exists. Herodotus is at the top of my list of dead people I'd want to have dinner with. Part travelogue, part gossip, one of the most curious minds in history writing what he heard others believed to be true about the ancient world. You're never sure what to believe but modern archaeology seems to be vindicating more than we'd expect. The notes and commentary in the Landmark Edition were essential - much would have been lost in a text-only edition.
+- Bolano, _2666_ and _The Savage Detectives_
+  - Bolano gives me the same feeling as watching David Lynch. Anxiety hiding in the background and the feeling that something isn't quite right. Probably my favorite novelist. 
+
 I love stumbling on [other people's reading lists](#otherlists), so this is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 Jump to:
