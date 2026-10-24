@@ -6,15 +6,16 @@ permalink: /books/
 I love stumbling on [other people's reading lists](#otherlists), so this is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 Jump to:
-* [Economics](#economics)
 * [History](#history)
 * [Philosophy](#philosophy)
-* [Biography / Memoir](#biography)
-* [Tech History](#svalley)
-* [Business History](#bhistory)
 * [Fiction](#fiction)
 * [Poetry](#poetry)
 * [Drama](#drama)
+* [Essays](#essays)
+* [Biography / Memoir](#biography)
+* [Economics](#economics)
+* [Tech History](#svalley)
+* [Business History](#bhistory)
 * [Science Fiction](#scifi)
 * [Science / Physics](#science)
 * [Biology / Anthropology](#biology)
@@ -25,25 +26,9 @@ Jump to:
 * [Art](#art)
 * [Music](#music)
 * [Film](#film)
-* [Essays](#essays)
 * [Investing](#investing)
 * [Writing](#writing)
 * [Other reading lists](#otherlists)
-
-**Economics** <a name="economics"></a>
-- Schumpeter, _Capitalism, Socialism, and Democracy_
-- Davidson, _The Sovereign Individual_
-- Heilbroner, _The Worldly Philosophers_
-- Warsh, _Knowledge and the Wealth of Nations_
-- Haskel and Westlake, _Capitalism without Capital_
-- Helland and Tabarrok, _Why Are The Prices So Damn High?_
-- Cowen
-  - _In Praise of Commercial Culture_
-  - _The Great Stagnation_
-  - _The Complacent Class_
-- Coyle, _GDP: A Brief but Affectionate History_
-- Landsburg, _The Armchair Economist_
-- Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
 
 **History** <a name="history"></a>
 - Herodotus, _The Histories_
@@ -100,51 +85,6 @@ Jump to:
 - Wilde, _Miscellaneous Aphorisms; The Soul of Man_
 - Durant, _The Story of Philosophy_
 - Dennett, _Intuition Pumps_
-
-**Biography / Memoir** <a name="biography"></a>
-- Zweig, _The World of Yesterday_
-- White, _Marcel Proust_
-- Orwell, _Homage to Catalonia_
-- Sledge, _With the Old Breed: At Peleliu and Okinawa_
-- Coram, _Boyd_
-- Murakami, _What I Talk About When I Talk About Running_
-- Moser, _Sontag: Her Life and Work_
-- Smith, _Just Kids_
-- Glass, _Words Without Music: A Memoir_
-- Herzog, _Every Man for Himself and God Against All: A Memoir_
-
-**Tech History** <a name="svalley"></a>
-- Mallaby, _The Power Law_
-- Soni
-  - _A Mind at Play: How Claude Shannon Invented the Information Age_
-  - _The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley_
-- Waldrop, _The Dream Machine_
-- Reid, _The Chip_
-- Kidder, _The Soul of a New Machine_
-- Berlin, _Troublemakers_
-- Miller, _Chip War_
-- Stone
-  - _The Everything Store_
-  - _Amazon Unbound_
-- Stross, _eBoys: The First Inside Account of Venture Capitalists at Work_
-- Slootman, _Tape Sucks_
-- Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
-
-**Business History** <a name="bhistory"></a>
-- Chernow, _Titan, The Life of John D. Rockefeller_
-- Morris, _The Tycoons_
-- Herman, _Freedom's Forge_
-- Ferguson, _The Ascent of Money_
-- Thorndike Jr., _The Outsiders_
-- Thorp, _A Man for All Markets_
-- Burrough, _Barbarians at the Gate_
-- Rich and Janos, _Skunk Works_
-- Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
-- Levy, _To Pixar and Beyond_
-- Coulombe, _Becoming Trader Joe_
-- Wright, _Billion Dollar Whale_
-- Cohen, _The Fish that Ate the Whale_
-- Knight, _Shoe Dog_
 
 **Fiction** <a name="fiction"></a>
 - Pessoa, _The Book of Disquiet_
@@ -256,6 +196,81 @@ Jump to:
 - Euripides, _Alcestis_; _Medea_
 - Shakespeare, _Macbeth_; _King Lear_; _Henry IV_; _Twelfth Night_; _The Taming of the Shrew_; _Measure for Measure_
 
+**Essays** <a name="essays"></a>
+- Rilke, _Letters to a Young Poet_
+- Knausgaard
+  - _In the Land of the Cyclops: Essays_
+  - _Inadvertent_
+- Hickey, _Air Guitar: Essays on Art and Democracy_
+- Wallace, _Consider the Lobster_
+- Didion, _Slouching Towards Bethlehem_
+- Houellebecq, _H. P. Lovecraft: Against the World, Against Life_
+- Tolstoy, _A Confession_
+- Roosevelt, _Citizenship in a Republic_
+- Baldwin, _The Fire Next Time_
+- Tanizaki, _In Praise of Shadows_
+- Lewis, _The Abolition of Man_
+
+**Biography / Memoir** <a name="biography"></a>
+- Zweig, _The World of Yesterday_
+- White, _Marcel Proust_
+- Orwell, _Homage to Catalonia_
+- Sledge, _With the Old Breed: At Peleliu and Okinawa_
+- Coram, _Boyd_
+- Murakami, _What I Talk About When I Talk About Running_
+- Moser, _Sontag: Her Life and Work_
+- Smith, _Just Kids_
+- Glass, _Words Without Music: A Memoir_
+- Herzog, _Every Man for Himself and God Against All: A Memoir_
+
+**Economics** <a name="economics"></a>
+- Schumpeter, _Capitalism, Socialism, and Democracy_
+- Davidson, _The Sovereign Individual_
+- Heilbroner, _The Worldly Philosophers_
+- Warsh, _Knowledge and the Wealth of Nations_
+- Haskel and Westlake, _Capitalism without Capital_
+- Helland and Tabarrok, _Why Are The Prices So Damn High?_
+- Cowen
+  - _In Praise of Commercial Culture_
+  - _The Great Stagnation_
+  - _The Complacent Class_
+- Coyle, _GDP: A Brief but Affectionate History_
+- Landsburg, _The Armchair Economist_
+- Mallaby, _The Man Who Knew: The Life and Times of Alan Greenspan_
+
+**Tech History** <a name="svalley"></a>
+- Mallaby, _The Power Law_
+- Soni
+  - _A Mind at Play: How Claude Shannon Invented the Information Age_
+  - _The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley_
+- Waldrop, _The Dream Machine_
+- Reid, _The Chip_
+- Kidder, _The Soul of a New Machine_
+- Berlin, _Troublemakers_
+- Miller, _Chip War_
+- Stone
+  - _The Everything Store_
+  - _Amazon Unbound_
+- Stross, _eBoys: The First Inside Account of Venture Capitalists at Work_
+- Slootman, _Tape Sucks_
+- Bryar & Carr, _Working Backwards: Insights, Stories, and Secrets from Inside Amazon_
+
+**Business History** <a name="bhistory"></a>
+- Chernow, _Titan, The Life of John D. Rockefeller_
+- Morris, _The Tycoons_
+- Herman, _Freedom's Forge_
+- Ferguson, _The Ascent of Money_
+- Thorndike Jr., _The Outsiders_
+- Thorp, _A Man for All Markets_
+- Burrough, _Barbarians at the Gate_
+- Rich and Janos, _Skunk Works_
+- Hoffman, _American Icon: Alan Mulally and the Fight to Save Ford Motor Company_
+- Levy, _To Pixar and Beyond_
+- Coulombe, _Becoming Trader Joe_
+- Wright, _Billion Dollar Whale_
+- Cohen, _The Fish that Ate the Whale_
+- Knight, _Shoe Dog_
+
 **Science Fiction** <a name="scifi"></a>
 - Chiang
   - _Stories of Your Life and Others_
@@ -350,21 +365,6 @@ Jump to:
 - Tarkovsky, _Sculpting in Time_
 - Dyer, _Zona: A Book About a Film About a Journey to a Room_
 - Harris, _Pictures at a Revolution: Five Movies and the Birth of the New Hollywood_
-
-**Essays** <a name="essays"></a>
-- Rilke, _Letters to a Young Poet_
-- Knausgaard
-  - _In the Land of the Cyclops: Essays_
-  - _Inadvertent_
-- Hickey, _Air Guitar: Essays on Art and Democracy_
-- Wallace, _Consider the Lobster_
-- Didion, _Slouching Towards Bethlehem_
-- Houellebecq, _H. P. Lovecraft: Against the World, Against Life_
-- Tolstoy, _A Confession_
-- Roosevelt, _Citizenship in a Republic_
-- Baldwin, _The Fire Next Time_
-- Tanizaki, _In Praise of Shadows_
-- Lewis, _The Abolition of Man_
 
 **Investing** <a name="investing"></a>
 - Graham, _The Intelligent Investor_
