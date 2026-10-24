@@ -33,7 +33,6 @@ Jump to:
 **History** <a name="history"></a>
 - Herodotus, _The Histories_
 - Barzun, _From Dawn to Decadence: 500 Years of Western Cultural Life, 1500 to the Present_
-- Gibbon, _The History of the Decline and Fall of the Roman Empire_
 - Durant
   - _Caesar and Christ: The Story of Civilization, Vol III_
   - _The Age of Louis XIV: The Story of Civilization, Vol VIII_
