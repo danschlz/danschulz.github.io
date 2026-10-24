@@ -243,7 +243,7 @@ Jump to:
 - Aeschylus, _The Oresteia_; _Persians_; _Prometheus Bound_
 - Sophocles, _Oedipus the King_; ; _Oedipus at Colonus_; _Antigone_; _Electra_
 - Euripides, _Alcestis_; _Medea_
-- Shakespeare, _Macbeth_; _King Lear_; _Henry IV_; _Twelfth Night_; _The Taming of the Shrew_
+- Shakespeare, _Macbeth_; _King Lear_; _Henry IV_; _Twelfth Night_; _The Taming of the Shrew_; _Measure for Measure_
 
 **Poetry** <a name="poetry"></a>
 - Homer, _The Iliad_; _The Odyssey_
