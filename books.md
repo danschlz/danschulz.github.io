@@ -14,6 +14,7 @@ Jump to:
 * [Business History](#bhistory)
 * [Fiction](#fiction)
 * [Poetry](#poetry)
+* [Drama](#drama)
 * [Science Fiction](#scifi)
 * [Science / Physics](#science)
 * [Biology / Anthropology](#biology)
@@ -33,7 +34,7 @@ Jump to:
 - Schumpeter, _Capitalism, Socialism, and Democracy_
 - Davidson, _The Sovereign Individual_
 - Heilbroner, _The Worldly Philosophers_
-- Warsh, _Knowlege and the Wealth of Nations_
+- Warsh, _Knowledge and the Wealth of Nations_
 - Haskel and Westlake, _Capitalism without Capital_
 - Helland and Tabarrok, _Why Are The Prices So Damn High?_
 - Cowen
@@ -98,7 +99,7 @@ Jump to:
 - Machiavelli, _The Prince_
 - Wilde, _Miscellaneous Aphorisms; The Soul of Man_
 - Durant, _The Story of Philosophy_
-- Dennett, _Intution Pumps_
+- Dennett, _Intuition Pumps_
 
 **Biography / Memoir** <a name="biography"></a>
 - Zweig, _The World of Yesterday_
@@ -189,7 +190,7 @@ Jump to:
 - Chesterton, _The Man Who Was Thursday_
 - Murakami
   - _Hard-Boiled Wonderland and the End of the World_
-  - _Norweigan Wood_
+  - _Norwegian Wood_
 - Yourcenar, _Memoirs of Hadrian_
 - Graves, _I, Claudius_
 - Moravia, _Agostino_
@@ -240,22 +241,24 @@ Jump to:
 - Salinger, _The Catcher in the Rye_
 - Hrabal, _Too Loud a Solitude_
 - Mandel, _Station Eleven_
-- Aeschylus, _The Oresteia_; _Persians_; _Prometheus Bound_
-- Sophocles, _Oedipus the King_; ; _Oedipus at Colonus_; _Antigone_; _Electra_
-- Euripides, _Alcestis_; _Medea_
-- Shakespeare, _Macbeth_; _King Lear_; _Henry IV_; _Twelfth Night_; _The Taming of the Shrew_; _Measure for Measure_
 
 **Poetry** <a name="poetry"></a>
 - Homer, _The Iliad_; _The Odyssey_
 - Shakespeare, _Sonnets_
 - Dante, _Inferno_
 - Cavafy, _Collected Poems_
-- Eliot, _The Wasteland and Other Poems_
+- Eliot, _The Waste Land and Other Poems_
 - Baudelaire, _The Flowers of Evil_
+
+**Drama** <a name="drama"></a>
+- Aeschylus, _The Oresteia_; _Persians_; _Prometheus Bound_
+- Sophocles, _Oedipus the King_; _Oedipus at Colonus_; _Antigone_; _Electra_
+- Euripides, _Alcestis_; _Medea_
+- Shakespeare, _Macbeth_; _King Lear_; _Henry IV_; _Twelfth Night_; _The Taming of the Shrew_; _Measure for Measure_
 
 **Science Fiction** <a name="scifi"></a>
 - Chiang
-  - _Stories of your Life and Others_
+  - _Stories of Your Life and Others_
   - _Exhalation_
 - Liu, _The Three-Body Problem_
 - Stephenson, _Snow Crash_
