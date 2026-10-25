@@ -25,7 +25,7 @@ The impact of reading shows up in hindsight. The books I love and what they mean
 - Zweig, _The World of Yesterday_
 	- I'm sometimes suspicious of being alive at this point in time. There's a chance this is the most consequential century in history, and I like to imagine future generations reading with fascination about what it was like to live through our times. Most books about upheaval take a macro approach, but I find individual accounts more interesting. Zweig lived through both world wars and saw the world of his youth annihilated.  
 
-I love stumbling on [other people's reading lists](#otherlists), so here is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+Beyond the highlights, here's list of many of the books I've read in recent yars. I love stumbling on [other people's reading lists](#otherlists) and link to some favorites at the bottom. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 Jump to:
 * [History](#history)
