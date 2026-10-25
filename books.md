@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /books/
 ---
-I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I got started reading Taleb, Sapiens, The Blank Slate, Predictably Irrational, and generally orbiting what some now call the Silicon Valley canon. The more I read, the more I came across recommendations that pushed outside that narrow circle, and I got more interested in fiction. Houellebecq's Submission opened a new world for me, and I still remember reading it in the waiting room of a dental office in San Francisco. It changed reading from something I did to improve my capabilities into something I do to understand myself and the world. 
+I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I got started reading _Taleb_, _Sapiens_, _The Blank Slate_, _Predictably Irrational_, and generally orbiting what some now call the Silicon Valley canon. The more I read, the more I came across recommendations that pushed outside that narrow circle, and I got more interested in fiction. Houellebecq's Submission opened a new world for me, and I still remember reading it in the waiting room of a dental office in San Francisco. It changed reading from something I did to improve my capabilities into something I do to understand myself and the world. 
 
 The impact of reading shows up in hindsight. The books I love and what they mean to me eventually become imperfect recollections. Here is what I think about when I think about my favorites:
 
@@ -21,11 +21,11 @@ The impact of reading shows up in hindsight. The books I love and what they mean
 - Nietzsche, _Twilight of the Idols_
 	- One of the first primary works of philosophy I read. I devoured it over Christmas at my parents' house by the fireplace. I haven't revisited it since, but remember underlining nearly every page.
 - Borges, _Ficciones_ and _The Aleph_
-	- When I was young I loved the 90s obsession with "what's even real," The Matrix, Fight Club, The Truman Show, etc. At some point though the novelty wore off. Borges scratches the same itch but with depth that gives the questions he asks an infinite shelf life. 
+	- When I was young I loved the 90s obsession with "what's even real": The Matrix, Fight Club, The Truman Show, etc. At some point though the novelty wore off. Borges scratches the same itch but with depth that gives the questions he asks an infinite shelf life. 
 - Zweig, _The World of Yesterday_
 	- I'm sometimes suspicious of being alive at this point in time. There's a chance this is the most consequential century in history, and I like to imagine future generations reading with fascination about what it was like to live through our times. Most books about upheaval take a macro approach, but I find individual accounts more interesting. Zweig lived through both world wars and saw the world of his youth annihilated.  
 
-Beyond the highlights, here's list of many of the books I've read in recent yars. I love stumbling on [other people's reading lists](#otherlists) and link to some favorites at the bottom. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+Beyond the highlights, here's a list of many of the books I've read in recent years. I love stumbling on [other people's reading lists](#otherlists) and link to some favorites at the bottom. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 Jump to:
 * [History](#history)
@@ -264,7 +264,7 @@ Jump to:
 - Mallaby, _The Power Law_
 - Soni
   - _A Mind at Play: How Claude Shannon Invented the Information Age_
-  - _The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley_
+  - _The Founders: The Story of PayPal and the Entrepreneurs Who Shaped Silicon Valley_
 - Waldrop, _The Dream Machine_
 - Reid, _The Chip_
 - Kidder, _The Soul of a New Machine_
