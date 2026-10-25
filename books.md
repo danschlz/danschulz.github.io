@@ -17,13 +17,13 @@ The impact of reading shows up in hindsight. The books I love and what they mean
 - Proust, _In Search of Lost Time_
 	- No other book so closely captures what it's like to be alive. Delicious prose on status, social hierarchy, jealousy, deception, memory, and art as the answer to it all.
 - Díaz del Castillo, _The Conquest of New Spain_
-	- Taught me the value of going straight to the source in matters of history. Surprisingly balanced and sympathetic first hand account of Europe's clash with the New World. 
+	- Taught me the value of going straight to the source in matters of history. Surprisingly balanced and sympathetic firsthand account of Europe's clash with the New World. 
 - Nietzsche, _Twilight of the Idols_
 	- One of the first primary works of philosophy I read. I devoured it over Christmas at my parents' house by the fireplace. I haven't revisited it since, but remember underlining nearly every page.
 - Borges, _Ficciones_ and _The Aleph_
 	- When I was young I loved the 90s obsession with "what's even real," The Matrix, Fight Club, The Truman Show, etc. At some point though the novelty wore off. Borges scratches the same itch but with depth that gives the questions he asks an infinite shelf life. 
 - Zweig, _The World of Yesterday_
-	- I'm sometimes suspicious of being alive at this point in time and am fascinated by how rapid change is now a fact of life. Zweig lived through both world wars and saw the world of his youth annihilated. Most books about the impact of chaotic times on human life take a macro approach, but I find individual accounts more interesting. Zweig and his wife committed suicide the day after he mailed the book's manuscript to his publisher.  
+	- I'm sometimes suspicious of being alive at this point in time. There's a chance this is the most consequential century in history, and I like to imagine future generations reading with fascination about what it was like to live through our times. Most books about upheaval take a macro approach, but I find individual accounts more interesting. Zweig lived through both world wars and saw the world of his youth annihilated.  
 
 I love stumbling on [other people's reading lists](#otherlists), so here is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
