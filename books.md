@@ -3,7 +3,7 @@ layout: page
 title: Bookshelf
 permalink: /books/
 ---
-I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I remember reading Taleb, Sapiens, The Blank Slate, Predictably Irrational, and generally orbited what some now call the Silicon Valley canon. The more I read, the more I came across recommendations that pushed outside that narrow circle, and I got more interested in fiction. Houellebecq's Submission opened a new world for me, and I still remember reading it in the waiting room of a dental office in San Francisco. It changed reading from something I did to improve my capabilities into something I do to understand myself and the world. 
+I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I got started reading Taleb, Sapiens, The Blank Slate, Predictably Irrational, and generally orbiting what some now call the Silicon Valley canon. The more I read, the more I came across recommendations that pushed outside that narrow circle, and I got more interested in fiction. Houellebecq's Submission opened a new world for me, and I still remember reading it in the waiting room of a dental office in San Francisco. It changed reading from something I did to improve my capabilities into something I do to understand myself and the world. 
 
 The impact of reading shows up in hindsight. The books I love and what they mean to me eventually become imperfect recollections. Here is what I think about when I think about my favorites:
 
