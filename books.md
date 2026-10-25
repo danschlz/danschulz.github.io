@@ -15,7 +15,7 @@ The impact of reading shows up in hindsight. The books I love and what they mean
 	- The middle part of _The Savage Detectives_ is a series of interviews with people who had varying degrees of interaction with the protagonists. It made me reflect on what it means to view your life through the lens of other people. You can be a hero in someone's life, a vague memory they think about every few years, or a monster who's inflicted deep pain. Which of these are you? 
 	- I recall an ambient background anxiety in _2666_ that gave me the same feeling as watching a David Lynch film.
 - Proust, _In Search of Lost Time_
-	- No other book so closely captures what it's like to be alive. Genius observations on status, social hierarchy, jealousy, deception, memory, and art as the answer to it all.
+	- No other book so closely captures what it's like to be alive. Delicious prose on status, social hierarchy, jealousy, deception, memory, and art as the answer to it all.
 - Díaz del Castillo, _The Conquest of New Spain_
 	- Taught me the value of going straight to the source in matters of history. Surprisingly balanced and sympathetic first hand account of Europe's clash with the New World. 
 - Nietzsche, _Twilight of the Idols_
