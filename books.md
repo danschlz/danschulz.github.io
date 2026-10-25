@@ -3,16 +3,29 @@ layout: page
 title: Bookshelf
 permalink: /books/
 ---
-Reading has given me quite a few happy memories. 
+I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I remember reading Taleb, Sapiens, The Blank Slate, Predictably Irrational, and generally orbited what some now call the Silicon Valley canon. The more I read, the more recommendations I came across that pushed outside that narrow circle, and I got more interested in fiction. Houellebecq's Submission opened a new world for me, and I still remember reading it in the waiting room of a dental office in San Francisco. It wasn't the first literary fiction book I'd read by any means, but it changed reading from something I did to improve my capabilities into something I do to understand myself and the world. 
+
+You'd think the important part of reading is the moment with your eyes on the page, but to me the impact shows up in hindsight. The books I love and what they mean to me eventually become imperfect recollections. Here is what I think about when I think about my favorites:
 
 - Homer, _The Iliad_
-  - I'd read and enjoyed _The Iliad_ several years ago but didn't fully appreciate it. When Christopher Nolan's Odyssey came out in 2026, I picked up Lombardo's translation before seeing the movie. To make sure I really got it, I listened to Elizabeth Vandiver's Great Courses lecture series alongside. The context around what Homer meant to the Greek people and the alien morality made for a great read. Doing the same with _The Iliad_ (this time in the Fagles translation) was an even greater experience and it's hard to overstate how much I missed in the first reading. I expect to read this many more times in my life.
+	- I enjoyed _The Iliad_ on a first read but didn't fully appreciate it. When Christopher Nolan's Odyssey came out in 2026, I picked up Lombardo's translation before seeing the movie. To make sure I really got it, I listened to Elizabeth Vandiver's Great Courses lecture series alongside. Understanding what Homer meant to the Greek people, and the alien morality they lived by, changed everything. Right after, I re-read _The Iliad_ (this time in the Fagles translation) with Vandiver's course and fell in love. Honor, glory, force, the lack of modern good vs. evil, Achilles weeping with Hector's father - I hope to read this over and over again throughout my life. 
 - Herodotus, _The Histories_
-  - Vandiver's Homer courses were such a great experience I decided to keep going with Herodotus. It's astonishing to me that this book exists. Herodotus is at the top of my list of dead people I'd want to have dinner with. Part travelogue, part gossip, one of the most curious minds in history writing what he heard others believed to be true about the ancient world. You're never sure what to believe but modern archaeology seems to be vindicating more than we'd expect. The notes and commentary in the Landmark Edition were essential - much would have been lost in a text-only edition.
-- Bolano, _2666_ and _The Savage Detectives_
-  - Bolano gives me the same feeling as watching David Lynch. Anxiety hiding in the background and the feeling that something isn't quite right. Probably my favorite novelist. 
+	- It's astonishing to me that this book exists. Herodotus is at the top of my list of dead people I'd want to take out to dinner. With relentless curiosity, he traveled widely in the ancient world, and while _The Histories_ is considered the first work of history, much of what he appears to be doing is recording gossip. I loved the Egyptian and Scythian ethnographies, and his digressions are every bit as good as the narrative details of the Persian Wars. The notes and commentary in the Landmark Edition were essential.
+- Bolaño, _2666_ and _The Savage Detectives_
+	- The middle part of _The Savage Detectives_ is a series of interviews with people who had varying degrees of interaction with the protagonists. It made me reflect on what it means to view your life through the lens of other people. You can be a hero in someone's life, a vague memory they think about every few years, or a monster who's inflicted deep pain. Which of these are you? Christopher Lasch might say this is the wrong way to ask these sorts of questions, and that understanding your life through the lives of others is the narcissism of our age.
+	- I recall an ambient background anxiety in _2666_ that gave me the same feeling as watching a David Lynch film.
+- Proust, _In Search of Lost Time_
+	- No other book so closely captures what it's like to be alive. Genius observations on status, social hierarchy, jealousy, deception, memory, and art as the answer to it all.
+- Díaz del Castillo, _The Conquest of New Spain_
+	- Taught me the value of going straight to the source in matters of history. Surprisingly balanced and sympathetic first hand account of Europe's clash with the New World. 
+- Nietzsche, _Twilight of the Idols_
+	- One of the first primary works of philosophy I read. I devoured it over Christmas at my parents' house by the fireplace. I haven't revisited it since, but remember underlining nearly every page.
+- Borges, _Ficciones_ and _The Aleph_
+	- When I was young I loved the 90s obsession with "what's even real," The Matrix, Fight Club, The Truman Show, etc. At some point though the novelty wore off. Borges scratches the same itch but with depth that gives the questions he asks an infinite shelf life. 
+- Zweig, _The World of Yesterday_
+	- I'm sometimes suspicious of being alive at this point in time and am fascinated by how rapid change is now a fact of life. Zweig lived through both world wars and saw the world of his youth annihilated. Most books about the impact of chaotic times on human life take a macro approach, but I find individual accounts more interesting. Zweig and his wife committed suicide the day after he mailed the book's manuscript to his publisher.  
 
-I love stumbling on [other people's reading lists](#otherlists), so this is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
+I love stumbling on [other people's reading lists](#otherlists), so here is a list of many of the books I've read in recent years. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
 Jump to:
 * [History](#history)
@@ -107,7 +120,7 @@ Jump to:
 - Pynchon
   - _V._
   - _The Crying of Lot 49_
-- Proust, _In Search of Lost Time, Volumes I, II, III_
+- Proust, _In Search of Lost Time, Volumes I, II, III, IV_
 - Tolstoy
   - _Anna Karenina_
   - _The Death of Ivan Ilych_
@@ -117,7 +130,7 @@ Jump to:
   - _The Elementary Particles_
   - _Whatever_
 - Ferrante, _The Neapolitan Novels_
-- Knausgaard, _My Struggle Books I, II, & III_
+- Knausgaard, _My Struggle Books I, II, III_
 - Sebald
   - _Austerlitz_
   - _The Rings of Saturn_
@@ -209,6 +222,7 @@ Jump to:
 - Knausgaard
   - _In the Land of the Cyclops: Essays_
   - _Inadvertent_
+- Weil, _War and the Iliad_
 - Hickey, _Air Guitar: Essays on Art and Democracy_
 - Wallace, _Consider the Lobster_
 - Didion, _Slouching Towards Bethlehem_
