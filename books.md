@@ -4,22 +4,22 @@ title: Bookshelf
 permalink: /books/
 ---
 
-I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I started with Taleb, _Sapiens_, _The Blank Slate_, _Predictably Irrational_, and generally orbited what some now call the Silicon Valley canon. The more I read, the more I came across recommendations that pushed outside that circle, and I found myself reading Houellebecq's _Submission_ in the waiting room of a dental office in San Francisco. I can't say for sure that's the book that did it for me, but for whatever reason that memory marks when reading changed from something I did to improve my capabilities into something I do to understand myself and the world. 
+I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I started with Taleb, _Sapiens_, _The Blank Slate_, _Predictably Irrational_, and generally orbited what some now call the Silicon Valley canon. The more I read, the more I wandered outside that circle, and I found myself reading Houellebecq's _Submission_ in the waiting room of a dental office in San Francisco. I can't say for sure that's the book that did it for me, but for whatever reason that memory marks when reading changed from something I did to improve my capabilities into something I do to understand myself and the world.
 
 I can never quite tell whether a book will stick with me until some time has passed. The best ones sneak up on me, and one day I notice how much real estate they have in my head. Here's some of what I think about when I think about my favorites:
 
 Homer, _The Iliad_
-- I enjoyed _The Iliad_ on a first read but didn't fully appreciate it. When Christopher Nolan's Odyssey came out in 2026, I picked up Lombardo's translation before seeing the movie. To make sure I really got it, I listened to Elizabeth Vandiver's Great Courses lecture series alongside. Understanding what Homer meant to the Greek people, and the alien morality they lived by, changed everything. Right after, I re-read _The Iliad_ (this time in the Fagles translation) with Vandiver's course and fell in love. Honor, glory, force, the lack of modern good vs. evil, Achilles weeping with Hector's father - I hope to read this over and over again throughout my life. 
+- I enjoyed _The Iliad_ on a first read but didn't fully appreciate it. When Christopher Nolan's Odyssey came out in 2026, I picked up Lombardo's translation of the book before seeing the movie. To make sure I really got it, I listened to Elizabeth Vandiver's Great Courses lecture series alongside it. Understanding what Homer meant to the Greek people and the alien morality they lived by was essential background. I was hooked. Right after, I re-read _The Iliad_ (this time in the Fagles translation) with Vandiver's course and fell in love. Honor, glory, force, the absence of modern good vs. evil, Achilles weeping with Priam - I hope to read Homer over and over again throughout my life. 
 
 Herodotus, _The Histories_
-- It's astonishing to me that this book exists. Herodotus is at the top of my list of dead people I'd want to take out to dinner. With relentless curiosity, he traveled widely in the ancient world, and while _The Histories_ is considered the first work of history, much of what he appears to be doing is recording gossip. I loved the Egyptian and Scythian ethnographies, and his digressions are every bit as good as the narrative details of the Persian Wars. The notes and commentary in the Landmark Edition were essential, and Vandiver again has superb lectures. 
+- It's astonishing to me that this book exists. Herodotus is at the top of my list of dead people I'd want to take out to dinner. He traveled widely in the ancient world with relentless curiosity, and while _The Histories_ is considered the first work of history, much of what he appears to be doing is recording gossip. I loved the Egyptian and Scythian ethnographies, and his digressions are every bit as good as his account of the Persian Wars. The notes and commentary in the Landmark Edition were essential, and Vandiver again has superb lectures.
 
 Bolaño, _2666_ and _The Savage Detectives_
-- The middle part of _The Savage Detectives_ is a series of interviews with people who had varying degrees of interaction with the protagonists. It made me reflect on what it means to view your life through the lens of other people. You can be a hero in someone's life, a vague memory they think about every few years, or a monster who's inflicted deep pain. Which of these are you? 
+- The middle part of _The Savage Detectives_ is a series of interviews with people who crossed paths with the protagonists. It made me reflect on what it means to view your life through the lens of other people. You can be a hero in someone's life, a vague memory they think about every few years, or a monster who's inflicted deep pain. Which of these are you - all three or none at all?
 - I recall an ambient background anxiety in _2666_ that gave me the same feeling as watching a David Lynch film.
 
 Proust, _In Search of Lost Time_
-- No other book so closely captures what it's like to be alive. Delicious prose on status, social hierarchy, jealousy, deception, memory, and art as the answer to it all.
+- No other book so closely captures what it's like to be alive. Compulsively readable prose on status, social hierarchy, jealousy, deception, memory, and art as the answer to it all.
 
 Díaz del Castillo, _The Conquest of New Spain_
 - Taught me the value of going straight to the source in matters of history. Surprisingly balanced and sympathetic firsthand account of Europe's clash with the New World. 
@@ -28,10 +28,10 @@ Nietzsche, _Twilight of the Idols_
 - One of the first primary works of philosophy I read. I devoured it over Christmas at my parents' house by the fireplace. I haven't revisited it since, but remember underlining nearly every page.
 
 Borges, _Ficciones_ and _The Aleph_
-- When I was young I loved the 90s obsession with "what's even real": The Matrix, Fight Club, The Truman Show, etc. At some point though the novelty wore off. Borges scratches the same itch but with depth that gives the questions he asks an infinite shelf life. 
+- When I was young I loved the 90s obsession with "what's even real": The Matrix, Fight Club, The Truman Show, etc. At some point though the novelty wore off. Borges scratches the same itch, but his questions have a depth that gives them an infinite shelf life. 
 
 Zweig, _The World of Yesterday_
-- I'm sometimes suspicious of being alive at this point in time. There's a chance this is the most consequential century in history, and I like to imagine future generations reading with fascination about what it was like to live through our times. Most books about upheaval take a macro approach, but I find individual accounts more interesting. Zweig lived through both world wars and saw the world of his youth annihilated.  
+- There's a chance we are living through the most consequential century in history, and I like to imagine our descendants reading with fascination about what it was like to be there for it. Most books about upheaval take a macro approach, but I find individual accounts more interesting. Zweig lived through both world wars and saw the world of his youth annihilated.  
 
 Beyond the highlights, here's a list of many of the books I've read in recent years. I love stumbling on [other people's reading lists](#otherlists) and link to some favorites at the bottom. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
