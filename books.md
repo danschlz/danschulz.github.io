@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /books/
 ---
 
-I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I started with Taleb, _Sapiens_, _The Blank Slate_, _Predictably Irrational_, and generally orbited what some now call the Silicon Valley canon. The more I read, the more I wandered outside that circle, and I found myself reading Houellebecq's _Submission_ in the waiting room of a dental office in San Francisco. I can't say for sure that's the book that did it for me, but for whatever reason that memory marks when reading changed from something I did to improve my capabilities into something I do to understand myself and the world.
+I wasn't a big reader when I was young and didn't fall in love with books until my early 20s. I started with Taleb, _Sapiens_, _The Blank Slate_, _Predictably Irrational_, and generally orbited what some now call the Silicon Valley canon. The more I read, the more I wandered outside that circle, and I found myself reading Houellebecq's _Submission_ in the waiting room of a dental office in San Francisco. I can't say for sure that's the book that did it for me, but for whatever reason that memory marks when reading changed from something I did to improve myself into something I do to understand myself and the world.
 
 I can never quite tell whether a book will stick with me until some time has passed. The best ones sneak up on me, and one day I notice how much real estate they have in my head. Here's some of what I think about when I think about my favorites:
 
