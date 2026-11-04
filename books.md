@@ -37,7 +37,7 @@ Hofstadter, _Gödel, Escher, Bach_
 - I read this when I had some time off between jobs and remember falling asleep at night thinking about the puzzles and paradoxes it poses. A reminder that logic and abstractions can be every bit as beautiful as poetry.
 
 Ferrante, _Neapolitan Novels_
-- Lila is my favorite character in all of literature. And while not a replacement for the books, the HBO series is surprisingly good.
+- Lila is my favorite character in all of literature. The HBO adaptation is surprisingly good.
 
 Beyond the highlights, here's a list of many of the books I've read in recent years. I love stumbling on [other people's reading lists](#otherlists) and link to some favorites at the bottom. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
