@@ -16,7 +16,7 @@ Herodotus, _The Histories_
 
 Bolaño, _2666_ and _The Savage Detectives_
 - The middle part of _The Savage Detectives_ is a series of interviews with people who crossed paths with the protagonists. It made me reflect on what it means to view your life through the lens of other people. You can be a hero in someone's life, a vague memory they think about every few years, or a monster who's inflicted deep pain. Which of these are you - all three or none at all?
-- I recall an ambient background anxiety in _2666_ that gave me the same feeling as watching a David Lynch film.
+- I felt an ambient background anxiety in _2666_ that gave me the same feeling as watching a David Lynch film.
 
 Proust, _In Search of Lost Time_
 - No other book so closely captures what it's like to be alive. Compulsively readable prose on status, social hierarchy, jealousy, deception, memory, and art as the answer to it all.
@@ -31,7 +31,13 @@ Borges, _Ficciones_ and _The Aleph_
 - When I was young I loved the 90s obsession with "what's even real": The Matrix, Fight Club, The Truman Show, etc. At some point though the novelty wore off. Borges scratches the same itch, but his questions have a depth that gives them an infinite shelf life. 
 
 Zweig, _The World of Yesterday_
-- There's a chance we are living through the most consequential century in history, and I like to imagine our descendants reading with fascination about what it was like to be there for it. Most books about upheaval take a macro approach, but I find individual accounts more interesting. Zweig lived through both world wars and saw the world of his youth annihilated.  
+- There's a chance we are living through the most consequential century in history, and I like to imagine our descendants reading with fascination about what it was like to be there for it. Most books about upheaval take a macro approach, but I find individual accounts more interesting. Zweig lived through both world wars and saw the world of his youth annihilated.
+
+Hofstadter, _Gödel, Escher, Bach_
+- I read this when I had some time off between jobs and remember falling asleep at night thinking about the puzzles and paradoxes it poses. A reminder that logic and abstractions can be every bit as beautiful as poetry.
+
+Ferrante, _Neapolitan Novels_
+- Lila is my favorite character in all of literature. And while not a replacement for the books, the HBO series is surprisingly good.
 
 Beyond the highlights, here's a list of many of the books I've read in recent years. I love stumbling on [other people's reading lists](#otherlists) and link to some favorites at the bottom. I also keep a log on [Goodreads](https://www.goodreads.com/user/show/61944802-dan-schulz).
 
