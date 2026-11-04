@@ -223,7 +223,7 @@ Jump to:
 - Aeschylus, _The Oresteia_; _Persians_; _Prometheus Bound_
 - Sophocles, _Oedipus the King_; _Oedipus at Colonus_; _Antigone_; _Electra_
 - Euripides, _Alcestis_; _Medea_
-- Shakespeare, _Macbeth_; _King Lear_; _Henry IV_; _Twelfth Night_; _The Taming of the Shrew_; _Measure for Measure_
+- Shakespeare, _Macbeth_; _King Lear_; _Henry IV_; _Richard II_; _Richard III_; _Twelfth Night_; _The Taming of the Shrew_; _Measure for Measure_
 
 **Essays** <a name="essays"></a>
 - Rilke, _Letters to a Young Poet_
@@ -412,6 +412,7 @@ Jump to:
 * [Alvaro de Menard](https://fantasticanachronism.com/recommended-reading/)
 * [Dan Wang](https://danwang.co/books/)
 * [Nabeel S. Qureshi](https://nabeelqu.co/books)
+* [Ken Knabb](https://www.bopsecrets.org/gateway/index.htm)
 * [Joe Cheung](https://subcriticalappraisal.com/bookshelf/)
 * [Jsomers](http://jsomers.net/#books)
 * [Brian Eno](https://www.brainpickings.org/2014/03/03/brian-eno-reading-list/)
